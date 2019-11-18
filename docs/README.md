@@ -10,7 +10,7 @@ New entries can be submitted using these links:
 **Anime**: [https://anilist.co/edit/anime/new](https://anilist.co/edit/anime/new)  
 **Manga**: [https://anilist.co/edit/manga/new](https://anilist.co/edit/manga/new)
 
-New **Characters** and **Staff** can only be created through the anime and manga forms' [Character](#) and [Staff](#) sub-pages. This is the same whether you are submitting a new entry or editing an existing one.
+New **Characters** and **Staff** can only be created through the anime and manga forms' [Character](./submissions.html#characters) and [Staff](./submissions.html#staff) sub-pages. This is the same whether you are submitting a new entry or editing an existing one.
 
 ## Editing Entries
 
@@ -20,37 +20,37 @@ Existing staff and character entries can be edited using the edit icon button at
 
 ## Submission Approval
 
-When a user provides a submission it will undergo a review process where a moderator can approve or deny the additions and/or changes made - it is extremely helpful to provide as many [sources](#) as possible to confirm the information you want to submit.
+When a user provides a submission it will undergo a review process where a moderator can approve or deny the additions and/or changes made - it is extremely helpful to provide as many [sources](./criteria.html#sourcing) as possible to confirm the information you want to submit.
 
 ::: warning Please be aware that AniList does not handle all entries the same way that other sites do.
 Examples:  
-[Episode 0s and Prologues](#) are only placed in a standalone entry if they aired in a different format from the same series.
+[Episode 0s and Prologues](./criteria.html#episode-0’s-and-prologues) are only placed in a standalone entry if they aired in a different format from the same series.
 
-[Recap](#) episodes are not always included.
+[Recap](./criteria.html#recaps) episodes are not always included.
 
-AniList has additional [relations](#). Labeling adaptations between all formats \(anime, manga, and light novel\) is also treated the same.
+AniList has additional [relations](./submissions.html#relations). Labeling adaptations between all formats \(anime, manga, and light novel\) is also treated the same.
 :::
 
 After making a submission, you will be able to view the status of your submissions, plus receive comments and questions from any moderators working on it if required.
 
 ![Submission panel on a users&apos; profile page.](./img/user-submissions.png)
 
-If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator](#) on the [website](http://anilist.co) or on [Discord](http://discord.me/anilist).
+If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator](./#moderator-list) on the [website](http://anilist.co) or on [Discord](https://discord.gg/TF428cr).
 
 ::: tip
-It is _**highly recommended**_ that you read the both the [Checklist](#) and [Animated](#) and [Written](#) Media Specification sections prior to any submissions, or at least relevant sections within it.
+It is _**highly recommended**_ that you read the both the [Checklist](./criteria.html#checklist) and [Animated](./criteria.html#animated-media) and [Written](./criteria.html#written-media) Media Specification sections prior to any submissions, or at least relevant sections within it.
 
 The latter sections state what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
 :::
 
 ::: warning Please Remember
-This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](#).'
+This site is _**only**_ for works of Japanese, Korean, Chinese, and Taiwanese origins as specified in '[Country of Origin](./submissions.html#country-of-origin).'
 :::
 
 ## Moderator List
 
 ::: tip
-Feel free to contact a moderator for help and advice through the [website](http://anilist.co/) or on [Discord](http://discord.me/anilist) \#submission-support channel.
+Feel free to contact a moderator for help and advice through the [website](http://anilist.co/) or on [Discord](https://discord.gg/TF428cr) \#submission-support channel.
 
 However, please don't give them a title and expect them to do all the work for you.
 :::

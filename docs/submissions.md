@@ -11,7 +11,7 @@ Provide direct links to all relevant sources that were used to fill in the form,
 ![The &apos;Submission Sources &amp; Notes&apos; panel](./img/submission_source.png)
 
 ::: tip
-Please see the [Websites ](../../before-you-begin/sourcing/websites.md)section for useful sites to help you source information.
+Please see the [Websites ](./criteria.html#websites)section for useful sites to help you source information.
 :::
 
 #### Information Sourcing Example
@@ -38,17 +38,17 @@ Ensure all titles are used _**officially.**_ Do not use the native title transla
 
 #### Romaji
 
-The correct [romanization](../../before-you-begin/romanization.md) of the title is preferred over all else and is _**required.**_
+The correct [romanization](./criteria.html#romanization) of the title is preferred over all else and is _**required.**_
 
 ::: tip
-Please see the [title formatting](../../before-you-begin/title-formatting.md)section for information on how format titles.
+Please see the [title formatting](./criteria.html#title-modification)section for information on how format titles.
 :::
 
 #### English
 
 This field should only be filled in with the name given when the entry has been _**officially licensed**_ or is being _**officially streamed**_ in English.
 
-English titles written on the cover or announcement of works \(often as subheadings\) are placed in the ‘[synonym](synonyms.md)’ section, as they are not licensed titles.
+English titles written on the cover or announcement of works \(often as subheadings\) are placed in the ‘[synonym](./submissions.html#synonyms)’ section, as they are not licensed titles.
 
 ::: tip
 It is acceptable to use the English title when a work is translated into English by legal streaming or reading sites such as [TOPTOON ](https://www.toptoon.net/)\(which is a Chinese service that supplies Chinese, Korean and Japanese works in English, Chinese and Japanese\).
@@ -132,12 +132,12 @@ The date that the work is confirmed to have finished airing or finished serializ
 
 | Format | Description |
 | :--- | :--- |
-| [Manga](../../../before-you-begin/written-media-information/manga.md) | Professionally published manga with more than one chapter. |
-| [Light Novel](../../../before-you-begin/written-media-information/light-novels.md) | Light Novels. |
-| [One-Shot](../../../before-you-begin/written-media-information/one-shots.md) | Manga with just one chapter. This includes pilots for manga that were published fully afterward. |
+| [Manga](./criteria.html#manga) | Professionally published manga with more than one chapter. |
+| [Light Novel](./criteria.html#light-novels) | Light Novels. |
+| [One-Shot](./criteria.html#one-shots) | Manga with just one chapter. This includes pilots for manga that were published fully afterward. |
 
 ::: warning
-[Doujinshi](../../../before-you-begin/written-media-information/doujinshi.md), [Manhua](../../../before-you-begin/written-media-information/manhua.md), and [Manwha](../../../before-you-begin/written-media-information/manhwa.md) are not separate formats on AniList. Instead, you have to the toggle the [Self Published](../misc/self-published.md) option for doujinshi or change the [Country Of Origin](country-of-origin.md) for manhua and manwha.
+[Doujinshi](./criteria.html#doujinshi), [Manhua](./criteria.html#manhua), and [Manwha](./criteria.html#manhwa) are not separate formats on AniList. Instead, you have to the toggle the [Self Published](./submissions.html#self-published) option for doujinshi or change the [Country Of Origin](./submissions.html#country-of-origin) for manhua and manwha.
 :::
 
 ### Source
@@ -146,7 +146,7 @@ Provide the source that the work was adapted from.
 
 The available options are: _**Original, Anime, Manga, Light Novel, Novel, Doujinshi, Visual Novel, Video Game, Other.**_
 
-Like [relations](../../relations.md), sources will almost always all branch off of a single entry.
+Like [relations](./submissions.html#relations), sources will almost always all branch off of a single entry.
 
 | Source | Description |
 | :--- | :--- |
@@ -349,7 +349,7 @@ Incorrect IDs mean users using the import feature will receive an error or incor
 
 ### Self Published
 
-This is unchecked by default, and should _**only**_ be checked if the work is a [doujinshi](../../../before-you-begin/written-media-information/doujinshi.md).
+This is unchecked by default, and should _**only**_ be checked if the work is a [doujinshi](./criteria.html#doujinshi).
 
 ### Adult
 
@@ -360,7 +360,7 @@ Works that feature sexual content as plot devices or for fan service without it 
 However, other series with strong sexual content such as BL \(Boys’ Love\) and josei focused manga and anime like [Rent Boy](https://anilist.co/manga/101416) or [Skirt no Naka wa Kedamono Deshita](https://anilist.co/anime/98790) should be marked as adult. Although they don’t fit the typical western definition of hentai, the intent behind them is enough to consider them pornographic.
 
 ::: tip
-If you’re unsure whether or not a series should or should not be marked as adult, feel free to ask in the [Discord](http://discord.me/anilist) and/or ping one of the hentai moderators.
+If you’re unsure whether or not a series should or should not be marked as adult, feel free to ask in the [Discord](https://discord.gg/TF428cr) and/or ping one of the hentai moderators.
 :::
 
 ### Locked
@@ -395,7 +395,7 @@ Only official artwork or assets should be used, and the piece should be from the
 Examples of good covers can be seen at the bottom of this section.
 
 ::: tip
-Please refer to the [Image Dimensions and Templates](../../before-you-begin/image-dimensions-and-template.md) section for additional information on recommended sizes, if required..
+Please refer to the [Image Dimensions and Templates](./criteria.html#image-dimensions-and-templates) section for additional information on recommended sizes, if required..
 :::
 
 ::: warning
@@ -502,7 +502,7 @@ A suitable image to use as the header banner in the entry for the anime. As with
 The image should ideally be cropped to _1900x400px_ and either .jpg \(.jpeg\) or .png format. However .png banners will be converted to .jpg \(.jpeg\) for storage.
 
 ::: tip
-Please refer to [Image Dimensions and Templates](../../before-you-begin/image-dimensions-and-template.md), if required.
+Please refer to [Image Dimensions and Templates](./criteria.html#image-dimensions-and-templates), if required.
 :::
 
 #### Good Banners
@@ -543,11 +543,11 @@ Each character has the option to be set as a _main_, _supporting_, or _backgroun
 
 #### Given Name
 
-Their given name\(s\) in correct [romanization](../../before-you-begin/romanization.md).
+Their given name\(s\) in correct [romanization](./criteria.html#romanization).
 
 #### Surname
 
-Their surname or alias in correct [romanization](../../before-you-begin/romanization.md).
+Their surname or alias in correct [romanization](./criteria.html#romanization).
 
 #### Native Name
 
@@ -560,7 +560,7 @@ Example:
 > A lot of current entries are incorrectly written as '絵理子木村' \(ErikoKimura\), which is the wrong way round, or '木村 絵理子' \(Kimura Eriko\), which contains a space. So, if you see it, please try to correct it.
 
 ::: tip
-[Dictionary browser extensions](../../before-you-begin/sourcing/tools/rikaichan-and-rikaikun.md) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](http://discord.me/anilist).
+[Dictionary browser extensions](./criteria.html#tools) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](https://discord.gg/TF428cr).
 :::
 
 An exception to the above is when a name is natively western.
@@ -600,7 +600,7 @@ Covers should be as close a 2:3 ratio as possible.
 
 If you have to crop or create new images then 230x345px is the recommended minimum. Larger images will be downscaled to 230px width.
 
-Please refer to [Image Dimensions and Templates](../../before-you-begin/image-dimensions-and-template.md), if required.
+Please refer to [Image Dimensions and Templates](./criteria.html#image-dimensions-and-templates), if required.
 :::
 
 ::: tip
@@ -634,11 +634,11 @@ Local image upload is currently available to moderators only.
 
 #### Given Name
 
-Their given name\(s\) in correct [romanization](../../before-you-begin/romanization.md).
+Their given name\(s\) in correct [romanization](./criteria.html#romanization).
 
 #### Surname
 
-Their surname or alias in correct [romanization](../../before-you-begin/romanization.md).
+Their surname or alias in correct [romanization](./criteria.html#romanization).
 
 #### Native Name
 
@@ -651,7 +651,7 @@ Example:
 > A lot of current entries are incorrectly written as '絵理子木村' \(ErikoKimura\), which is the wrong way round, or '木村 絵理子' \(Kimura Eriko\), which contains a space. So, if you see it, please try to correct it.
 
 ::: tip
-[Dictionary browser extensions](../../before-you-begin/sourcing/tools/rikaichan-and-rikaikun.md) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](http://discord.me/anilist).
+[Dictionary browser extensions](./criteria.html#tools) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](https://discord.gg/TF428cr).
 :::
 
 An exception to the above is when a name is natively western.
@@ -684,7 +684,7 @@ Covers should be as close a 2:3 ratio as possible.
 
 If you have to crop or create new images then 230x345px is the recommended minimum. Larger images will be downscaled to 230px width.
 
-Please refer to [Image Dimensions and Templates](../../before-you-begin/image-dimensions-and-template.md), if required.
+Please refer to [Image Dimensions and Templates](./criteria.html#image-dimensions-and-templates), if required.
 :::
 
 ::: tip
@@ -746,11 +746,11 @@ Multiple staff can be selected at once. You are also able to search for a new na
 
 #### Given Name
 
-Their given name\(s\) in correct [romanization](../../before-you-begin/romanization.md).
+Their given name\(s\) in correct [romanization](./criteria.html#romanization).
 
 #### Surname
 
-Their surname or alias in correct [romanization](../../before-you-begin/romanization.md).
+Their surname or alias in correct [romanization](./criteria.html#romanization).
 
 #### Native Name
 
@@ -763,7 +763,7 @@ Example:
 > A lot of current entries are incorrectly written as '絵理子木村' \(ErikoKimura\), which is the wrong way round, or '木村 絵理子' \(Kimura Eriko\), which contains a space. So, if you see it, please try to correct it.
 
 ::: tip
-[Dictionary browser extensions](../../before-you-begin/sourcing/tools/rikaichan-and-rikaikun.md) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](http://discord.me/anilist).
+[Dictionary browser extensions](./criteria.html#tools) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](https://discord.gg/TF428cr).
 :::
 
 An exception to the above is when a name is natively western.
@@ -798,7 +798,7 @@ Covers should be as close a 2:3 ratio as possible.
 
 If you have to crop or create new images then 230x345px is the recommended minimum. Larger images will be downscaled to 230px width.
 
-Please refer to [Image Dimensions and Templates](../../before-you-begin/image-dimensions-and-template.md), if required.
+Please refer to [Image Dimensions and Templates](./criteria.html#image-dimensions-and-templates), if required.
 :::
 
 ::: tip
@@ -862,7 +862,7 @@ This popup will allow you to search for and add existing studios to the work.
 
 #### Create New Studio
 
-This popup will allow you to create a new studio to be added to the work. Presently, the only information stored and required is the Studio’s name. Refer to the guide at the start of the manual for correct [romanization](../before-you-begin/romanization.md), if required.
+This popup will allow you to create a new studio to be added to the work. Presently, the only information stored and required is the Studio’s name. Refer to the guide at the start of the manual for correct [romanization](./criteria.html#romanization), if required.
 
 ![Studios page for the &apos;City Hunter&apos; anime](./img/studio_page.png)
 
@@ -915,7 +915,7 @@ Example:
 > To link the entries, you must be in the light novel entry and set [Kono Subarashii Sekai ni Bakuen wo!](https://anilist.co/manga/100147/Kono-Subarashii-Sekai-ni-Bakuen-wo/) as a '**spin-off'**. The '**parent'** relation will then be set in the opposite direction back to the light novel.
 
 ::: warning
-[One-shots](../before-you-begin/written-media-information/one-shots.md) that are adapted into a proper serialization are linked through the '**alternative'** relation. The [source](general/typings/source.md) would remain 'original'
+[One-shots](./criteria.html#one-shots) that are adapted into a proper serialization are linked through the '**alternative'** relation. The [source](./submissions.html#source) would remain 'original'
 :::
 
 #### Branching
@@ -963,7 +963,7 @@ Suitable examples would be:
 
 If the URL provided is not one of the supported sites listed in the next section, it will be titled with a generic ‘_official site_’.
 
-Feel free to contact a [moderator](../moderator-list.md) if you want to have another link title considered. Sites such as print or web magazines are ineligible.
+Feel free to contact a [moderator](./#moderator-list) if you want to have another link title considered. Sites such as print or web magazines are ineligible.
 
 ::: danger
 Illegal streaming and scanlation websites are _**not**_ allowed.

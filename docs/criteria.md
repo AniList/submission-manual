@@ -6,8 +6,8 @@ sidebarDepth: 2
 
 * Make sure the work, character, actor, or staff isn’t already in the database.
 * Always include as much detail as possible, as well as link to as many sources as possible in the sources panel \(even if it is in a language you can’t read\).  
-* If you find a duplicate entry, contact a [moderator](#).  
-* The nationality of a creator does not matter if their work is first professionally published by a reputable Japanese, Chinese, Korean, or Taiwanese publisher for their respective markets \(See [Country Of Origin](#)\).
+* If you find a duplicate entry, contact a [moderator](./#moderator-list).  
+* The nationality of a creator does not matter if their work is first professionally published by a reputable Japanese, Chinese, Korean, or Taiwanese publisher for their respective markets \(See [Country Of Origin](./submissions.html#country-of-origin)\).
 
 Example:
  [Thiago Furukawa Lucas](https://anilist.co/staff/99212/Yuu-Kamiya) \(author of [No Game, No Life](https://anilist.co/manga/78399/No-Game-No-Life/)\) is Brazilian-Japanese, but the work was initially published with Kodansha in Japanese, so his work is considered a light novel.
@@ -17,7 +17,7 @@ You can check by running English, native language, and romaji titles through the
 :::
 
 ::: tip
-If you’re unsure about anything, contact a [moderator](#) and they'll be happy to offer advice or help.
+If you’re unsure about anything, contact a [moderator](./#moderator-list) and they'll be happy to offer advice or help.
 
 However, please do not expect that you can hand a moderator a link and have them do all the work for you.
 :::
@@ -97,7 +97,7 @@ Example 1:
 
 Example 2:
 
-> [Boku wa Tomodachi ga Sukunai Episode 0](https://anilist.co/anime/10897/Boku-wa-Tomodachi-ga-Sukunai-Episode-0/) was released as an [OVA](#) alongside a volume of the light novel. As the [format](#) differs from the main TV series, it would have a separate entry.
+> [Boku wa Tomodachi ga Sukunai Episode 0](https://anilist.co/anime/10897/Boku-wa-Tomodachi-ga-Sukunai-Episode-0/) was released as an [OVA](./criteria.html#ova) alongside a volume of the light novel. As the [format](./submissions.html#format) differs from the main TV series, it would have a separate entry.
 
 ### OVAs, ONAs, and Specials
 
@@ -166,7 +166,7 @@ Example 1:
 Experimental Shorts can be added to the website if it meets all the following criteria:
 
 * Its creator has worked on professionally produced anime.  
-* It meets the Japanese '[Country Of Origin](#)'.  
+* It meets the Japanese '[Country Of Origin](./submissions.html#country-of-origin)'.  
 * The short is not based on existing published material \(anime, manga, manhwa etc.\) - it must be an _original_ work.
 
 ::: tip
@@ -229,7 +229,7 @@ Example 3:
 
 #### Database Criteria
 
-There is a limitation on manga that can be accepted to the site, notably they should works that were first published through a reputable Japanese publisher. [Doujinshi](#) is an exception, please refer to that section.
+There is a limitation on manga that can be accepted to the site, notably they should works that were first published through a reputable Japanese publisher. [Doujinshi](./criteria.html#doujinshi) is an exception, please refer to that section.
 
 Example magazines include things such as:
 
@@ -256,13 +256,13 @@ Example magazines include things such as:
 
 There are many sites that work with multiple publishers to release serializations digitally, such as [PixivComic](https://comic.pixiv.net/), [ComicWalker](https://comic-walker.com/), and [Nico Nico Seiga](https://seiga.nicovideo.jp/).
 
-Works published on sites like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net)’s non-comic section are usually not accepted _**unless**_ they are titled works uploaded by an author already in serialization, in which they’ll be classed as [doujinshi](#).
+Works published on sites like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net)’s non-comic section are usually not accepted _**unless**_ they are titled works uploaded by an author already in serialization, in which they’ll be classed as [doujinshi](./criteria.html#doujinshi).
 
 Any accepted works from [Comico](https://www.comico.jp) or similar webtoon portals should be from the official section only, and not the self-publishing challenge section.
 
 #### Doujinshi into Licensed Manga
 
-If series originally self-published online through platforms like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net) \(considered [doujinshi](#)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be [updated](#) to manga by checking the [Self Published ](#)option. \(retaining the original self-published start date\).
+If series originally self-published online through platforms like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net) \(considered [doujinshi](./criteria.html#doujinshi)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be updated to manga by checking the [Self Published](./submissions.html#self-published) option. \(retaining the original self-published start date\).
 
 ::: warning
 If the serialization is an _**entirely**_ new work, and not a re-publication of the original chapters, a new entry should be made using the start date as the date of serialization. The original work could still be eligible to enter the database as doujinshi.
@@ -274,7 +274,7 @@ Example 1:
 
 > [Senpai ga Uzai Kouhai no Hanashi](https://anilist.co/manga/103111/Senpai-ga-Uzai-Kouhai-no-Hanashi/) was first released on Twitter \([here](https://twitter.com/i/moments/969629425087082498)\) for a short period of time before the publisher [Ichijinsha](http://ichijinsha.co.jp) began collating the original Twitter posts into tankoubon \([here](https://bookwalker.jp/series/156182/list/)\).  
 >   
-> Ichijinsha's publication is of the original work itself \(with redrawn art for earlier chapters\) and not a new story. If the entry did already exist on AniList as [doujinshi](#), it would have been be updated to manga and the cover later updated to the tankoubon volume.
+> Ichijinsha's publication is of the original work itself \(with redrawn art for earlier chapters\) and not a new story. If the entry did already exist on AniList as [doujinshi](./criteria.html#doujinshi), it would have been be updated to manga and the cover later updated to the tankoubon volume.
 
 Example 2:
 
@@ -317,7 +317,7 @@ At times, you will see works often listed with three separate authorship entries
 There is a limitation on manhwa that can be accepted to the site, notably they should be professionally published works through a reputable Korean publisher.
 
 ::: tip
-Refer to the [Web Platform List](#) for a list of most major professional publishers.
+Refer to the [Web Platform List](./criteria.html#web-platform-examples) for a list of most major professional publishers.
 :::
 
 _**Don’t**_ accept works from parts of sites \(and others\) where any users can submit works, such as [Naver](https://comic.naver.com/)’s '_Best Challenge/Challenge_' section, or [Daum](http://webtoon.daum.net/)’s '_League_' section.
@@ -336,10 +336,10 @@ Works should _**not**_ be published through self-publishing platforms such as [T
 Doujinshi can be added to the website if it meets all the following criteria:
 
 1. The doujinshi is by an _**already**_ serialized mangaka.  
-2. It meets the Japanese '[Country Of Origin](../../submission-form/general/typings/country-of-origin.md)'.  
+2. It meets the Japanese '[Country Of Origin](./submissions.html#country-of-origin)'.  
 3. The doujinshi is not based on existing published material \(anime, manga, manhwa etc.\) - it must be an _**original**_ work.
 
-Doujinshi is not a format on AniList, instead, you have to the toggle the [Self Published ](../../submission-form/general/misc/self-published.md)option.
+Doujinshi is not a format on AniList, instead, you have to the toggle the [Self Published ](./submissions.html#self-published)option.
 
 ::: warning
 The ‘_original work_’ rule can be waived if the doujinshi in question is by the original author of the existing material.
@@ -349,7 +349,7 @@ Example:
 :::
 
 ::: tip
-Some doujinshi that enter serialization may be converted to the manga format provided the new serialization is not an entirely new work. Please refer to [manga](manga.md#doujinshi-into-manga) for more information.
+Some doujinshi that enter serialization may be converted to the manga format provided the new serialization is not an entirely new work. Please refer to [manga](./criteria.html#doujinshi-into-licensed-manga) for more information.
 ::: 
 
 
@@ -381,7 +381,7 @@ Tokuten \(bonus booklets and such\) are not added to the database.
 :::
 
 ::: warning
-If a self-published web novel from a site such as [Syosetu ](http://syosetu.com)is later professionally published as a [light novel](light-novels.md), the light novel entry would be eligible for submission under the date that the light novel serialization began.
+If a self-published web novel from a site such as [Syosetu ](http://syosetu.com)is later professionally published as a [light novel](./criteria.html#light-novels), the light novel entry would be eligible for submission under the date that the light novel serialization began.
 
 The original web novel publication should _**not**_ be added.  
 This means works from Japanese self-publishing websites such as [Syosetu ](http://syosetu.com)are completely denied.
@@ -415,16 +415,16 @@ One-shots can be added to the site provided they been published in a reputable, 
 They are single, standalone works with a self-contained story. This means that any series with more than one chapter is _**not**_ a one-shot.
 
 ::: tip
-If a published one-shot has a serialization announced, a new entry will be created for the new serialization under the **manga** format. The two works will be linked through the **alternative** [relation](../../submission-form/relations.md).
+If a published one-shot has a serialization announced, a new entry will be created for the new serialization under the **manga** format. The two works will be linked through the **alternative** [relation](./submissions.html#relations).
 :::
 
 ::: warning
-Self-published works are not classed as one-shots. However, if the author is already serialized, self-published works could instead possibly be classed as [doujinshi](doujinshi.md).
+Self-published works are not classed as one-shots. However, if the author is already serialized, self-published works could instead possibly be classed as [doujinshi](./criteria.html#doujinshi).
 :::
 
 #### Compilations and Anthologies
 
-It is acceptable for _**both**_ the standalone one-shot and any anthology or collection it is compiled into to be added to the website. These must be linked through the ‘**contains**’ and '**compilation**' [relations](../../submission-form/relations.md).
+It is acceptable for _**both**_ the standalone one-shot and any anthology or collection it is compiled into to be added to the website. These must be linked through the ‘**contains**’ and '**compilation**' [relations](./submissions.html#relations).
 
 Example:
 
@@ -437,7 +437,7 @@ In the case of retroactively creating standalone entries when the compiled volum
 Anthologies should be have _**both**_ start and end dates set to the day that the anthology was released, not the dates between oldest and newest one-shots contained within.
 
 ::: warning
-Compilations of one-shots should have the **Manga** [format](../../submission-form/general/typings/format.md).
+Compilations of one-shots should have the **Manga** [format](./submissions.html#format).
 :::
 
 
@@ -446,11 +446,11 @@ Compilations of one-shots should have the **Manga** [format](../../submission-fo
 The below list contains examples of popular multi-publisher web platforms or self-publishing services. This is only for referencing and is not a complete list of what platforms are or are not allowed.
 
 ::: tip
-If one of the below accepted links exist, please add them to the [External Links](../../submission-form/external-links.md). Additionally, [Toko Mavo](http://toko.takekuma.jp/), [Pixiv](http://pixiv.net), and [Twitter](http://twitter.com/) links can still be used for eligible [doujinshi](doujinshi.md).
+If one of the below accepted links exist, please add them to the [External Links](./submissions.html#external-links). Additionally, [Toko Mavo](http://toko.takekuma.jp/), [Pixiv](http://pixiv.net), and [Twitter](http://twitter.com/) links can still be used for eligible [doujinshi](./criteria.html#doujinshi).
 :::
 
 ::: warning
-As always, works still have to satisfy the Japanese, Chinese, Korean, or Taiwanese ‘[Country Of Origin](../../submission-form/general/typings/country-of-origin.md)’ type.
+As always, works still have to satisfy the Japanese, Chinese, Korean, or Taiwanese ‘[Country Of Origin](./submissions.html#country-of-origin)’ type.
 :::
 
 If the work originally published on ‘_Not Accepted_‘ websites is later picked up by a professional publisher of _**the same language**_, that later publication would be what can be added to the database.
@@ -526,8 +526,8 @@ Please remember that magazine issue date is not always the month the magazine wa
 
 * [AniDB](https://anidb.net) is very good at tracking staff roles, but names should always be double-checked for accuracy.  \(Example: [Ginga Eiyuu Densetsu](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=584)\)  
 * [Wikipedia Japan](https://ja.wikipedia.org/) can be good for information on characters, as well as specific magazine issues for print serialization manga. \(Example: [Hibiki: Shousetsuka ni Naru Houhou](https://ja.wikipedia.org/wiki/響_〜小説家になる方法〜)\) 
-* [Pixiv Encyclopedia](https://dic.pixiv.net/) can often be useful for not only character names, but all manner of information, similar to Wikipedia, a lot of information gets collated into series pages. \(Example: [3gatsu no Lion](https://github.com/AniList/Submission-Manual/tree/a75a145be94b07fe00ba94c797a3d65e0ee28116/a/3月のライオン/README.md)\) 
-* [MyAnimeList](https://myanimelist.net/), [MangaUpdates](https://www.mangaupdates.com/), and [Kitsu](https://kitsu.io/explore/anime) are often sourced - whilst this is OK, these alone aren’t always accurate enough, as they can often contain errors. However, please link the first two if they exist, especially as [AniList](http://anilist.co) _**requires**_ the works' [MAL ID](../../submission-form/general/misc/myanimelist-id.md) for mapping series between the two websites for list imports.  
+* [Pixiv Encyclopedia](https://dic.pixiv.net/) can often be useful for not only character names, but all manner of information, similar to Wikipedia, a lot of information gets collated into series pages.
+* [MyAnimeList](https://myanimelist.net/), [MangaUpdates](https://www.mangaupdates.com/), and [Kitsu](https://kitsu.io/explore/anime) are often sourced - whilst this is OK, these alone aren’t always accurate enough, as they can often contain errors. However, please link the first two if they exist, especially as [AniList](http://anilist.co) _**requires**_ the works' [MAL ID](./submissions.html#myanimelist-id) for mapping series between the two websites for list imports.  
 * Anime and manga aggregators \(streaming/scanlation hosting sites\) should almost never be used as a single or primary source. They usually lack or have incorrect data.
 
 #### Anime Specific
@@ -562,7 +562,7 @@ All below extensions will provide popups of various kana readings and interchang
 
 #### Bookwalker Cover Grabber
 
-[Book Walker](https://bookwalker.jp)'s often very large volume covers can be very useful for use in making character images or banners, or simply to have a very high quality cover you can immediately upload to the website for the [XL cover](../../image-dimensions-and-template.md) feature.
+[Book Walker](https://bookwalker.jp)'s often very large volume covers can be very useful for use in making character images or banners, or simply to have a very high quality cover you can immediately upload to the website for the [XL cover](./criteria.html#image-dimensions-and-templates) feature.
 
 * Make a new bookmark and paste the following JavaScript in the Address/URL field:
 
@@ -627,7 +627,7 @@ Example
 
 #### **Split Seasons**
 
-If a 'season' of the show will air for multiple seasons, but has at least a one [airing season](../submission-form/general/release-data/season.md) gap in between. The subsequent entries should have 'Part 2' or equivalent if no official title is given.
+If a 'season' of the show will air for multiple seasons, but has at least a one [airing season](./submissions.html#season) gap in between. The subsequent entries should have 'Part 2' or equivalent if no official title is given.
 
 Example
 
@@ -639,7 +639,7 @@ Example
 
 #### **Appendages**
 
-For supplemental works to a main series, such as [OVAs and Specials](animated-media-information/ovas-and-onas.md), the main series title should be used and the format appended to the end.
+For supplemental works to a main series, such as [OVAs and Specials](./criteria.html#ovas-onas-and-specials), the main series title should be used and the format appended to the end.
 
 Example:
 
@@ -665,15 +665,15 @@ Remember to follow news for the series so that the title can be updated as soon 
 ### Special Characters
 
 ::: tip
-Examples of how to deal with non-alphanumeric characters in titles can be seen in the table below. If uncertain, contact a [moderator](../moderator-list.md).
+Examples of how to deal with non-alphanumeric characters in titles can be seen in the table below. If uncertain, contact a [moderator](./#moderator-list).
 :::
 
 * Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon or hypen. The only preference is what formatting is most commonly used elsewhere.
 * Japanese quotes \(「」\) should be converted to English double-quotes \(" "\).  
 * Symbols like stars \(☆\) and musical notes \(♪\) should remain.  
-* Titles using full-width tildes to elongate words should be [romanized](romanization.md) without. \(み〜つけた &gt; Mitsuketa\).  
-* Hashtags in titles should remain without spaces when [romanized](romanization.md), however, a version with spaces should ideally be placed in the synonyms.  
-* Special things such as kaomoji \(顔文字\) should not be [romanized](romanization.md).
+* Titles using full-width tildes to elongate words should be [romanized](./criteria.html#romanization) without. \(み〜つけた &gt; Mitsuketa\).  
+* Hashtags in titles should remain without spaces when [romanized](./criteria.html#romanization), however, a version with spaces should ideally be placed in the synonyms.  
+* Special things such as kaomoji \(顔文字\) should not be [romanized](./criteria.html#romanization).
 
 #### Examples
 
@@ -702,7 +702,7 @@ Volume covers for manga and light novels - and many key illustrations for anime 
 ::: warning
 There is an exception to the 2:3 ratio for _temporary_ covers such as announcement images for new serializations and new anime that can't be reasonably cropped.
 
-Examples can be seen in the [cover](../submission-form/images/cover.md) section.
+Examples can be seen in the [cover](./submissions.html#cover) section.
 :::
 
 #### Recommended Dimensions for Cropping or Creation
