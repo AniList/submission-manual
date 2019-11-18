@@ -1015,7 +1015,6 @@ Youtube
 ![External links page for the &apos;Ginga no Shinanai Kodomotachi e&apos; manga](./img/external_links_manga.png)
 
 
-
 ## Revision History
 
 The revision history will show a feed displaying what users have modified the entry. The changes they carried out can be expanded by clicking on their record.

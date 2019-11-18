@@ -4,6 +4,8 @@ module.exports = {
     "tabs"
   ],
   themeConfig: {
+    logo: "/logo.png",
+    docsDir: "docs",
     sidebar: [
       "/",
       ["/criteria", "Database Criteria"],
