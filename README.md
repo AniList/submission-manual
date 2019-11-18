@@ -5,7 +5,7 @@
 ### Submitting changes to this manual
 #### Online only: 
 - Login/create a Github account
-- Click the "Fork" button in the time right of this page
+- Click the "Fork" button at the top right of this page
 - Navigate to the .md file you want to change and click the edit pencil icon
 - Open a [pull request](https://github.com/AniList/Submission-Docs/compare) and select your fork from the compare dropdown
 - Create pull request and wait for Netlify to build a preview version of the manual from your changes.
