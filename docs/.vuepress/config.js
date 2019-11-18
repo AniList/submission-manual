@@ -7,7 +7,7 @@ module.exports = {
     sidebar: [
       "/",
       ["/criteria", "Database Criteria"],
-      ["/submissions", "Submissions"]
+      ["/submissions", "Submission Guide"]
     ]
   }
 }

@@ -637,7 +637,7 @@ Example
 > Romaji: Shingeki no Kyojin 3 Part 2  
 > English: Attack on Titan Season 3 Part 2
 
-### **Appendages**
+#### **Appendages**
 
 For supplemental works to a main series, such as [OVAs and Specials](animated-media-information/ovas-and-onas.md), the main series title should be used and the format appended to the end.
 
