@@ -32,16 +32,20 @@ _Altogether, the links above of the news article, magazine, and authors' Twitter
 
 ### Titles
 
-Ensure all titles are used _**officially.**_ Do not use the native title translated into English as the English title.
+Ensure all titles are used _**officially.**_ Do not use the native title translated into English as the English title.  
 
 ![Titles for the &apos;Ao Buta&apos; anime](./img/titles.png)
+
+:::tip
+Even if a title is idential it should still be entered in the respective field. For example, [Sarazanmai](https://anilist.co/anime/101261/Sarazanmai/) has identical Romaji and English names but both fields are filled out.
+:::
 
 #### Romaji
 
 The correct [romanization](./criteria.html#romanization) of the title is preferred over all else and is _**required.**_
 
 ::: tip
-Please see the [title formatting](./criteria.html#title-modification)section for information on how format titles.
+Please see the [title formatting](./criteria.html#title-modification) section for information on how format titles.
 :::
 
 #### English
@@ -90,6 +94,10 @@ This will be the season that the anime has aired in and used for the purpose of 
 If a series starts release within the final few weeks of a season, it should be pushed forward to the next and be considered an early seasonal release.
 :::
 
+::: warning
+Seasons should not be applied to music videos, advertisements/commercials, or experimental shorts.
+:::
+
 | Season | Period |
 | :--- | :--- |
 | Winter | January 01 to March 31 |
@@ -123,10 +131,10 @@ The date that the work is confirmed to have finished airing or finished serializ
 | TV | Anime which have episodes of or more 15 minutes in length and broadcast on television. |
 | TV Short | Anime which are under 15 minutes in length and broadcast on television. |
 | Movie | Anime that have originally been released at theaters. |
-| Special | Specials that have been included in DVD/Blu-ray releases, picture dramas, pilots, etc. |
-| OVA \(Original Video Animation\) | Anime that have been released directly on DVD/Blu-ray without originally going through a theatrical release or television broadcast. |
-| ONA \(Original Net Animation\) | Anime that have been originally released online or are only available through streaming services. |
-| Music | Music videos. |
+| [Special](./criteria.html#ovas-onas-and-specials) | Specials that have been included in DVD/Blu-ray releases, picture dramas, pilots, etc. |
+| [OVA](./criteria.html#ovas-onas-and-specials) \(Original Video Animation\) | Anime that have been released directly on DVD/Blu-ray without originally going through a theatrical release or television broadcast. |
+| [ONA](./criteria.html#ovas-onas-and-specials) \(Original Net Animation\) | Anime that have been originally released online or are only available through streaming services. |
+| [Music](./criteria.html#music-videos) | Music videos. |
 
 #### Manga
 
@@ -167,6 +175,10 @@ Example:
 > It then has both [anime](https://anilist.co/anime/2966/Ookami-to-Koushinryou/) and [manga](https://anilist.co/manga/33299/Ookami-to-Koushinryou/) adaptations announced. Both of these would be given the '**Light Novel**' source.  
 >   
 > Any further spin-offs and similar relations would also be sourced to the light novel.
+
+:::warning
+Just because earlier released entries are based on a source material, does not mean all subsequently released entries are.
+> The movie [Sword Art Online Movie: Ordinal Scale](https://anilist.co/anime/21403/Sword-Art-Online-Movie-Ordinal-Scale/) is a direct sequel to [Sword Art Online II](https://anilist.co/anime/20594/Sword-Art-Online-II/) and a direct prequel to [Sword Art Online: Alicization](https://anilist.co/anime/100182/Sword-Art-Online-Alicization/) however it is not based on any portion of the [Light Novel](https://anilist.co/manga/51479/Sword-Art-Online/) series.
 
 ### Country Of Origin
 
@@ -535,6 +547,10 @@ The popup after pressing the ‘_Add Characters_’ button will let you search f
 Multiple characters can be selected at once. You are also able to search for a new name and continue selecting characters. Everything will be carried over when '**Done**' is pressed.
 :::
 
+::: warning
+A singular [narrator](https://anilist.co/character/36309) character is used for all narrator roles in which the narrator does not have a physical apperance in the work. 
+:::
+
 #### Character Role
 
 Each character has the option to be set as a _main_, _supporting_, or _background_ character. For many of these, it will be up to your own judgment.
@@ -835,7 +851,7 @@ Choose the role that the staff member had in the work. If the staff member had m
 
 #### **Anime**
 
-In terms of anime, for staff, if they have specific episode credits, they should be credited in the following formats; _**‘Storyboard \(ep 5\)**_’ or ‘_**2nd Key Animation \(eps 1, 3, 8, 11, 13\)**_’ with a comma, followed by a space after every episode number. If they are credited with a studio next to their name, do not include the studio. If they are credited for at least 3 consecutive episodes then it should be formatted as ‘_**Animation Director \(eps 7-9\)**_’.
+In terms of anime, for staff, if they have specific episode credits, they should be credited in the following formats; _**‘Storyboard \(ep 5\)**_’ or ‘_**2nd Key Animation \(eps 1, 3, 8, 11, 13\)**_’ with a comma, followed by a space after every episode number. If they are credited with a studio next to their name, do not include the studio. If they are credited for at least 3 consecutive episodes then it should be formatted as ‘_**Animation Director \(eps 7-9\)**_’. For insert songs, the name of the song should only be used in the event that a single episode has multiple insert songs such as ‘_**Insert Song Performance \("Song Name"; eps 7-9\)**_’, otherwise it should be formatted as ‘_**Insert Song Performance \(eps 7-9\)**_’.
 
 ::: warning
 Keep in mind that some titles do not follow conventional episode credits \([Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/) or [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) are both good examples\). Care should be taken to convert episode credits into how [AniList ](http://anilist.co)lists episodes.
