@@ -902,11 +902,11 @@ Example 3 \(Compilations\):
 
 > The now-defunct magazine, _Pure Yuri Anthology Hirari_, which solely published one-shots, released an anthology containing a selection of six of their one-shots:
 >
-> Adding [Isshun no Asterism](https://anilist.co/manga/104980) \(one-shot\) _\*\*\_to_ [_Shuuden ni wa Kaeshimasu_](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) _\(anthology\) with the '_**contains'** _relation automatically adds_ [_Shuuden ni wa Kaeshimasu_](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) _as the '_**compilation'**\_ to [Isshun no Asterism](https://anilist.co/manga/104980), and vice versa.
+> Adding [Isshun no Asterism](https://anilist.co/manga/104980) \(_one-shot_\) to [Shuuden ni wa Kaeshimasu](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) \(_anthology_\) with the '**contains'** relation automatically adds [Shuuden ni wa Kaeshimasu](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) as the '**compilation'** to [Isshun no Asterism](https://anilist.co/manga/104980), and vice versa.
 
 #### Parent Relations
 
-When updating all other relations \(_spin off, side story, character, summary,_ etc.\) you have to do so from the '_**parent'**_ entry. The parent relation will then be created on the other entry as the opposite.
+When updating all other relations \(_spin off, side story, character, summary,_ etc.\) you have to do so from the '**parent'** entry. The parent relation will then be created on the other entry as the opposite.
 
 Example:
 
