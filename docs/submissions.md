@@ -48,6 +48,10 @@ The correct [romanization](./criteria.html#romanization) of the title is preferr
 Please see the [title formatting](./criteria.html#title-modification) section for information on how format titles.
 :::
 
+::: warning
+Terms like "eiga" and "gekijouban" should be removed from the Romaji name.
+:::
+
 #### English
 
 This field should only be filled in with the name given when the entry has been _**officially licensed**_ or is being _**officially streamed**_ in English.
@@ -58,6 +62,10 @@ English titles written on the cover or announcement of works \(often as subheadi
 It is acceptable to use the English title when a work is translated into English by legal streaming or reading sites such as [TOPTOON ](https://www.toptoon.net/)\(which is a Chinese service that supplies Chinese, Korean and Japanese works in English, Chinese and Japanese\).
 
 _**However**_, it could be replaced if a native English publisher \(such as Seven Seas, Viz etc.\) later licenses the work, or a publisher of the same native language as the original work \(Example, [TORICO](https://www.torico-corp.com/) is a Japanese publisher that releases Japanese works in English\).
+:::
+
+::: tip
+Sometimes a work, when released in English, will receive multiple translated titles. In this event the English name of its home release is preferred over a TV or streaming only release. In addition, in the event that multiple home releases exist, whichever is the newest release is the one that should be listed in the English field. Any outdated English names should be included in the synonyms field.
 :::
 
 ::: warning
@@ -943,6 +951,14 @@ Example:
 > The light novel [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/manga/85470/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/) was serialized in January 2014, and had a manga release, [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/manga/85564/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/), in May 2014, which is linked through the '**adaptation**' relation.  
 >   
 > Two spin-offs, [Mushoku Tensei - Roxy datte Honki desu](https://anilist.co/manga/104724/Mushoku-Tensei--Roxy-datte-Honki-desu/) and [Mushoku Tensei: 4-koma ni Natte mo Honki Dasu](https://anilist.co/manga/104856/Mushoku-Tensei-4koma-ni-Natte-mo-Honki-Dasu/), were then serialized in December 2017 and October 2018 respectively. Both spin-offs only branch off the light novel, and _**not**_ the manga, so are only be linked to the light novel.
+
+### Removing Relations
+
+Removing relations at this time is limited to moderators.
+
+::: warning
+While adding relations often will automatically add it to the related work, removing relations does not. Moderators need to remove the relation on both related entries.
+:::
 
 #### Relation Table
 
