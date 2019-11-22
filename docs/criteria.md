@@ -174,7 +174,7 @@ Experimental Shorts created by a non-professional who later works on professiona
 :::
 
 ::: warning
-_Exceptions may be granted for student graduation projects from Japanese animation universities._
+_Exceptions may be granted for student graduation projects from Japanese animation universities. This exception applies to first year graduation projects as well. In addition these entries should be listed as "Movie"._
 :::
 
 #### Examples
