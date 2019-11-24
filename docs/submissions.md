@@ -37,7 +37,7 @@ Ensure all titles are used _**officially.**_ Do not use the native title transla
 ![Titles for the &apos;Ao Buta&apos; anime](./img/titles.png)
 
 :::tip
-Even if a title is idential it should still be entered in the respective field. For example, [Sarazanmai](https://anilist.co/anime/101261/Sarazanmai/) has identical Romaji and English names but both fields are filled out.
+Even if the titles are identical, it should still be entered in the respective field. For example, [Sarazanmai](https://anilist.co/anime/101261/Sarazanmai/) has identical Romaji and English names but both fields are filled out.
 :::
 
 #### Romaji
@@ -179,6 +179,7 @@ Example:
 :::warning
 Just because earlier released entries are based on a source material, does not mean all subsequently released entries are.
 > The movie [Sword Art Online Movie: Ordinal Scale](https://anilist.co/anime/21403/Sword-Art-Online-Movie-Ordinal-Scale/) is a direct sequel to [Sword Art Online II](https://anilist.co/anime/20594/Sword-Art-Online-II/) and a direct prequel to [Sword Art Online: Alicization](https://anilist.co/anime/100182/Sword-Art-Online-Alicization/) however it is not based on any portion of the [Light Novel](https://anilist.co/manga/51479/Sword-Art-Online/) series.
+:::
 
 ### Country Of Origin
 
@@ -191,7 +192,7 @@ Overseas works that are later published by the above four countries do _**not**_
 
 Example:  
 Radiant is a French comic later published in Japanese by EUROMANGA.
-::::
+:::
 
 ### Episodes & Duration
 
