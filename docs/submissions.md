@@ -781,9 +781,9 @@ The language that the staff member performs or works in. This is currently only 
 #### About
 
 A basic description of the person, it can be hometown, birthday, hobbies and interests, social media links, blogs etc.  
-Example: [Tatari Takayama](https://anilist.co/staff/128291/Tatari-Takayama)
+Example: [Rie Takahashi](https://anilist.co/staff/119331/Rie-Takahashi)
 
-![Staff entry for Tomimura Cota](./img/entry_staff.png)
+![Staff entry for Rie Takahashi](./img/entry_staff.png)
 
 #### Image
 
