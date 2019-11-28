@@ -48,7 +48,11 @@ Example 2:
 
 #### Database Criteria
 
-There are limitations to aeni that can be accepted to the site, notably there should be significant creative control of the titles from Korean studios.
+There are limitations to aeni that can be accepted to the site, notably there should be significant creative control of the titles from South Korean studios.
+
+::: warning
+North Korean aeni is no longer accepeted.
+:::
 
 #### Examples
 
@@ -314,7 +318,11 @@ At times, you will see works often listed with three separate authorship entries
 
 #### Database Criteria
 
-There is a limitation on manhwa that can be accepted to the site, notably they should be professionally published works through a reputable Korean publisher.
+There is a limitation on manhwa that can be accepted to the site, notably they should be professionally published works through a reputable South Korean publisher.
+
+::: warning
+North Korean manwha is no longer accepeted.
+:::
 
 ::: tip
 Refer to the [Web Platform List](./criteria.html#web-platform-examples) for a list of most major professional publishers.
