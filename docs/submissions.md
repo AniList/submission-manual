@@ -1009,39 +1009,53 @@ Amazon
 Animax
 Animelab
 Animenetwork
-ComicWalker
-Comico
+Asian Crush
+Bomtoon (KO)
+Comico (JP)
+ComicWalker (JP)
+CONtv
 Crunchyroll
-Dajiaochong Manhua
-Daum Webtoon
+Dajiaochong Manhua (CN)
+Daum Webtoon (CN)
 Facebook
 Fakku
 Funimation
 Hidive
 Hulu
-Justoon
-KakaoPage
-KuaiKan Manhua
-Lezhin
+Japanese Film Archives
+Justoon (KO)
+KakaoPage (KO)
+KuaiKan Manhua (CN)
+Lezhin (EN)
+Lezhin (KO)
 Madman
+Manga Plus
 Manga.Club
 Mangabox
-Manman Manhua
-Naver
+Manman Manhua (CN)
+Midnight Pulp
+Naver (KO)
 Netflix
-Nico Nico Seiga
-Piccoma
-Pixiv Comic
-QQ
-Toomics
+Nico Nico Seiga (JP)
+Piccoma (JP)
+Pixiv Comic (JP)
+Pixiv Novel (JP)
+Pocket Magazine (JP)
+QQ (CN)
+Shonen Jump Plus (JP)
+Sony Crackle
+Toomics (EN)
+Toomics (KO)
+Tubi TV
 Twitter
 Viewster
 Vimeo
 Viz
-Wakanim
+VRV
 Web Comics
-Webtoons
-Weibo Manhua
+Webtoons (EN)
+Webtoons (JP)
+Weibo Manhua (CN)
 Youtube
 ```
 
