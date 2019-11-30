@@ -7,7 +7,7 @@ sidebarDepth: 2
 * Make sure the work, character, actor, or staff isn’t already in the database.
 * Always include as much detail as possible, as well as link to as many sources as possible in the sources panel \(even if it is in a language you can’t read\).  
 * If you find a duplicate entry, contact a [moderator](./#moderator-list).  
-* The nationality of a creator does not matter if their work is first professionally published by a reputable Japanese, Chinese, Korean, or Taiwanese publisher for their respective markets \(See [Country Of Origin](./submissions.html#country-of-origin)\).
+* The nationality of a creator does not matter if their work is first professionally published by a reputable Japanese, Chinese, South Korean, or Taiwanese publisher for their respective markets \(See [Country Of Origin](./submissions.html#country-of-origin)\).
 
 Example:
  [Thiago Furukawa Lucas](https://anilist.co/staff/99212/Yuu-Kamiya) \(author of [No Game, No Life](https://anilist.co/manga/78399/No-Game-No-Life/)\) is Brazilian-Japanese, but the work was initially published with Kodansha in Japanese, so his work is considered a light novel.
@@ -219,7 +219,7 @@ Example 1:
 
 Example 2:
 
-> [Shelter](https://anilist.co/anime/97731/Shelter/) is a Canadian produced song However, the music video was a collaborative work with the animation studio [A-1 Pictures](https://anilist.co/studio/561/A1-Pictures). It was directed by [Toshifumi Akai](https://anilist.co/staff/110949) as well as featuring voice acting by [Sachika Misawa](https://anilist.co/staff/102337/Sachika-Misawa).
+> [Shelter](https://anilist.co/anime/97731/Shelter/) is a Canadian produced song. However, the music video was a collaborative work with the animation studio [A-1 Pictures](https://anilist.co/studio/561/A1-Pictures). It was directed by [Toshifumi Akai](https://anilist.co/staff/110949) as well as featuring voice acting by [Sachika Misawa](https://anilist.co/staff/102337/Sachika-Misawa).
 
 Example 3:
 
@@ -350,16 +350,22 @@ Doujinshi can be added to the website if it meets all the following criteria:
 Doujinshi is not a format on AniList, instead, you have to the toggle the [Self Published ](./submissions.html#self-published)option.
 
 ::: warning
-The ‘_original work_’ rule can be waived if the doujinshi in question is by the original author of the existing material.
+The ‘_original work_’ rule can be waived if the doujinshi in question is by the original author of the existing material or by staff who directly worked on an anime project.
 
 Example:  
 [R of Black Lagoon](https://anilist.co/manga/87131/R-of-Blacklagoon/) is a doujinshi of [Black Lagoon](https://anilist.co/manga/30735/Black-Lagoon/) published by the original author, [Hiroe Rei](https://anilist.co/staff/97578/Rei-Hiroe).
+
+Example:
+[RKGKMDK](https://anilist.co/manga/60257/) is a doujinshi of [Mahou Shoujo Madoka★Magica](https://anilist.co/anime/9756/) by the original character designer, [Ume Aoki](https://anilist.co/staff/97969/).
 :::
 
 ::: tip
 Some doujinshi that enter serialization may be converted to the manga format provided the new serialization is not an entirely new work. Please refer to [manga](./criteria.html#doujinshi-into-licensed-manga) for more information.
 ::: 
 
+::: warning
+One-off doujinshi are _**not**_ to be labeled as one-shot. Instead, select **manga** from the format field.
+:::
 
 ### Light Novels
 
@@ -369,7 +375,7 @@ Light novels can be added to the website if they meet all the following criteria
 
 1. The light novel must be of Japanese origin.  
 2. The light novel must be professionally published through a reputable publisher from companies such as [Kadokawa](https://www.kadokawa.co.jp/), [Kodansha](http://www.kodansha.co.jp/), [Alphapolis](https://www.alphapolis.co.jp/), and [Hobby Japan](http://hobbyjapan.co.jp/).  
-3. The light novel is specified as being such by the publisher, author, or the majority of major retailers.
+3. The light novel is specified as being such by the author, original publisher, or the majority of major Japanese retailers.
 
 #### Example light novel labels include things such as:
 - [Dengeki Bunko](https://dengekibunko.jp/)  
@@ -381,6 +387,7 @@ Light novels can be added to the website if they meet all the following criteria
 - [GA Bunko](https://ga.sbcr.jp/)  
 - [Media Works Bunko](http://mwbunko.com/)  
 - [Alpha Light Bunko](http://www.alphalight-books.com/)  
+- [Kodansha Lanove Bunko](http://lanove.kodansha.co.jp/)
 - [Puchipara Bunko](http://parabook.co.jp/novels/puchipara.php) \(**adult**\)  
 - [Bishoujo Bunko](http://www.bishojobunko.jp/) \(**adult**\)
 
@@ -396,7 +403,7 @@ This means works from Japanese self-publishing websites such as [Syosetu ](http:
 :::
 
 ::: danger
-Chinese and Korean web novels are _**not**_ accepted on this website.
+Chinese and South Korean web novels are _**not**_ accepted on this website.
 :::
 
 #### Examples
@@ -418,12 +425,16 @@ Example 3:
 
 #### Database Criteria
 
-One-shots can be added to the site provided they been published in a reputable, professional, Japanese magazine.
+One-shots can be added to the site provided they been published in a reputable, professional, Japanese, South Korean or Chinese magazine or publisher.
 
 They are single, standalone works with a self-contained story. This means that any series with more than one chapter is _**not**_ a one-shot.
 
 ::: tip
 If a published one-shot has a serialization announced, a new entry will be created for the new serialization under the **manga** format. The two works will be linked through the **alternative** [relation](./submissions.html#relations).
+:::
+
+::: warning
+If a one-shot was published in a volume, and not as standalone, it should _**not**_ have a standalone entry.
 :::
 
 ::: warning
@@ -448,7 +459,6 @@ Anthologies should be have _**both**_ start and end dates set to the day that th
 Compilations of one-shots should have the **Manga** [format](./submissions.html#format).
 :::
 
-
 ### Web Platform Examples
 
 The below list contains examples of popular multi-publisher web platforms or self-publishing services. This is only for referencing and is not a complete list of what platforms are or are not allowed.
@@ -458,7 +468,7 @@ If one of the below accepted links exist, please add them to the [External Links
 :::
 
 ::: warning
-As always, works still have to satisfy the Japanese, Chinese, Korean, or Taiwanese ‘[Country Of Origin](./submissions.html#country-of-origin)’ type.
+As always, works still have to satisfy the Japanese, Chinese, South Korean, or Taiwanese ‘[Country Of Origin](./submissions.html#country-of-origin)’ type.
 :::
 
 If the work originally published on ‘_Not Accepted_‘ websites is later picked up by a professional publisher of _**the same language**_, that later publication would be what can be added to the database.
@@ -482,7 +492,7 @@ Chinese
 - [https://read.douban.com](https://read.douban.com/)  
 - [https://www.dajiaochongmanhua.com](https://www.dajiaochongmanhua.com/)
 
-Korean  
+South Korean  
 - [https://comic.naver.com](https://comic.naver.com/) \(Featured works only, not Challenge\)  
 - [http://webtoon.daum.net](http://webtoon.daum.net/) \(Official works only, not League\)  
 - [https://www.lezhin.com](https://www.lezhin.com/)  
