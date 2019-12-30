@@ -364,7 +364,7 @@ Some doujinshi that enter serialization may be converted to the manga format pro
 ::: 
 
 ::: warning
-One-off doujinshi are _**not**_ to be labeled as one-shot. Instead, select **manga** from the format field.
+One-off doujinshi are _**not**_ to be labeled as one-shot. Please refer to [One-Shots](./criteria.html#one-shots). Instead, select **manga** from the format field.
 :::
 
 ### Light Novels
@@ -438,7 +438,7 @@ If a one-shot was published in a volume, and not as standalone, it should _**not
 :::
 
 ::: warning
-Self-published works are not classed as one-shots. However, if the author is already serialized, self-published works could instead possibly be classed as [doujinshi](./criteria.html#doujinshi).
+Self-published works are not classed as one-shots. One-shots only appear in official publications and are labelled as 読み切り (or 'yomikiri'). However, if the author is already serialized, self-published works could instead possibly be classed as [doujinshi](./criteria.html#doujinshi).
 :::
 
 #### Compilations and Anthologies
