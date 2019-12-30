@@ -106,6 +106,10 @@ If a series starts release within the final few weeks of a season, it should be 
 Seasons should not be applied to music videos, advertisements/commercials, or experimental shorts.
 :::
 
+::: warning
+Until AniChart has region filtering added, seasons should not be applied to non-Japanese media. Anime co-productions will have seasons applied on a case-by-case basis.
+:::
+
 | Season | Period |
 | :--- | :--- |
 | Winter | January 01 to March 31 |
