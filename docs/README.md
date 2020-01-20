@@ -75,6 +75,13 @@ However, please don't give them a title and expect them to do all the work for y
 | [Morimasa](https://anilist.co/user/97630) | Anime |
 | [Odjn](https://anilist.co/user/103672) | Anime |
 | [straykid](https://anilist.co/user/117432) | Anime |
+| [Norskyy](https://anilist.co/user/277390) | Anime |
+| [Troy121](https://anilist.co/user/120802) | Anime |
+| [Devil](https://anilist.co/user/151580) | Anime |
+| [Flueckli](https://anilist.co/user/225419) | Anime |
+| [dragonfire535](https://anilist.co/user/196797) | Anime |
+| [breathesunshine](https://anilist.co/user/162489) | Anime |
+| [Crackler](https://anilist.co/user/207737) | Anime |
  
 #### Manga
  
@@ -99,6 +106,9 @@ However, please don't give them a title and expect them to do all the work for y
 | [Dunkan85](https://anilist.co/user/123696) | Manga |
 | [ScarletFairy](https://anilist.co/user/95901) | Manga |
 | [Oterino](https://anilist.co/user/241165) | Manga |
+| [Noyaxus](https://anilist.co/user/110871) | Manga |
+| [BC](https://anilist.co/user/95739) | Manga |
+| [Furudead](https://anilist.co/user/279543) | Manga |
  
 #### Other Roles
  
