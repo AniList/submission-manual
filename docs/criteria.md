@@ -384,7 +384,7 @@ Light novels can be added to the website if they meet all the following criteria
 3. The light novel is specified as being such by the author, original publisher, or the majority of major Japanese retailers.
 
 ::: warning
-In an event where a light novel were to promoted as a regular novel, or vice versa, the light novel can stay on the site as long it's labeled as such during its first publication.
+Should a light novel be promoted to a regular novel, or vice versa, the light novel may remain on the site so long as it's first publication is labeled as a light novel.
 
 Example: [Koten-bu Series](https://anilist.co/manga/65513/Kotenbu-Series/) was initially published under the light novel label *Kadokawa Sneakers Bunko*, but moved to *Kadokawa Shoten* in 2005.
 :::
