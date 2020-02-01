@@ -264,6 +264,12 @@ Works published on sites like [Twitter](http://twitter.com) or [Pixiv](http://pi
 
 Any accepted works from [Comico](https://www.comico.jp) or similar webtoon portals should be from the official section only, and not the self-publishing challenge section.
 
+::: tip
+In the event of a series having several, simultaneously running serializations with no clear main series AND a volume release that contains chapters from multiple of those serializations, a seperate entry should be made for the volume releases. All serializations that have chapters in it are then to be connected to it through a Compilation relation.
+
+Example: [Himegoto](https://anilist.co/manga/62833/Himegoto/)
+:::
+
 #### Doujinshi into Licensed Manga
 
 If series originally self-published online through platforms like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net) \(considered [doujinshi](./criteria.html#doujinshi)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be updated to manga by checking the [Self Published](./submissions.html#self-published) option. \(retaining the original self-published start date\).
@@ -376,6 +382,12 @@ Light novels can be added to the website if they meet all the following criteria
 1. The light novel must be of Japanese origin.  
 2. The light novel must be professionally published through a reputable publisher from companies such as [Kadokawa](https://www.kadokawa.co.jp/), [Kodansha](http://www.kodansha.co.jp/), [Alphapolis](https://www.alphapolis.co.jp/), and [Hobby Japan](http://hobbyjapan.co.jp/).  
 3. The light novel is specified as being such by the author, original publisher, or the majority of major Japanese retailers.
+
+::: warning
+Should a light novel be promoted to a regular novel, or vice versa, the light novel may remain on the site so long as it's first publication is labeled as a light novel.
+
+Example: [Koten-bu Series](https://anilist.co/manga/65513/Kotenbu-Series/) was initially published under the light novel label *Kadokawa Sneakers Bunko*, but moved to *Kadokawa Shoten* in 2005.
+:::
 
 #### Example light novel labels include things such as:
 - [Dengeki Bunko](https://dengekibunko.jp/)  
