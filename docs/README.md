@@ -63,14 +63,12 @@ However, please don't give them a title and expect them to do all the work for y
 | [Retui](http://anilist.co/user/1544) | Lead Anime |
 | [Kazakuri](http://anilist.co/user/4659) | Anime \(Hentai\) |
 | [Tiamo](http://anilist.co/user/44283) | Anime |
-| [Watashi](http://anilist.co/user/923) | Anime |
 | [Byrdn](http://anilist.co/user/2904) | Anime |
 | [Zex](https://anilist.co/user/87028) | Anime |
 | [Edo](https://anilist.co/user/40572) | Anime |
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |
 | [TACTICIANJACK](https://anilist.co/user/97263) | Anime |
 | [safe](https://anilist.co/user/120925) | Anime |
-| [Sakura](https://anilist.co/user/73541) | Anime |
 | [Electrochemist](https://anilist.co/user/148769) | Anime |
 | [Morimasa](https://anilist.co/user/97630) | Anime |
 | [Odjn](https://anilist.co/user/103672) | Anime |
@@ -89,17 +87,13 @@ However, please don't give them a title and expect them to do all the work for y
 | :--- | :--- |
 | [Mex](http://anilist.co/user/1790) | Lead Manga |
 | [IdleSheep](https://anilist.co/user/122659) | Lead Manga |
-| [Watashi](http://anilist.co/user/923) | Manga |
-| [Subpyro](http://anilist.co/user/27211) | Manga |
 | [Thunderplant](http://anilist.co/user/1828) | Manga |
 | [Orangealaid](http://anilist.co/user/2272) | Manga |
 | [InVale](http://anilist.co/user/57370) | Manga |
 | [Sumia](http://anilist.co/user/4359) | Manga |
-| [alice](http://anilist.co/user/20955) | Manga |
 | [Silver](https://anilist.co/user/33516) | Manga |
 | [nazo](https://anilist.co/user/109985) | Manga |
 | [TGG](https://anilist.co/user/63817) | Manga |
-| [Urtag](https://anilist.co/user/36596) | Manga |
 | [Flidaix](https://anilist.co/user/139213) | Manga |
 | [Yuuya](https://anilist.co/user/40553) | Manga |
 | [Maora](https://anilist.co/user/125450) | Manga |
