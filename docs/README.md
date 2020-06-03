@@ -64,7 +64,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [Kazakuri](http://anilist.co/user/4659) | Anime \(Hentai\) |
 | [Tiamo](http://anilist.co/user/44283) | Anime |
 | [Byrdn](http://anilist.co/user/2904) | Anime |
-| [Zex](https://anilist.co/user/87028) | Anime |
 | [Edo](https://anilist.co/user/40572) | Anime |
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |
 | [TACTICIANJACK](https://anilist.co/user/97263) | Anime |
@@ -114,7 +113,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
 | [Retui](http://anilist.co/user/1544) | Social Media |  | Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
-| [Zex](https://anilist.co/user/87028) |  |  | Community |
 | [Electrochemist](https://anilist.co/user/148769) |  |  | Community |
 | [Orangealaid](http://anilist.co/user/2272) |  |  | Community |
 | [TACTICIANJACK](https://anilist.co/user/97263) |  |  | Community |
