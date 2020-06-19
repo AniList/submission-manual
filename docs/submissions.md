@@ -202,7 +202,11 @@ The final episode count of the anime. This should be kept blank until an officia
 Please use the average length \(_**mode**_\) of episodes, rounded to the nearest minute. The 23-25 mark is standard for most TV anime. This can be left blank until a full-length episode has been released.
 
 ::: tip
-The mean duration can be used for entries with wildly varying lengths, such as [Genius Party](https://anilist.co/anime/3508/GeniusParty).
+The mean duration can be used for entries with wildly varying lengths, such as [Genius Party](https://anilist.co/anime/3508/GeniusParty). Another way to view this is that if a standard episode length can not accurately be stated for a work, that the work should use the mean for the duration. For an example of such, consider [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/). Low episode count works that have any variance in episode length will typically use the mean.
+:::
+
+::: tip
+In the event that a series has some episode of different length, but not enough to satisfy using the mean, a note should be added to the description explaining the duration of the exception and which episode it was, such as [Hibike! Euphonium 2](https://anilist.co/anime/21460/Hibike-Euphonium-2/).
 :::
 
 Volume and chapter counts are only added when the work is completed or confirmed complete. if the work is still publishing, both remain at _**zero**_.
@@ -357,6 +361,10 @@ Please _**don’t**_ add a [MyAnimeList](https://myanimelist.net/) ID if the ent
 Each submission to MyAnimeList generates its own ID, so it’s possible that the ID for the entry submitted to [AniList](https://anilist.co) will _**not**_ be the ID of the entry that MyAnimeList later approves, as some series will have multiple unapproved versions on the website.
 
 Incorrect IDs mean users using the import feature will receive an error or incorrect entry. Unfortunately, MyAnimeList can often take a long time to approve works \(more so for manga\), as such you may not be able to link entries for a while.
+:::
+
+::: warning
+In the event that AniList has an entry split into multiple parts but MyAnimeList has it as a single entry, such as [Aikatsu](https://myanimelist.net/anime/15061/Aikatsu), whereas AniList has it as multiple entries ([1](https://anilist.co/anime/15061/Aikatsu/), [2](https://anilist.co/anime/20181/Aikatsu-2/), [3](https://anilist.co/anime/20794/Aikatsu-3/), [4](https://anilist.co/anime/21307/Aikatsu-4/)) the ID should only be attached to the first entry.
 :::
 
 ### Self Published
@@ -529,7 +537,6 @@ Please refer to [Image Dimensions and Templates](./criteria.html#image-dimension
 ![banner example image](./img/banner-entries5.png)
 
 ![banner example image](./img/banner-entries4.png)
-
 
 ## Characters
 
@@ -1030,6 +1037,26 @@ Youtube
 
 ![External links page for the &apos;Ginga no Shinanai Kodomotachi e&apos; manga](./img/external_links_manga.png)
 
+
+## Notify Addition
+
+The notify addition page will display a list of all entries that are directly conntected to the current entry and how they are connected to it. On this page a moderator is able to send a notification to anyone who has the selected entries in their watching, rewatching, paused, or completed lists. A moderator is able to select or deselect any entries that are already connected to the current entry. 
+
+!!! tip
+Sending out addition notifications is available to moderators only.
+!!!
+
+## Submissions
+
+The submissions page will allow a moderator to see what currently pending submissions may exist for an entry. This is the page that is automatically brought up when a moderator clicks on a submission in the submission queue for an entry.
+
+!!! tip
+If multiple submissions currently exist for a single entry, the oldest will appear at the top.
+!!!
+
+!!! tip
+This page is visible to moderators only.
+!!!
 
 ## Revision History
 
