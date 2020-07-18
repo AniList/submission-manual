@@ -86,7 +86,6 @@ However, please don't give them a title and expect them to do all the work for y
 | :--- | :--- |
 | [Mex](http://anilist.co/user/1790) | Lead Manga |
 | [IdleSheep](https://anilist.co/user/122659) | Lead Manga |
-| [Thunderplant](http://anilist.co/user/1828) | Manga |
 | [Orangealaid](http://anilist.co/user/2272) | Manga |
 | [InVale](http://anilist.co/user/57370) | Manga |
 | [Sumia](http://anilist.co/user/4359) | Manga |
@@ -102,6 +101,7 @@ However, please don't give them a title and expect them to do all the work for y
 | [Noyaxus](https://anilist.co/user/110871) | Manga |
 | [BC](https://anilist.co/user/95739) | Manga |
 | [Furudead](https://anilist.co/user/279543) | Manga |
+| [Nea1407](http://anilist.co/user/363242) | Manga |
  
 #### Other Roles
  
