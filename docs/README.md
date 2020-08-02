@@ -79,6 +79,7 @@ However, please don't give them a title and expect them to do all the work for y
 | [dragonfire535](https://anilist.co/user/196797) | Anime |
 | [breathesunshine](https://anilist.co/user/162489) | Anime |
 | [Crackler](https://anilist.co/user/207737) | Anime |
+| [Basenji](https://anilist.co/user/189170) | Anime |
  
 #### Manga
  
@@ -102,6 +103,7 @@ However, please don't give them a title and expect them to do all the work for y
 | [BC](https://anilist.co/user/95739) | Manga |
 | [Furudead](https://anilist.co/user/279543) | Manga |
 | [Nea1407](http://anilist.co/user/363242) | Manga |
+| [SpinelSun](http://anilist.co/user/129377) | Manga |
  
 #### Other Roles
  
