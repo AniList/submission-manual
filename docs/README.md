@@ -71,7 +71,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [Electrochemist](https://anilist.co/user/148769) | Anime |
 | [Morimasa](https://anilist.co/user/97630) | Anime |
 | [Odjn](https://anilist.co/user/103672) | Anime |
-| [straykid](https://anilist.co/user/117432) | Anime |
 | [Norskyy](https://anilist.co/user/277390) | Anime |
 | [Troy121](https://anilist.co/user/120802) | Anime |
 | [Devil](https://anilist.co/user/151580) | Anime |
@@ -119,3 +118,4 @@ However, please don't give them a title and expect them to do all the work for y
 | [Orangealaid](http://anilist.co/user/2272) |  |  | Community |
 | [TACTICIANJACK](https://anilist.co/user/97263) |  |  | Community |
 | [Maora](https://anilist.co/user/125450) |  |  | Community |
+| [Dunkan85](https://anilist.co/user/123696) |  |  | Community |
