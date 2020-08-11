@@ -60,7 +60,6 @@ However, please don't give them a title and expect them to do all the work for y
 | Name | Role |
 | :--- | :--- |
 | [Taluun](http://anilist.co/user/21510) | Lead Anime |
-| [Retui](http://anilist.co/user/1544) | Lead Anime |
 | [Kazakuri](http://anilist.co/user/4659) | Anime \(Hentai\) |
 | [Tiamo](http://anilist.co/user/44283) | Anime |
 | [Byrdn](http://anilist.co/user/2904) | Anime |
@@ -68,7 +67,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |
 | [TACTICIANJACK](https://anilist.co/user/97263) | Anime |
 | [safe](https://anilist.co/user/120925) | Anime |
-| [Electrochemist](https://anilist.co/user/148769) | Anime |
 | [Morimasa](https://anilist.co/user/97630) | Anime |
 | [Odjn](https://anilist.co/user/103672) | Anime |
 | [Norskyy](https://anilist.co/user/277390) | Anime |
@@ -84,7 +82,6 @@ However, please don't give them a title and expect them to do all the work for y
  
 | Name | Role |
 | :--- | :--- |
-| [Mex](http://anilist.co/user/1790) | Lead Manga |
 | [IdleSheep](https://anilist.co/user/122659) | Lead Manga |
 | [Orangealaid](http://anilist.co/user/2272) | Manga |
 | [InVale](http://anilist.co/user/57370) | Manga |
@@ -110,11 +107,8 @@ However, please don't give them a title and expect them to do all the work for y
 | :--- | :--- | :--- | :--- |
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
 | [matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
-| [Mex](http://anilist.co/user/1790) | Social Media |  | Community |
 | [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
-| [Retui](http://anilist.co/user/1544) | Social Media |  | Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
-| [Electrochemist](https://anilist.co/user/148769) |  |  | Community |
 | [Orangealaid](http://anilist.co/user/2272) |  |  | Community |
 | [TACTICIANJACK](https://anilist.co/user/97263) |  |  | Community |
 | [Maora](https://anilist.co/user/125450) |  |  | Community |
