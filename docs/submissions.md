@@ -222,15 +222,15 @@ The mean duration can be used for entries with wildly varying lengths, such as [
 
 The total number of chapters in the first edition of the physical volumes. Or, if volumes were never printed, the total number of chapters in the magazine/site the work was in. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters and some prologues and epilogues.
 
-::Tip
-Bonus chapters are often referred as 番外編 \(_Bangaihen_\) and 書き下ろし \(_Kakioroshi_\) in the table of contents.
-::
-
 This exclude special pages for things such as advertising volume releases or author comments.
 
 Volume and chapter counts are only added when the work is completed or confirmed complete. if the work is still publishing, both remain at _**zero**_.
 
 One-Shots should have the chapter count as _**one**_ and the volume count left as _**zero**_.
+
+::Tip
+Bonus chapters are often referred as 番外編 \(_Bangaihen_\) and 書き下ろし \(_Kakioroshi_\) in the table of contents.
+::
 
 #### Volumes
 
