@@ -220,7 +220,7 @@ The mean duration can be used for entries with wildly varying lengths, such as [
 
 ### Chapters & Volumes
 
-The total number of chapters in the _**original**_ serialization of the work. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters and some prologues and epilogues.
+The total number of chapters in the first edition of the physical volumes. Or, if volumes were never printed, the total number of chapters in the magazine/site the work was in. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters and some prologues and epilogues.
 
 This exclude special pages for things such as advertising volume releases or author comments.
 
