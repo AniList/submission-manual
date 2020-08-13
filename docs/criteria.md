@@ -514,6 +514,8 @@ South Korean
 - [https://www.justoon.co.kr](https://www.justoon.co.kr/)  
 - [http://toomics.com](http://toomics.com/)  
 - [http://bomtoon.com](http://bomtoon.com)
+- [https://toptoon.com/](https://toptoon.com/)
+- [https://m.mrblue.com/](https://m.mrblue.com/)
 :::
 
 ::: tab "Not Accepted"
