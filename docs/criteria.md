@@ -494,7 +494,7 @@ Japanese
 - [https://www.comico.jp](https://www.comico.jp/) \(Official works only, not Challenge\)  
 - [https://piccoma.com](https://piccoma.com/web/)  
 - [https://sai-zen-sen.jp](https://sai-zen-sen.jp/comics/twi4/)  
-- [http://seiga.nicovideo.jp](http://seiga.nicovideo.jp/)  
+- [http://seiga.nicovideo.jp](http://seiga.nicovideo.jp/) \(Only with the official \(公式\) serialization header\)
 - [https://xoy.webtoons.com/ja](https://xoy.webtoons.com/ja) \(Official words only, not League\)
 
 Chinese  
@@ -633,6 +633,7 @@ The romanization of names and titles is done in a variation of [Traditional Hepb
 * Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\).  
 * Alternate spellings advocated by the creator\(s\) of the work are applied, if required.  
 * Things such as 'っち', 'っちゃ', and 'っちょ' are romanized as 'cchi', 'ccha', and 'ccho' respectively. This is opposed to the traditional 'tchi', 'tcha', and 'tcho'.  
+* 'を' is written as 'wo'.
 * 'ん' is always written as 'n'.  
 * Words adopted into English are written in that standard  \(Example: _Tokyo_ and _Osaka_ instead of _Toukyou_ and _Oosaka_ respectively\).  
 * Full-width punctuation should _**always**_ be converted to half-width or equivalent. \(。to . , ！to ! , ？to ?\)
@@ -649,6 +650,7 @@ Examples:
 | 乙女ゲー世界はモブに厳しい世界です | Otomege Sekai wa Mob ni Kibishii Sekai desu |
 | ふたご、ふたごころ。 | Futago, Futagokoro. |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt; |
+| 君の膵臓をたべたい | [Kimi no Suizou wo Tabetai](https://anilist.co/anime/99750/)
 
 ### Title Modification
 
@@ -730,7 +732,6 @@ Examples of how to deal with non-alphanumeric characters in titles can be seen i
 | 魔法少女2世 | [Mahou Shoujo 2-sei](https://anilist.co/manga/104770/Mahou-Shoujo-2sei/) |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | [Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt;](https://anilist.co/manga/104760/Horobi-Doki-dato-Kanojo-wa-Tsugeta-InouHanzaiSousa-Rei-Kyoku/) |
 | 政宗くんのリベンジafter school | [Masamune-kun no Revenge After School](https://anilist.co/manga/104896) |
-| 上を下へのジレッタ | [Ue wo Shita e no Jiretta](https://anilist.co/manga/106665/)
 
 
 ## Image Dimensions, and Templates
