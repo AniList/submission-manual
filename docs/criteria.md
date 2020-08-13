@@ -384,7 +384,7 @@ Light novels can be added to the website if they meet all the following criteria
 3. The light novel is specified as being such by the author, original publisher, or the majority of major Japanese retailers.
 
 ::: warning
-Should a light novel be promoted to a regular novel, or vice versa, the light novel may remain on the site so long as it's first publication is labeled as a light novel.
+Should a light novel be promoted to a regular novel, the light novel may remain on the site so long as its first publication is labeled as one.
 
 Example: [Koten-bu Series](https://anilist.co/manga/65513/Kotenbu-Series/) was initially published under the light novel label *Kadokawa Sneakers Bunko*, but moved to *Kadokawa Shoten* in 2005.
 :::
@@ -504,6 +504,7 @@ Chinese
 - [http://manhua.weibo.com](http://manhua.weibo.com/)  
 - [https://read.douban.com](https://read.douban.com/)  
 - [https://www.dajiaochongmanhua.com](https://www.dajiaochongmanhua.com/)
+- [https://manga.bilibili.com/](https://manga.bilibili.com/)
 
 South Korean  
 - [https://comic.naver.com](https://comic.naver.com/) \(Featured works only, not Challenge\)  
@@ -528,6 +529,7 @@ Multi-language
 - [https://www.tapas.io](https://tapas.io/)  
 - [https://www.twitter.com](https://www.twitter.com)  
 - [https://www.webtoons.com](https://www.webtoons.com/) \(Featured works on the Korean \([NAVER](https://comic.naver.com/)\) and Japanese \([XOY](https://xoy.webtoons.com/ja/)\) equivalents are allowed.\)
+- [https://www.webcomicsapp.com/](https://www.webcomicsapp.com/)
 :::
 
 ::::
@@ -721,6 +723,7 @@ Examples of how to deal with non-alphanumeric characters in titles can be seen i
 | 魔法少女2世 | [Mahou Shoujo 2-sei](https://anilist.co/manga/104770/Mahou-Shoujo-2sei/) |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | [Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt;](https://anilist.co/manga/104760/Horobi-Doki-dato-Kanojo-wa-Tsugeta-InouHanzaiSousa-Rei-Kyoku/) |
 | 政宗くんのリベンジafter school | [Masamune-kun no Revenge After School](https://anilist.co/manga/104896) |
+| 上を下へのジレッタ | [Ue wo Shita e no Jiretta](https://anilist.co/manga/106665/)
 
 
 ## Image Dimensions, and Templates
