@@ -1035,7 +1035,7 @@ Lezhin (KO)
 Madman
 Manga Plus
 Manga.Club
-Mangabox
+Mangabox (JP)
 Manman Manhua (CN)
 Midnight Pulp
 Naver (KO)
