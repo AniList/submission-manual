@@ -650,7 +650,7 @@ Examples:
 | 乙女ゲー世界はモブに厳しい世界です | Otomege Sekai wa Mob ni Kibishii Sekai desu |
 | ふたご、ふたごころ。 | Futago, Futagokoro. |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt; |
-| 君の膵臓をたべたい | [Kimi no Suizou wo Tabetai](https://anilist.co/anime/99750/)
+| 君の膵臓をたべたい | Kimi no Suizou wo Tabetai |
 
 ### Title Modification
 
