@@ -534,6 +534,7 @@ Chinese
 Multi-language  
 - [https://www.smackjeeves.com/](https://www.smackjeeves.com/) \(Featured works on [Comico](https://www.comico.jp/) are allowed.\)
 - [https://www.tapas.io](https://tapas.io/)  
+- [https://www.tappytoon.com/](https://www.tappytoon.com/)
 - [https://www.twitter.com](https://www.twitter.com)  
 - [https://www.webcomicsapp.com/](https://www.webcomicsapp.com/)
 - [https://www.webtoons.com](https://www.webtoons.com/) \(Featured works on the Korean \([NAVER](https://comic.naver.com/)\) and Japanese \([XOY](https://xoy.webtoons.com/ja/)\) equivalents are allowed.\)
@@ -541,6 +542,15 @@ Multi-language
 
 ::::
 
+Any submission that includes a link source from the multi-language section does not automatically result in a rejection. Try to find another source from the approved websites list, sometimes provided by MangaUpdates, and check to see if the native site's release dates occurred first.  
+
+Example 1: 
+
+> [_The Beloved Little Princess_](https://anilist.co/manga/117320/) was originally published by [KakaoPage](https://page.kakao.com/home?seriesId=54680399&page=1) on March 26, 2020 and later picked up by [Tappytoon](https://www.tappytoon.com/en/comics/beloved-little-princess).
+
+Example 2:
+
+> While it's available on [KakaoPage](https://page.kakao.com/home?seriesId=53142176) as of June 2019, _The Beginning After the End_ fails our qualifications as it was originally published by [Tapas](https://tapas.io/series/tbate-comic/info) on July 7, 2018.
 
 
 ## Sourcing
