@@ -107,7 +107,7 @@ However, please don't give them a title and expect them to do all the work for y
 | Name | Role | Role | Role |
 | :--- | :--- | :--- | :--- |
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
-| [matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
+| [matchai](http://anilist.co/user/2) | Developer | Lead Social Media | Lead Community |
 | [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
 | [Mochizou](https://anilist.co/user/87028) |  |  | Community |
