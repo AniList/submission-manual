@@ -218,23 +218,31 @@ Please use the average length \(_**mode**_\) of episodes, rounded to the nearest
 The mean duration can be used for entries with wildly varying lengths, such as [Genius Party](https://anilist.co/anime/3508/GeniusParty).
 :::
 
+### Chapters & Volumes
+
+The total number of chapters in the first edition of the physical volumes. Or, if volumes were never printed, the total number of chapters in the magazine/site the work was in. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters, and some prologues and epilogues.
+
+This excludes special pages for things such as advertising volume releases or author comments.
+
 Volume and chapter counts are only added when the work is completed or confirmed complete. if the work is still publishing, both remain at _**zero**_.
 
 One-Shots should have the chapter count as _**one**_ and the volume count left as _**zero**_.
 
-::: warning
-The use of ‘original’ below is due to the fact that series can have new editions printed, omnibus volumes if licensed, etc. These can have different counts than the original runs.
-:::
-
-### Chapters & Volumes
-
-The total number of chapters in the _**original**_ serialization of the work. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters and some prologues and epilogues.
-
-This does not exclude special pages for things such as advertising volume releases or author comments.
+::Tip
+Bonus chapters are often referred as 番外編 \(_Bangaihen_\) and 書き下ろし \(_Kakioroshi_\) in the table of contents.
+::
 
 #### Volumes
 
 The total number of volumes in the _**original**_ print or eBook run of the work.
+
+::: warning
+The use of ‘original’ above is due to the fact that series can have new editions printed, omnibus volumes if licensed, etc. These can have different counts than the original runs.
+:::
+
+::: warning
+If a specific manhwa or manhua title goes by 'seasons', the volume count must remain at _**zero**_. Instead, add the seasons and the amount of chapters it contains in the entry description.
+:::
 
 ### Genres
 
@@ -281,6 +289,12 @@ A basic, spoiler-free description of the entry. This should be in English and a 
 Descriptions use HTML.  
 Please use &lt;br&gt; for line breaks.  
 Links can be added as so: &lt;a href="website"&gt;NAME&lt;/a&gt;
+:::
+
+::: warning
+Do not source piracy sites for manga. Instead, look for a legal alternative, such as the official English licensor \(Example: Kodansha Comics\) or another English database \(Example: MangaUpdates\). 
+
+If no other alternative appears, use _\(Source: Japanese Publisher, translated\)_ or any equivalent of it.
 :::
 
 #### Formatting Best Practices
@@ -1035,7 +1049,7 @@ Lezhin (KO)
 Madman
 Manga Plus
 Manga.Club
-Mangabox
+Mangabox (JP)
 Manman Manhua (CN)
 Midnight Pulp
 Naver (KO)

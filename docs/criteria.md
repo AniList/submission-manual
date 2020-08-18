@@ -384,7 +384,7 @@ Light novels can be added to the website if they meet all the following criteria
 3. The light novel is specified as being such by the author, original publisher, or the majority of major Japanese retailers.
 
 ::: warning
-Should a light novel be promoted to a regular novel, or vice versa, the light novel may remain on the site so long as it's first publication is labeled as a light novel.
+Should a light novel be promoted to a regular novel, the light novel may remain on the site so long as its first publication is labeled as one.
 
 Example: [Koten-bu Series](https://anilist.co/manga/65513/Kotenbu-Series/) was initially published under the light novel label *Kadokawa Sneakers Bunko*, but moved to *Kadokawa Shoten* in 2005.
 :::
@@ -489,49 +489,68 @@ If the work originally published on ‘_Not Accepted_‘ websites is later picke
 :::: tabs :options="{ useUrlFragment: false }"
 ::: tab Accepted
 Japanese  
-- [https://comic-walker.com](https://comic-walker.com/)  
 - [https://comic.pixiv.net](https://comic.pixiv.net/)  
-- [http://seiga.nicovideo.jp](http://seiga.nicovideo.jp/)  
+- [https://comic-walker.com](https://comic-walker.com/)  
 - [https://www.comico.jp](https://www.comico.jp/) \(Official works only, not Challenge\)  
-- [https://sai-zen-sen.jp](https://sai-zen-sen.jp/comics/twi4/)  
 - [https://piccoma.com](https://piccoma.com/web/)  
+- [https://sai-zen-sen.jp](https://sai-zen-sen.jp/comics/twi4/)  
+- [http://seiga.nicovideo.jp](http://seiga.nicovideo.jp/) \(Only with the official \(公式\) serialization header\)
 - [https://xoy.webtoons.com/ja](https://xoy.webtoons.com/ja) \(Official words only, not League\)
 
 Chinese  
 - [http://ac.qq.com](http://ac.qq.com)  
+- [https://www.dajiaochongmanhua.com](https://www.dajiaochongmanhua.com/)
+- [https://www.dongmanmanhua.cn/](https://www.dongmanmanhua.cn/)
+- [https://www.kaimanhua.com/](https://www.kaimanhua.com/)
 - [http://www.kuaikanmanhua.com](http://www.kuaikanmanhua.com/)  
 - [https://www.manmanapp.com](https://www.manmanapp.com/)  
 - [http://manhua.weibo.com](http://manhua.weibo.com/)  
+- [https://www.manhuatai.com/](https://www.manhuatai.com/)
+- [https://manga.bilibili.com/](https://manga.bilibili.com/)
 - [https://read.douban.com](https://read.douban.com/)  
-- [https://www.dajiaochongmanhua.com](https://www.dajiaochongmanhua.com/)
+- [https://www.zymk.cn/](https://www.zymk.cn/)
 
 South Korean  
-- [https://comic.naver.com](https://comic.naver.com/) \(Featured works only, not Challenge\)  
-- [http://webtoon.daum.net](http://webtoon.daum.net/) \(Official works only, not League\)  
-- [https://www.lezhin.com](https://www.lezhin.com/)  
-- [https://page.kakao.com](https://page.kakao.com/)  
-- [https://www.justoon.co.kr](https://www.justoon.co.kr/)  
-- [http://toomics.com](http://toomics.com/)  
 - [http://bomtoon.com](http://bomtoon.com)
+- [https://comic.naver.com](https://comic.naver.com/) \(Featured works only, not Challenge\)  
+- [https://www.justoon.co.kr](https://www.justoon.co.kr/)  
+- [https://www.lezhin.com](https://www.lezhin.com/)  
+- [https://m.mrblue.com/](https://m.mrblue.com/)
+- [https://page.kakao.com](https://page.kakao.com/)  
+- [http://toomics.com](http://toomics.com/)  
+- [https://toptoon.com/](https://toptoon.com/)
+- [http://webtoon.daum.net](http://webtoon.daum.net/) \(Official works only, not League\)  
 :::
 
 ::: tab "Not Accepted"
 Japanese  
+- [http://www.pixiv.net](http://pixiv.net/) \(However [PixivComics](https://comic.pixiv.net/) is allowed\)
 - [http://www.syosetu.com](http://syosetu.com/)  
 - [http://toko.takekuma.jp](http://toko.takekuma.jp/) \(However [Dennou Mavo](http://mavo.takekuma.jp/) is allowed\)  
-- [http://www.pixiv.net](http://pixiv.net/) \(However [PixivComics](https://comic.pixiv.net/) is allowed\)
 
 Chinese  
 - [http://u17.com](http://u17.com)
 
 Multi-language  
+- [https://www.smackjeeves.com/](https://www.smackjeeves.com/) \(Featured works on [Comico](https://www.comico.jp/) are allowed.\)
 - [https://www.tapas.io](https://tapas.io/)  
+- [https://www.tappytoon.com/](https://www.tappytoon.com/)
 - [https://www.twitter.com](https://www.twitter.com)  
+- [https://www.webcomicsapp.com/](https://www.webcomicsapp.com/)
 - [https://www.webtoons.com](https://www.webtoons.com/) \(Featured works on the Korean \([NAVER](https://comic.naver.com/)\) and Japanese \([XOY](https://xoy.webtoons.com/ja/)\) equivalents are allowed.\)
 :::
 
 ::::
 
+Any submission that includes a link source from the multi-language section does not automatically result in a rejection. Try to find another source from the approved websites list, sometimes provided by MangaUpdates, and check to see if the native site's release dates occurred first.  
+
+Example 1: 
+
+> [_The Beloved Little Princess_](https://anilist.co/manga/117320/) was originally published by [KakaoPage](https://page.kakao.com/home?seriesId=54680399&page=1) on March 26, 2020 and later picked up by [Tappytoon](https://www.tappytoon.com/en/comics/beloved-little-princess).
+
+Example 2:
+
+> While it's available on [KakaoPage](https://page.kakao.com/home?seriesId=53142176) as of June 2019, _The Beginning After the End_ fails our qualifications as it was originally published by [Tapas](https://tapas.io/series/tbate-comic/info) on July 7, 2018.
 
 
 ## Sourcing
@@ -624,6 +643,7 @@ The romanization of names and titles is done in a variation of [Traditional Hepb
 * Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\).  
 * Alternate spellings advocated by the creator\(s\) of the work are applied, if required.  
 * Things such as 'っち', 'っちゃ', and 'っちょ' are romanized as 'cchi', 'ccha', and 'ccho' respectively. This is opposed to the traditional 'tchi', 'tcha', and 'tcho'.  
+* 'を' is written as 'wo'.
 * 'ん' is always written as 'n'.  
 * Words adopted into English are written in that standard  \(Example: _Tokyo_ and _Osaka_ instead of _Toukyou_ and _Oosaka_ respectively\).  
 * Full-width punctuation should _**always**_ be converted to half-width or equivalent. \(。to . , ！to ! , ？to ?\)
@@ -640,6 +660,7 @@ Examples:
 | 乙女ゲー世界はモブに厳しい世界です | Otomege Sekai wa Mob ni Kibishii Sekai desu |
 | ふたご、ふたごころ。 | Futago, Futagokoro. |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt; |
+| 君の膵臓をたべたい | Kimi no Suizou wo Tabetai |
 
 ### Title Modification
 
