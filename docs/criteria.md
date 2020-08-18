@@ -594,6 +594,8 @@ Please remember that magazine issue date is not always the month the magazine wa
 * [Natalie 'New Serialization' tag](https://natalie.mu/comic/tag/43) - Articles about new serials.
 * [Natalie 'Completed Serialization' tag](https://natalie.mu/comic/tag/42) - Articles about ending serials.
 * [Natalie 'Vol. 1 Release' tag](https://natalie.mu/comic/tag/59) - Articles about first volume releases.
+* [Namu Wiki](https://namu.wiki/) \(South Korea\) for character information, source material and release dates.
+* [Webtoon Guide](https://www.webtoonguide.com/en/) \(South Korea\) for platform compilation and release dates.
 
 
 ### Tools

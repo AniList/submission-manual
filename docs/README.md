@@ -63,6 +63,7 @@ However, please don't give them a title and expect them to do all the work for y
 | [Kazakuri](http://anilist.co/user/4659) | Anime \(Hentai\) |
 | [Tiamo](http://anilist.co/user/44283) | Anime |
 | [Byrdn](http://anilist.co/user/2904) | Anime |
+| [Mochizou](https://anilist.co/user/87028) | Anime |
 | [Edo](https://anilist.co/user/40572) | Anime |
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |
 | [TACTICIANJACK](https://anilist.co/user/97263) | Anime |
@@ -106,10 +107,15 @@ However, please don't give them a title and expect them to do all the work for y
 | Name | Role | Role | Role |
 | :--- | :--- | :--- | :--- |
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
-| [matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
+| [matchai](http://anilist.co/user/2) | Developer | Lead Social Media | Lead Community |
 | [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
+| [Mochizou](https://anilist.co/user/87028) |  |  | Community |
 | [Orangealaid](http://anilist.co/user/2272) |  |  | Community |
 | [TACTICIANJACK](https://anilist.co/user/97263) |  |  | Community |
 | [Maora](https://anilist.co/user/125450) |  |  | Community |
 | [Dunkan85](https://anilist.co/user/123696) |  |  | Community |
+| [Morimasa](https://anilist.co/user/97630) |  |  | Community |
+| [Flidaix](https://anilist.co/user/139213) |  | Social Media |  |
+| [Odjn](https://anilist.co/user/103672) |  | Social Media |  |
+| [Devil](https://anilist.co/user/151580) |  | Social Media |  |

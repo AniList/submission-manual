@@ -228,9 +228,9 @@ Volume and chapter counts are only added when the work is completed or confirmed
 
 One-Shots should have the chapter count as _**one**_ and the volume count left as _**zero**_.
 
-::Tip
+::: tip
 Bonus chapters are often referred as 番外編 \(_Bangaihen_\) and 書き下ろし \(_Kakioroshi_\) in the table of contents.
-::
+:::
 
 #### Volumes
 
