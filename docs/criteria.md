@@ -233,16 +233,16 @@ Example 3:
 
 #### Database Criteria
 
-There is a limitation on manga that can be accepted to the site, notably they should works that were first published through a reputable Japanese publisher. [Doujinshi](./criteria.html#doujinshi) is an exception, please refer to that section.
+There is a limitation on manga that can be accepted to the site, notably they should be works that were first published through a reputable Japanese publisher. [Doujinshi](./criteria.html#doujinshi) is an exception, please refer to that section.
 
 Example magazines include things such as:
 
 :::: tabs :options="{ useUrlFragment: false }"
 
 ::: tab "Print Magazines"
-- [Weekly Shounen Jump](http://www.shonenjump.com/)
+- [Weekly Shounen Jump](https://www.shonenjump.com/j/index.html)
 - [Comic Earthstar](https://comic-earthstar.jp/)
-- [Dengeki Daioh](http://daioh.dengeki.com/)
+- [Dengeki Daioh](https://dengekidaioh.jp/)
 - [Manga Time Kirara](http://www.dokidokivisual.com/)
 - [Kindai Mahjong](http://kinma.takeshobo.co.jp/)
 - [Betsuma](http://betsuma.shueisha.co.jp/)
@@ -252,7 +252,7 @@ Example magazines include things such as:
 - [Comic Bunch](http://www.comicbunch.com/)
 - [Sunday Webry](https://www.sunday-webry.com/)
 - [LEED Cafe](http://leedcafe.com/)
-- [Dengeki @vitamin](http://dc.dengeki.com/vitamin/)
+- [Dengeki @vitamin](http://gs.dengeki.com/vitamin/)
 - [Ohta Web Comic](http://webcomic.ohtabooks.com/)
 :::
 
@@ -260,13 +260,19 @@ Example magazines include things such as:
 
 There are many sites that work with multiple publishers to release serializations digitally, such as [PixivComic](https://comic.pixiv.net/), [ComicWalker](https://comic-walker.com/), and [Nico Nico Seiga](https://seiga.nicovideo.jp/).
 
-Works published on sites like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net)’s non-comic section are usually not accepted _**unless**_ they are titled works uploaded by an author already in serialization, in which they’ll be classed as [doujinshi](./criteria.html#doujinshi).
+Works published on sites like [Twitter](https://twitter.com) or [Pixiv](https://www.pixiv.net)’s non-comic section are usually not accepted _**unless**_ they are titled works uploaded by an author already in serialization, in which they’ll be classed as [doujinshi](./criteria.html#doujinshi).
 
 Any accepted works from [Comico](https://www.comico.jp) or similar webtoon portals should be from the official section only, and not the self-publishing challenge section.
 
+::: tip
+In the event of a series having several, simultaneously running serializations with no clear main series AND a volume release that contains chapters from multiple of those serializations, a seperate entry should be made for the volume releases. All serializations that have chapters in it are then to be connected to it through a Compilation relation.
+
+Example: [Himegoto](https://anilist.co/manga/62833/Himegoto/)
+:::
+
 #### Doujinshi into Licensed Manga
 
-If series originally self-published online through platforms like [Twitter](http://twitter.com) or [Pixiv](http://pixiv.net) \(considered [doujinshi](./criteria.html#doujinshi)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be updated to manga by checking the [Self Published](./submissions.html#self-published) option. \(retaining the original self-published start date\).
+If series originally self-published online through platforms like [Twitter](http://twitter.com) or [Pixiv](https://www.pixiv.net) \(considered [doujinshi](./criteria.html#doujinshi)\) are later picked up by a professional publisher and released without significant change, any existing entry in AniList under the doujinshi format would be updated to manga by checking the [Self Published](./submissions.html#self-published) option. \(retaining the original self-published start date\).
 
 ::: warning
 If the serialization is an _**entirely**_ new work, and not a re-publication of the original chapters, a new entry should be made using the start date as the date of serialization. The original work could still be eligible to enter the database as doujinshi.
@@ -282,7 +288,7 @@ Example 1:
 
 Example 2:
 
-> [Sanpakugan-chan wa Tsutaetai.](https://anilist.co/manga/104776/Sanpakuganchan-wa-Tsutaetai/) was first released on Twitter \([here](https://twitter.com/syunsuke1009/status/1004317076788408320)\) before the publisher [GANGANpixiv](https://gangan.pr-pixiv.net/) began serialization.  
+> [Sanpakugan-chan wa Tsutaetai.](https://anilist.co/manga/103184/Sanpakuganchan-wa-Tsutaetai/) was first released on Twitter \([here](https://twitter.com/syunsuke1009/status/1004317076788408320)\) before the publisher [GANGANpixiv](https://gangan.pr-pixiv.net/) began serialization.  
 >   
 > Like the first example, this also could have been eligible to be entered as doujinshi at first, if meeting the other requirements.
 >
@@ -296,17 +302,17 @@ Example 2:
 There is a limitation on manhua that can be accepted to the site, notably they should be professionally published works through a reputable Chinese publisher.
 
 ::: tip
-Refer to the [Web Platform List](w#) for a list of most major professional publishers.
+Refer to the [Web Platform List](./criteria.html#web-platform-examples) for a list of most major professional publishers.
 :::
 
 ::: warning
-Works should _**not**_ be published through self-publishing platforms such as [Tapas.io](http://tapas.io). This condition can be waived if an official adaptation/translation of existing professionally published material is being legally hosted on one of these sites or if the title in question is later picked up by a professional publisher _**of the same language.**_
+Works should _**not**_ be published through self-publishing platforms such as [Tapas.io](https://tapas.io). This condition can be waived if an official adaptation/translation of existing professionally published material is being legally hosted on one of these sites or if the title in question is later picked up by a professional publisher _**of the same language.**_
 :::
 
 [Sina Weibo Manhua](http://manhua.weibo.com/), [Douban eBook publications](https://read.douban.com/) \(and other companies like them\) are generally acceptable as they review titles before deciding to publish them on their platforms.
 
 ::: tip
-At times, you will see works often listed with three separate authorship entries on sites like [QQ](http://ac.qq.com/), which can be linked to the below [AniList](http://anilist.co) roles. This could mean multiple ‘Story’ credits.
+At times, you will see works often listed with three separate authorship entries on sites like [QQ](http://ac.qq.com/), which can be linked to the below [staff roles](./submissions.html#staff-role). This could mean multiple ‘Story’ credits.
 
 作者 - Story  
 图 - Art  
@@ -321,17 +327,17 @@ At times, you will see works often listed with three separate authorship entries
 There is a limitation on manhwa that can be accepted to the site, notably they should be professionally published works through a reputable South Korean publisher.
 
 ::: warning
-North Korean manwha is no longer accepeted.
+North Korean manhwa is no longer accepted.
 :::
 
 ::: tip
 Refer to the [Web Platform List](./criteria.html#web-platform-examples) for a list of most major professional publishers.
 :::
 
-_**Don’t**_ accept works from parts of sites \(and others\) where any users can submit works, such as [Naver](https://comic.naver.com/)’s '_Best Challenge/Challenge_' section, or [Daum](http://webtoon.daum.net/)’s '_League_' section.
+Works from parts of sites \(and others\) where anybody can submit works, such as [Naver](https://comic.naver.com/)’s '_Best Challenge/Challenge_' section, or [Daum](http://webtoon.daum.net/)’s '_League_' section are _**not**_ acceptable.
 
 ::: warning
-Works should _**not**_ be published through self-publishing platforms such as [Tapas.io](http://Tapas.io). This condition can be waived if an official adaptation/translation of existing professionally published material is being legally hosted on one of these sites or if the title in question is later picked up by a professional publisher _**of the same language.**_
+Works should _**not**_ be published through self-publishing platforms such as [Tapas.io](https://tapas.io). This condition can be waived if an official adaptation/translation of existing professionally published material is being legally hosted on one of these sites or if the title in question is later picked up by a professional publisher _**of the same language.**_
 :::
 
 [Kakao Page](https://page.kakao.com/main) \(and other companies like them\) are generally acceptable as they review titles before deciding to publish them on their platforms.
@@ -343,28 +349,28 @@ Works should _**not**_ be published through self-publishing platforms such as [T
 
 Doujinshi can be added to the website if it meets all the following criteria:
 
-1. The doujinshi is by an _**already**_ serialized mangaka.  
-2. It meets the Japanese '[Country Of Origin](./submissions.html#country-of-origin)'.  
-3. The doujinshi is not based on existing published material \(anime, manga, manhwa etc.\) - it must be an _**original**_ work.
+1. The doujinshi is by an _**already**_ serialized mangaka.
+2. The doujinshi must be of Japanese [origin](./submissions.html#country-of-origin).
+3. The doujinshi is not based on existing published material \(anime, manga, manhwa, etc.\) - it must be an _**original**_ work.
 
-Doujinshi is not a format on AniList, instead, you have to the toggle the [Self Published ](./submissions.html#self-published)option.
+Doujinshi is not a format on AniList, instead, you have to the toggle the [Self Published](./submissions.html#self-published) option.
 
 ::: warning
 The ‘_original work_’ rule can be waived if the doujinshi in question is by the original author of the existing material or by staff who directly worked on an anime project.
 
-Example:  
+Example 1:<br>
 [R of Black Lagoon](https://anilist.co/manga/87131/R-of-Blacklagoon/) is a doujinshi of [Black Lagoon](https://anilist.co/manga/30735/Black-Lagoon/) published by the original author, [Hiroe Rei](https://anilist.co/staff/97578/Rei-Hiroe).
 
-Example:
+Example 2:<br>
 [RKGKMDK](https://anilist.co/manga/60257/) is a doujinshi of [Mahou Shoujo Madoka★Magica](https://anilist.co/anime/9756/) by the original character designer, [Ume Aoki](https://anilist.co/staff/97969/).
 :::
 
 ::: tip
-Some doujinshi that enter serialization may be converted to the manga format provided the new serialization is not an entirely new work. Please refer to [manga](./criteria.html#doujinshi-into-licensed-manga) for more information.
+Some doujinshi that enter serialization may be converted to the manga format provided the new serialization is not an entirely new work. Please refer to [Manga](./criteria.html#doujinshi-into-licensed-manga) for more information.
 ::: 
 
 ::: warning
-One-off doujinshi are _**not**_ to be labeled as one-shot. Instead, select **manga** from the format field.
+One-off doujinshi are _**not**_ to be labeled as one-shot. Please refer to [One-Shots](./criteria.html#one-shots). Instead, select **manga** from the format field.
 :::
 
 ### Light Novels
@@ -373,33 +379,40 @@ One-off doujinshi are _**not**_ to be labeled as one-shot. Instead, select **man
 
 Light novels can be added to the website if they meet all the following criteria:
 
-1. The light novel must be of Japanese origin.  
-2. The light novel must be professionally published through a reputable publisher from companies such as [Kadokawa](https://www.kadokawa.co.jp/), [Kodansha](http://www.kodansha.co.jp/), [Alphapolis](https://www.alphapolis.co.jp/), and [Hobby Japan](http://hobbyjapan.co.jp/).  
+1. The light novel must be of Japanese [origin](./submissions.html#country-of-origin).
+2. The light novel must be professionally published through a reputable publisher from companies such as [Kadokawa](https://www.kadokawa.co.jp/), [Kodansha](http://www.kodansha.co.jp/), [Alphapolis](https://www.alphapolis.co.jp/), and [Hobby Japan](http://hobbyjapan.co.jp/).
 3. The light novel is specified as being such by the author, original publisher, or the majority of major Japanese retailers.
 
-#### Example light novel labels include things such as:
-- [Dengeki Bunko](https://dengekibunko.jp/)  
-- [MF Bunko J](https://mfbunkoj.jp/)  
-- [Kadokawa Sneaker Bunko](https://sneakerbunko.jp/)  
-- [Famitsu Bunko](http://www.enterbrain.co.jp/fb/)  
-- [HJ Bunko](http://hobbyjapan.co.jp/hjbunko/)  
-- [Gagaga Bunko](http://gagagabunko.jp/)  
-- [GA Bunko](https://ga.sbcr.jp/)  
-- [Media Works Bunko](http://mwbunko.com/)  
-- [Alpha Light Bunko](http://www.alphalight-books.com/)  
+::: warning
+Should a light novel be promoted to a regular novel, the light novel may remain on the site so long as its first publication is labeled as one.
+
+Example: [Koten-bu Series](https://anilist.co/manga/65513/Kotenbu-Series/) was initially published under the light novel label *Kadokawa Sneakers Bunko*, but moved to *Kadokawa Shoten* in 2005.
+:::
+
+#### Example light novel labels include:
+- [Dengeki Bunko](https://dengekibunko.jp/)
+- [MF Bunko J](https://mfbunkoj.jp/)
+- [Kadokawa Sneaker Bunko](https://sneakerbunko.jp/)
+- [Famitsu Bunko](http://fbonline.jp/)
+- [HJ Bunko](http://hobbyjapan.co.jp/hjbunko/)
+- [Gagaga Bunko](http://gagagabunko.jp/)
+- [GA Bunko](https://ga.sbcr.jp/)
+- [Media Works Bunko](http://mwbunko.com/)
+- [Alpha Light Bunko](http://www.alphalight-books.com/)
 - [Kodansha Lanove Bunko](http://lanove.kodansha.co.jp/)
-- [Puchipara Bunko](http://parabook.co.jp/novels/puchipara.php) \(**adult**\)  
+- [Puchipara Bunko](http://parabook.co.jp/novels/puchipara.php) \(**adult**\)
 - [Bishoujo Bunko](http://www.bishojobunko.jp/) \(**adult**\)
 
 ::: warning
-Tokuten \(bonus booklets and such\) are not added to the database.
+Tokuten \(bonus booklets and such\) will not be added to the database.
 :::
 
-::: warning
-If a self-published web novel from a site such as [Syosetu ](http://syosetu.com)is later professionally published as a [light novel](./criteria.html#light-novels), the light novel entry would be eligible for submission under the date that the light novel serialization began.
+Web novels from Japanese self-publishing websites such as [Syosetu](http://syosetu.com) are _**not**_ allowed.
 
-The original web novel publication should _**not**_ be added.  
-This means works from Japanese self-publishing websites such as [Syosetu ](http://syosetu.com)are completely denied.
+::: warning
+If a self-published web novel from a site such as [Syosetu](http://syosetu.com) is later professionally published as a light novel, the **light novel** entry would be eligible for submission under the date that the light novel serialization began.
+
+The original web novel publication should _**not**_ be added.
 :::
 
 ::: danger
@@ -410,7 +423,7 @@ Chinese and South Korean web novels are _**not**_ accepted on this website.
 
 Example 1:
 
-> The original self-published [Syosetu ](http://ncode.syosetu.com/s2691b/)release of [KonoSuba ](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/)is _**not**_ permitted, however, the [Kadokawa ](https://kadokawa.co.jp)published [light novel serialization](https://sneakerbunko.jp/series/konosuba/) under their [Sneaker Bunko](https://sneakerbunko.jp/) imprint _**is**_ allowed.
+> The original self-published [Syosetu](http://ncode.syosetu.com/s2691b/) release of [KonoSuba](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) is _**not**_ permitted, however, the [Kadokawa](https://kadokawa.co.jp) published [light novel serialization](https://sneakerbunko.jp/series/konosuba/) under their [Sneaker Bunko](https://sneakerbunko.jp/) imprint _**is**_ allowed.
 
 Example 2:
 
@@ -438,7 +451,7 @@ If a one-shot was published in a volume, and not as standalone, it should _**not
 :::
 
 ::: warning
-Self-published works are not classed as one-shots. However, if the author is already serialized, self-published works could instead possibly be classed as [doujinshi](./criteria.html#doujinshi).
+Self-published works are not classed as one-shots. One-shots only appear in official publications and are labelled as 読み切り (or 'yomikiri'). However, if the author is already serialized, self-published works could instead possibly be classed as [doujinshi](./criteria.html#doujinshi).
 :::
 
 #### Compilations and Anthologies
@@ -476,49 +489,68 @@ If the work originally published on ‘_Not Accepted_‘ websites is later picke
 :::: tabs :options="{ useUrlFragment: false }"
 ::: tab Accepted
 Japanese  
-- [https://comic-walker.com](https://comic-walker.com/)  
 - [https://comic.pixiv.net](https://comic.pixiv.net/)  
-- [http://seiga.nicovideo.jp](http://seiga.nicovideo.jp/)  
+- [https://comic-walker.com](https://comic-walker.com/)  
 - [https://www.comico.jp](https://www.comico.jp/) \(Official works only, not Challenge\)  
-- [https://sai-zen-sen.jp](https://sai-zen-sen.jp/comics/twi4/)  
 - [https://piccoma.com](https://piccoma.com/web/)  
+- [https://sai-zen-sen.jp](https://sai-zen-sen.jp/comics/twi4/)  
+- [http://seiga.nicovideo.jp](http://seiga.nicovideo.jp/) \(Only with the official \(公式\) serialization header\)
 - [https://xoy.webtoons.com/ja](https://xoy.webtoons.com/ja) \(Official words only, not League\)
 
 Chinese  
 - [http://ac.qq.com](http://ac.qq.com)  
+- [https://www.dajiaochongmanhua.com](https://www.dajiaochongmanhua.com/)
+- [https://www.dongmanmanhua.cn/](https://www.dongmanmanhua.cn/)
+- [https://www.kaimanhua.com/](https://www.kaimanhua.com/)
 - [http://www.kuaikanmanhua.com](http://www.kuaikanmanhua.com/)  
 - [https://www.manmanapp.com](https://www.manmanapp.com/)  
 - [http://manhua.weibo.com](http://manhua.weibo.com/)  
+- [https://www.manhuatai.com/](https://www.manhuatai.com/)
+- [https://manga.bilibili.com/](https://manga.bilibili.com/)
 - [https://read.douban.com](https://read.douban.com/)  
-- [https://www.dajiaochongmanhua.com](https://www.dajiaochongmanhua.com/)
+- [https://www.zymk.cn/](https://www.zymk.cn/)
 
 South Korean  
-- [https://comic.naver.com](https://comic.naver.com/) \(Featured works only, not Challenge\)  
-- [http://webtoon.daum.net](http://webtoon.daum.net/) \(Official works only, not League\)  
-- [https://www.lezhin.com](https://www.lezhin.com/)  
-- [https://page.kakao.com](https://page.kakao.com/)  
-- [https://www.justoon.co.kr](https://www.justoon.co.kr/)  
-- [http://toomics.com](http://toomics.com/)  
 - [http://bomtoon.com](http://bomtoon.com)
+- [https://comic.naver.com](https://comic.naver.com/) \(Featured works only, not Challenge\)  
+- [https://www.justoon.co.kr](https://www.justoon.co.kr/)  
+- [https://www.lezhin.com](https://www.lezhin.com/)  
+- [https://m.mrblue.com/](https://m.mrblue.com/)
+- [https://page.kakao.com](https://page.kakao.com/)  
+- [http://toomics.com](http://toomics.com/)  
+- [https://toptoon.com/](https://toptoon.com/)
+- [http://webtoon.daum.net](http://webtoon.daum.net/) \(Official works only, not League\)  
 :::
 
 ::: tab "Not Accepted"
 Japanese  
+- [http://www.pixiv.net](http://pixiv.net/) \(However [PixivComics](https://comic.pixiv.net/) is allowed\)
 - [http://www.syosetu.com](http://syosetu.com/)  
 - [http://toko.takekuma.jp](http://toko.takekuma.jp/) \(However [Dennou Mavo](http://mavo.takekuma.jp/) is allowed\)  
-- [http://www.pixiv.net](http://pixiv.net/) \(However [PixivComics](https://comic.pixiv.net/) is allowed\)
 
 Chinese  
 - [http://u17.com](http://u17.com)
 
 Multi-language  
+- [https://www.smackjeeves.com/](https://www.smackjeeves.com/) \(Featured works on [Comico](https://www.comico.jp/) are allowed.\)
 - [https://www.tapas.io](https://tapas.io/)  
+- [https://www.tappytoon.com/](https://www.tappytoon.com/)
 - [https://www.twitter.com](https://www.twitter.com)  
+- [https://www.webcomicsapp.com/](https://www.webcomicsapp.com/)
 - [https://www.webtoons.com](https://www.webtoons.com/) \(Featured works on the Korean \([NAVER](https://comic.naver.com/)\) and Japanese \([XOY](https://xoy.webtoons.com/ja/)\) equivalents are allowed.\)
 :::
 
 ::::
 
+Any submission that includes a link source from the multi-language section does not automatically result in a rejection. Try to find another source from the approved websites list, sometimes provided by MangaUpdates, and check to see if the native site's release dates occurred first.  
+
+Example 1: 
+
+> [_The Beloved Little Princess_](https://anilist.co/manga/117320/) was originally published by [KakaoPage](https://page.kakao.com/home?seriesId=54680399&page=1) on March 26, 2020 and later picked up by [Tappytoon](https://www.tappytoon.com/en/comics/beloved-little-princess).
+
+Example 2:
+
+> While it's available on [KakaoPage](https://page.kakao.com/home?seriesId=53142176) as of June 2019, _The Beginning After the End_ fails our qualifications as it was originally published by [Tapas](https://tapas.io/series/tbate-comic/info) on July 7, 2018.
 
 
 ## Sourcing
@@ -536,7 +568,7 @@ If you find an article or source in a language you can’t read, linking it for 
 * In most cases, _**official**_ sites are the best possible source and contain the most information. Providing these as often as possible is ideal. Especially since these sites should be linked in the External URL section of the form.  
 * Sources in the native language are extremely helpful - even if you’re unable to read it. Searching the native title can bring up relevant news articles or, for a lot of digitally published works, sites where they are legally hosted \(Example: [PixivComic](https://comic.pixiv.net/), [Nico Nico Seiga](https://seiga.nicovideo.jp/), and [ComicWalker](https://comic-walker.com/)\).  
 * News sites are usually fine, but double-checking the sources they reference can be useful.  
-* [Media Arts Database](https://mediaarts-db.bunka.go.jp/) is an amazing resource managed by the Agency for Cultural Affairs’ for all manner of information, from animated series, to manga tankoubon, to print magazines dating over fifty years old. Always worth taking a look to see what’s there.  \(Examples: [Dennou Coil](https://mediaarts-db.bunka.go.jp/an/anime_series/10034?display_view=pc&locale=en), [Weekly Manga TIMES](https://mediaarts-db.bunka.go.jp/mg/magazine_titles/9873?display_view=pc)\)
+* [Media Arts Database](https://mediaarts-db.bunka.go.jp/) is an amazing resource managed by the Agency for Cultural Affairs’ for all manner of information, from animated series, to manga tankoubon, to print magazines dating over fifty years old. Always worth taking a look to see what’s there.  \(Examples: [Dennou Coil](https://mediaarts-db.bunka.go.jp/id/C11309?lang=en), [Weekly Manga TIMES](https://mediaarts-db.bunka.go.jp/id/C117668?lang=en)\)
 
 ::: warning
 Please remember that magazine issue date is not always the month the magazine was released. Many issues release a month or two earlier than titled. Checking on-sale dates on the magazine's website or sites like [Amazon](https://www.amazon.co.jp/) is required.
@@ -553,7 +585,7 @@ Please remember that magazine issue date is not always the month the magazine wa
 * [Moon Phase](http://m-p.sakura.ne.jp/) for airing times, TV stations, etc.
 * [Syoboi Calendar](http://cal.syoboi.jp/) is also handy for airing times and checking delays.
 * [Yaraon!](http://yaraon-blog.com/) \(**NSFW**\) is a pretty nifty blog for announcements.
-* [Anime@wiki](https://www7.atwiki.jp/anime_wiki/) for staff positions and episodes.
+* [Anime@wiki](https://w.atwiki.jp/anime_wiki/) for staff positions and episodes.
 * [Anime Staff Database](http://seesaawiki.jp/w/radioi_34/) for animation staff positions and episodes.
 * [FanSubDB](http://fansubdb.com/wiki/) is OK for airing times, but get additional confirmation.
 
@@ -562,6 +594,8 @@ Please remember that magazine issue date is not always the month the magazine wa
 * [Natalie 'New Serialization' tag](https://natalie.mu/comic/tag/43) - Articles about new serials.
 * [Natalie 'Completed Serialization' tag](https://natalie.mu/comic/tag/42) - Articles about ending serials.
 * [Natalie 'Vol. 1 Release' tag](https://natalie.mu/comic/tag/59) - Articles about first volume releases.
+* [Namu Wiki](https://namu.wiki/) \(South Korea\) for character information, source material and release dates.
+* [Webtoon Guide](https://www.webtoonguide.com/en/) \(South Korea\) for platform compilation and release dates.
 
 
 ### Tools
@@ -576,7 +610,6 @@ All below extensions will provide popups of various kana readings and interchang
 | :--- | :--- |
 |  [rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp) | [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) |
 |  | [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) |
-|  | [rikaichan](https://addons.mozilla.org/en-GB/firefox/addon/rikaichan/) |
 
 #### Bookwalker Cover Grabber
 
@@ -612,6 +645,7 @@ The romanization of names and titles is done in a variation of [Traditional Hepb
 * Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\).  
 * Alternate spellings advocated by the creator\(s\) of the work are applied, if required.  
 * Things such as 'っち', 'っちゃ', and 'っちょ' are romanized as 'cchi', 'ccha', and 'ccho' respectively. This is opposed to the traditional 'tchi', 'tcha', and 'tcho'.  
+* 'を' is written as 'wo'.
 * 'ん' is always written as 'n'.  
 * Words adopted into English are written in that standard  \(Example: _Tokyo_ and _Osaka_ instead of _Toukyou_ and _Oosaka_ respectively\).  
 * Full-width punctuation should _**always**_ be converted to half-width or equivalent. \(。to . , ！to ! , ？to ?\)
@@ -628,10 +662,11 @@ Examples:
 | 乙女ゲー世界はモブに厳しい世界です | Otomege Sekai wa Mob ni Kibishii Sekai desu |
 | ふたご、ふたごころ。 | Futago, Futagokoro. |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt; |
+| 君の膵臓をたべたい | Kimi no Suizou wo Tabetai |
 
 ### Title Modification
 
-#### **Unconfirmed Titles for Additional Seasons**
+#### Unconfirmed Titles for Additional Seasons
 
 For works getting a new series or season and the official title is as of yet unconfirmed, or never confirmed, please append the series number alone to the end of native and romaji titles, and 'Season X' to the end of the English title.
 
@@ -643,7 +678,7 @@ Example
 > Romaji: Shingeki no Kyojin 3  
 > English: Attack on Titan Season 3
 
-#### **Split Seasons**
+#### Split Seasons
 
 If a 'season' of the show will air for multiple seasons, but has at least a one [airing season](./submissions.html#season) gap in between. The subsequent entries should have 'Part 2' or equivalent if no official title is given.
 
@@ -655,7 +690,7 @@ Example
 > Romaji: Shingeki no Kyojin 3 Part 2  
 > English: Attack on Titan Season 3 Part 2
 
-#### **Appendages**
+#### Appendages
 
 For supplemental works to a main series, such as [OVAs and Specials](./criteria.html#ovas-onas-and-specials), the main series title should be used and the format appended to the end.
 
@@ -669,7 +704,7 @@ It is fine to add newly announced original work with no title or a provisional t
 
 If the media has no title, please use `(Title to be Announced)` in the romaji and native fields.
 
-If the media has a provisional title, please append `(Provisional Title)` to the end of the romaji title, and `（仮）`to the end of the native title.
+If the media has a provisional title, please append `(Provisional Title)` to the end of the romaji title, and `（仮）` to the end of the native title.
 
 It is highly recommended to write a temporary description containing the date of the announcement, a link to a reputable article or website, and the author.
 
@@ -705,7 +740,7 @@ Examples of how to deal with non-alphanumeric characters in titles can be seen i
 | 傷物語〈Ⅲ冷血篇〉 | [Kizumonogatari III: Reiketsu-hen](https://anilist.co/anime/21400/Kizumonogatari-III-Reiketsuhen/) |
 | たまゆら～卒業写真～　第1部 芽-きざし- | [Tamayura: Sotsugyou Shashin Part 1 - Kizashi](https://anilist.co/anime/20805/Tamayura-Sotsugyou-Shashin-Part-1--Kizashi/) |
 | スコップ無双　「スコップ波動砲！」　\(　｀・ω・´\)♂〓〓〓〓★\(゜Д　゜　;;;\).:∴ドゴォォ | [Scoop Musou: "Scoop Hadouhou!" \( ｀・ω・´\)♂〓〓〓〓★\(゜Д゜ ;;\) .:∴ドゴォォ](https://anilist.co/manga/104759) |
-| 三白眼ちゃんは伝えたい。 | [Sanpakugan-chan wa Tsutaetai.](https://anilist.co/manga/104776/Sanpakuganchan-wa-Tsutaetai/) |
+| 三白眼ちゃんは伝えたい。 | [Sanpakugan-chan wa Tsutaetai.](https://anilist.co/manga/103184/Sanpakuganchan-wa-Tsutaetai/) |
 | 魔法少女2世 | [Mahou Shoujo 2-sei](https://anilist.co/manga/104770/Mahou-Shoujo-2sei/) |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | [Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt;](https://anilist.co/manga/104760/Horobi-Doki-dato-Kanojo-wa-Tsugeta-InouHanzaiSousa-Rei-Kyoku/) |
 | 政宗くんのリベンジafter school | [Masamune-kun no Revenge After School](https://anilist.co/manga/104896) |
