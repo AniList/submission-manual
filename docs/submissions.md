@@ -140,7 +140,7 @@ The date that the work is confirmed to have finished airing or finished serializ
 
 | Format | Description |
 | :--- | :--- |
-| TV | Anime which have episodes of or more 15 minutes in length and broadcast on television. |
+| TV | Anime which have episodes of 15 minutes or more in length and broadcast on television. |
 | TV Short | Anime which are under 15 minutes in length and broadcast on television. |
 | Movie | Anime that have originally been released at theaters. |
 | [Special](./criteria.html#ovas-onas-and-specials) | Specials that have been included in DVD/Blu-ray releases, picture dramas, pilots, etc. |
