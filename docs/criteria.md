@@ -637,9 +637,9 @@ Please be aware that the userscript affects a large number of sites, which may n
 
 There should be _consistent_ formatting when converting from and/or using native and romaji titles.
 
-### Romanization
+### Japanese Romanization
 
-The romanization of names and titles is done in a variation of [Traditional Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization#Variants).
+The romanization of Japanese names and titles is done in a variation of [Traditional Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization#Variants).
 
 * Macrons are _**not**_ used.  
 * Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\).  
@@ -663,6 +663,81 @@ Examples:
 | ふたご、ふたごころ。 | Futago, Futagokoro. |
 | 滅び時だと彼女は告げた \#異能犯罪捜査〈零局〉 | Horobi Doki dato Kanojo wa Tsugeta \#InouHanzaiSousa &lt;Rei Kyoku&gt; |
 | 君の膵臓をたべたい | Kimi no Suizou wo Tabetai |
+
+### Korean Romanization
+
+The romanization of Korean titles is done using the [Revised Romanization of Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean) with some modifications.
+
+* Loanwords are written properly in their respective languages (Example: Secret instead of Sikeurit)
+* Personal names follow their own guidelines. See below.
+
+::: tip
+We recommend using tools such as [Korean Romanization Converter](http://roman.cs.pusan.ac.kr/input_eng.aspx?) for those unfamiliar with romanization. Please make sure that whatever tool you're using follows the Revised Romanization rules, not other romanization systems such as the McCune-Reischauer Romanization. In the case of the tool linked, previously it's the romanization marked with (1).
+:::
+
+Examples:
+
+| Native Title | Romaji Title |
+| :--- | :--- |
+| 후레자식 | Hurejasik |
+| 그녀가 공작저로 가야 했던 사정 | Geunyeoga Gongjagjeolo Gaya Haessdeon Sajeong |
+| 아가씨와 우렁총각 | Agassiwa Ureongchonggak |
+| 나 혼자만 레벨업 | Na Honjaman Level Up |
+| 슈퍼 시크릿 | Super Secret |
+| 갓 오브 하이스쿨 | God of High School |
+
+For Korean character and staff names, due to the lack of standardization, the Revised Romanization of Korean might not always be preferred. The following bullet points list which system is preferred from most to least preferred.
+
+* If an official translation that doesn't convert the name exists, the romanization showed in said translation is always preferred.
+* If an official version does not exist, we allow user/mod discretion in picking the romanization that is most commonly used online.
+* If there is no apparent preference in what romanization is used, the name should be romanized using Revised Romanization rules.
+
+Other important notes:
+
+* Regardless of the romanization system chosen, alternative spellings that are in use can and should be added to the alternative names field.
+* The given names of Korean characters and staff should be hyphenated (see the "[Allowed]" version in the Korean Romanisation Converter). 
+* Name conversions (example: Seung-u changed to Victor) are never preferred, even if they are used officially!
+* It is possible that a Korean person or character has their name written in hanja, an old Korean writing system consisting of Chinese characters. In those cases, please refer to [this hanja table](http://koreangenealogy.org/book/names/given-names/) for romanization.
+
+WARNING It is entirely possible for two people/characters to have the same native name yet different romanizations due to the lack of name standardization. Do not assume that the same native name is always romanized the same. Always use the priority list above.
+
+Examples:
+
+| Native Name | Romaji Name | Note |
+| :---| :---| :--- |
+| 서주혁 | Seo Joo-Hyuk | Official translation |
+| 윤승호 | Yoon Seung-Ho | Official translation |
+| 안시하 | Ahn Si-Ha | Popular use |
+| 채유화 | Chae Yoo-Hwa | Popular use |
+| 진세하 | Jin Se-Ha | Revised Romanization |
+| 朴秄英 | Park Ja-Yeong | Hanja conversion |
+
+### Chinese Romanization
+
+The romanization of Chinese names and titles is done using [Hanyu Pinyin](https://en.wikipedia.org/wiki/Pinyin) with some modifications:
+
+* Tone marks (macron, caron, acute accent, and grave accent) are not used.
+* Apostrophes and hyphens are not used
+* 之 should be romanized as : when being used as such, but has to be romanized as zhi when used as a possessive.
+* Season markers such as 第二季 or 第1季 are romanized as just their number (so "2" instead of "season 2") and markers such as 上半季, 下半季, 上部, 下部, 上, and 下 should be romanized as "part 1" or "part 2".
+
+Important notes:
+
+* Please keep the umlaut for the ü vowel as this is a different vowel altogether from u.
+* Compound words have their syllables joined together, not separate (example: Tamen instead of Ta Men). If there it's not clear something is a compound, the syllables should be separate.
+
+:::tip
+We recommend using tools such as [MDBG](https://www.mdbg.net/chinese/dictionary) for those unfamiliar with romanization, just remember to adjust the results to fit our modifications.
+:::
+
+Examples:
+
+| Native Title | Romaji Title |
+| :--- | :--- |
+| 我老婆是魔王大人 | Wo Laopo Shi Mowang Daren |
+| 妖神记之黑狱篇 | Yao Shen Ji: Hei Yu Pian | 
+| 封神記 | Feng Shen Ji |
+| 灵域 第二季 | Ling Yu 2 |
 
 ### Title Modification
 
