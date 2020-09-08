@@ -666,6 +666,8 @@ Examples:
 
 ### Korean Romanization
 
+#### Titles
+
 The romanization of Korean titles is done using the [Revised Romanization of Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean) with some modifications.
 
 * Loanwords are written properly in their respective languages (Example: Secret instead of Sikeurit)
@@ -686,20 +688,24 @@ Examples:
 | 슈퍼 시크릿 | Super Secret |
 | 갓 오브 하이스쿨 | God of High School |
 
+#### Names
+
 For Korean character and staff names, due to the lack of standardization, the Revised Romanization of Korean might not always be preferred. The following bullet points list which system is preferred from most to least preferred.
 
 * If an official translation that doesn't convert the name exists, the romanization showed in said translation is always preferred.
 * If an official version does not exist, we allow user/mod discretion in picking the romanization that is most commonly used online.
 * If there is no apparent preference in what romanization is used, the name should be romanized using Revised Romanization rules.
 
-Other important notes:
+**Other important notes:**
 
 * Regardless of the romanization system chosen, alternative spellings that are in use can and should be added to the alternative names field.
 * The given names of Korean characters and staff should be hyphenated (see the "[Allowed]" version in the Korean Romanisation Converter). 
 * Name conversions (example: Seung-u changed to Victor) are never preferred, even if they are used officially!
 * It is possible that a Korean person or character has their name written in hanja, an old Korean writing system consisting of Chinese characters. In those cases, please refer to [this hanja table](http://koreangenealogy.org/book/names/given-names/) for romanization.
 
-WARNING It is entirely possible for two people/characters to have the same native name yet different romanizations due to the lack of name standardization. Do not assume that the same native name is always romanized the same. Always use the priority list above.
+::: warning
+It is entirely possible for two people/characters to have the same native name yet different romanizations due to the lack of name standardization. Do not assume that the same native name is always romanized the same. Always use the priority list above.
+:::
 
 Examples:
 
@@ -721,7 +727,7 @@ The romanization of Chinese names and titles is done using [Hanyu Pinyin](https:
 * 之 should be romanized as : when being used as such, but has to be romanized as zhi when used as a possessive.
 * Season markers such as 第二季 or 第1季 are romanized as just their number (so "2" instead of "season 2") and markers such as 上半季, 下半季, 上部, 下部, 上, and 下 should be romanized as "part 1" or "part 2".
 
-Important notes:
+**Important notes:**
 
 * Please keep the umlaut for the ü vowel as this is a different vowel altogether from u.
 * Compound words have their syllables joined together, not separate (example: Tamen instead of Ta Men). If there it's not clear something is a compound, the syllables should be separate.
