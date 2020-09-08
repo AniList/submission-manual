@@ -672,7 +672,7 @@ The romanization of Korean titles is done using the [Revised Romanization of Kor
 * Personal names follow their own guidelines. See below.
 
 ::: tip
-We recommend using tools such as [Korean Romanization Converter](http://roman.cs.pusan.ac.kr/input_eng.aspx?) for those unfamiliar with romanization. Please make sure that whatever tool you're using follows the Revised Romanization rules, not other romanization systems such as the McCune-Reischauer Romanization. In the case of the tool linked previously it's the romanization marked with (1).
+We recommend using tools such as [Korean Romanization Converter](http://roman.cs.pusan.ac.kr/input_eng.aspx?) for those unfamiliar with romanization. Please make sure that whatever tool you're using follows the Revised Romanization rules, not other romanization systems such as the McCune-Reischauer Romanization. In the case of the tool linked, previously it's the romanization marked with (1).
 :::
 
 Examples:
