@@ -697,7 +697,7 @@ Other important notes:
 * Regardless of the romanization system chosen, alternative spellings that are in use can and should be added to the alternative names field.
 * The given names of Korean characters and staff should be hyphenated (see the "[Allowed]" version in the Korean Romanisation Converter). 
 * Name conversions (example: Seung-u changed to Victor) are never preferred, even if they are used officially!
-* It is possible that a Korean person or character has their name written in hanja, an old Korean writing system consisting of Chinese characters. In those cases please refer to [this hanja table](http://koreangenealogy.org/book/names/given-names/) for romanization.
+* It is possible that a Korean person or character has their name written in hanja, an old Korean writing system consisting of Chinese characters. In those cases, please refer to [this hanja table](http://koreangenealogy.org/book/names/given-names/) for romanization.
 
 WARNING It is entirely possible for two people/characters to have the same native name yet different romanizations due to the lack of name standardization. Do not assume that the same native name is always romanized the same. Always use the priority list above.
 
