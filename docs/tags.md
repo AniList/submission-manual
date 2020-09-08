@@ -19,7 +19,7 @@ Tags can be marked as a spoiler using the exclamation mark icon, or removed with
 :::
 
 ::: warning
-The power of each user's vote is limited to restrict abuse. If you feel that tags have been added incorrectly, contact a [moderator](./#moderator-list).
+The power of each user's vote is limited to restrict abuse. If you feel that tags have been added incorrectly, submit an edit to the entry where you simply comment in the [Submission Sources & Notes](./#submission-sources-notes) box why the tags should be removed. 
 :::
 
 ## Tag Requests
