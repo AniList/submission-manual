@@ -718,7 +718,7 @@ The romanization of Chinese names and titles is done using [Hanyu Pinyin](https:
 
 * Tone marks (macron, caron, acute accent, and grave accent) are not used.
 * Apostrophes and hyphens are not used
-* 之 should be romanized as : when being used as such, but has to be romanized as zhi when used as a posessive.
+* 之 should be romanized as : when being used as such, but has to be romanized as zhi when used as a possessive.
 * Season markers such as 第二季 or 第1季 are romanized as just their number (so "2" instead of "season 2") and markers such as 上半季, 下半季, 上部, 下部, 上, and 下 should be romanized as "part 1" or "part 2".
 
 Important notes:
