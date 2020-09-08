@@ -570,7 +570,7 @@ If an anime releases multiple episodes at one time, in order to correct the "nex
 At times an anime will be announced using a >24 hour clock, such as saying the anime will start airing on July 3rd at 25:15. This typically will mean it is actually airing on July 4th at 1:15 AM, however this can also sometimes mean at July 3rd at 1:15 AM. Conversely they will announce an anime is airing on July 4th at 1:15 AM and that can sometimes mean it will air on July 3rd at 1:15 AM.
 :::
 
-![Schedule Generator panel](./img/Schedule_Generator.png)
+![Schedule Generator panel](./img/schedule_generator.png)
 
 ### Next Airing Episode
 
@@ -1105,4 +1105,3 @@ This page is visible to moderators only.
 The revision history will show a feed displaying what users have modified the entry. The changes they carried out can be expanded by clicking on their record.
 
 ![Revision history for the &apos;Ao Buta&apos; anime](./img/revision_history.png)
-
