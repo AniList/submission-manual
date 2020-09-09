@@ -608,8 +608,8 @@ All below extensions will provide popups of various kana readings and interchang
 
 | Google Chrome | Firefox |
 | :--- | :--- |
-|  [rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp) | [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) |
-|  | [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) |
+|  [rikaikun](https://chrome.google.com/webstore/detail/rikaikun/jipdnfibhldikgcjhfnomkfpcebammhp) | [Rikaichamp](https://addons.mozilla.org/en-US/firefox/addon/rikaichamp/) |
+|  [Yomichan](https://chrome.google.com/webstore/detail/yomichan/ogmnaimimemjmbakcfefmnahgdfhfami) | [Yomichan](https://addons.mozilla.org/en-US/firefox/addon/yomichan/) |
 
 #### Bookwalker Cover Grabber
 
