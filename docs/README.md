@@ -24,7 +24,7 @@ When a user provides a submission it will undergo a review process where a moder
 
 ::: warning Please be aware that AniList does not handle all entries the same way that other sites do.
 Examples:  
-[Episode 0s and Prologues](./criteria.html#episode-0’s-and-prologues) are only placed in a standalone entry if they aired in a different format from the same series.
+[Episode 0s and Prologues](./criteria.html#episode-0-s-and-prologues) are only placed in a standalone entry if they aired in a different format from the same series.
 
 [Recap](./criteria.html#recaps) episodes are not always included.
 
@@ -38,7 +38,7 @@ After making a submission, you will be able to view the status of your submissio
 If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator](./#moderator-list) on the [website](http://anilist.co) or on [Discord](https://discord.gg/TF428cr).
 
 ::: tip
-It is _**highly recommended**_ that you read the both the [Checklist](./criteria.html#checklist) and [Animated](./criteria.html#animated-media) and [Written](./criteria.html#written-media) Media Specification sections prior to any submissions, or at least relevant sections within it.
+It is _**highly recommended**_ that you read the both the [Checklist](./criteria.html#checklist) and [Animated](./criteria.html#animated-media) and [Written Media](./criteria.html#written-media) Specification sections prior to any submissions, or at least relevant sections within it.
 
 The latter sections state what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
 :::

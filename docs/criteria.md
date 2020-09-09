@@ -805,9 +805,9 @@ Examples of how to deal with non-alphanumeric characters in titles can be seen i
 * Titles which feature subtitles separated full-width tildes \(～\) or other similar separators should be separated with a colon or hypen. The only preference is what formatting is most commonly used elsewhere.
 * Japanese quotes \(「」\) should be converted to English double-quotes \(" "\).  
 * Symbols like stars \(☆\) and musical notes \(♪\) should remain.  
-* Titles using full-width tildes to elongate words should be [romanized](./criteria.html#romanization) without. \(み〜つけた &gt; Mitsuketa\).  
-* Hashtags in titles should remain without spaces when [romanized](./criteria.html#romanization), however, a version with spaces should ideally be placed in the synonyms.  
-* Special things such as kaomoji \(顔文字\) should not be [romanized](./criteria.html#romanization).
+* Titles using full-width tildes to elongate words should be [romanized](./criteria.html#japanese-romanization) without. \(み〜つけた &gt; Mitsuketa\).  
+* Hashtags in titles should remain without spaces when romanized, however, a version with spaces should ideally be placed in the synonyms.  
+* Special things such as kaomoji \(顔文字\) should not be romanized.
 
 #### Examples
 
