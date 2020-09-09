@@ -1082,7 +1082,7 @@ Youtube
 
 ## Revision History
 
-The revision history will show a feed displaying what users have modified the entry. The changes they carried out can be expanded by clicking on their record.
+The revision history will show a feed displaying which users have modified the entry. The changes they made can be viewed by clicking on each record.
 
 ![Revision history for the &apos;Ao Buta&apos; anime](./img/revision_history.png)
 
