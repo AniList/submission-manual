@@ -578,7 +578,7 @@ The next airing episode area displays when the next episode is set to air accord
 
 ### Preview
 
-The preview area is similar to next airing episode area, however it allows a moderator to check to ensure they set up the airing dates correctly.
+The preview area is similar to next airing episode area, however it allows a moderator to check that airing dates have been set up correctly.
 
 ## Characters
 
