@@ -42,7 +42,7 @@ Even if the titles are identical, it should still be entered in the respective f
 
 #### Romaji
 
-The correct [romanization](./criteria.html#romanization) of the title is preferred over all else and is _**required.**_
+The correct [romanization](./criteria.html#japanese-romanization) of the title is preferred over all else and is _**required.**_
 
 ::: tip
 Please see the [title formatting](./criteria.html#title-modification) section for information on how format titles.
@@ -635,11 +635,11 @@ Each character has the option to be set as a _main_, _supporting_, or _backgroun
 
 #### Given Name
 
-Their given name\(s\) in correct [romanization](./criteria.html#romanization).
+Their given name\(s\) in correct [romanization](./criteria.html#japanese-romanization).
 
 #### Surname
 
-Their surname or alias in correct [romanization](./criteria.html#romanization).
+Their surname or alias in correct romanization.
 
 #### Native Name
 
@@ -726,11 +726,11 @@ Local image upload is currently available to moderators only.
 
 #### Given Name
 
-Their given name\(s\) in correct [romanization](./criteria.html#romanization).
+Their given name\(s\) in correct [romanization](./criteria.html#japanese-romanization).
 
 #### Surname
 
-Their surname or alias in correct [romanization](./criteria.html#romanization).
+Their surname or alias in correct romanization.
 
 #### Native Name
 
@@ -838,11 +838,11 @@ Multiple staff can be selected at once. You are also able to search for a new na
 
 #### Given Name
 
-Their given name\(s\) in correct [romanization](./criteria.html#romanization).
+Their given name\(s\) in correct [romanization](./criteria.html#japanese-romanization).
 
 #### Surname
 
-Their surname or alias in correct [romanization](./criteria.html#romanization).
+Their surname or alias in correct romanization.
 
 #### Native Name
 
@@ -954,7 +954,7 @@ This popup will allow you to search for and add existing studios to the work.
 
 #### Create New Studio
 
-This popup will allow you to create a new studio to be added to the work. Presently, the only information stored and required is the Studio’s name. Refer to the guide at the start of the manual for correct [romanization](./criteria.html#romanization), if required.
+This popup will allow you to create a new studio to be added to the work. Presently, the only information stored and required is the Studio’s name. Refer to the guide at the start of the manual for correct [romanization](./criteria.html#japanese-romanization), if required.
 
 ![Studios page for the &apos;City Hunter&apos; anime](./img/studio_page.png)
 
@@ -967,7 +967,7 @@ This section allows you to set the relation of works compared to others in the s
 
 ::: warning
 Relations should be in _**chronological**_ order.  
-Examples: [Bakemonogatari, ](http://anilist.co/anime/5081/Bakemonogatari)[Fate Stay/Night](https://anilist.co/anime/356/Fatestay-night/)
+Examples: [Bakemonogatari](http://anilist.co/anime/5081/Bakemonogatari), [Fate Stay/Night](https://anilist.co/anime/356/Fatestay-night/)
 :::
 
 #### Opposite Relations
@@ -976,8 +976,8 @@ When a _prequel, sequel, alternative, character, compilation, contains, source, 
 
 Example 1 \(Adaptations\):
 
-> The light novel [Kono Subarashii Sekai ni Shukufuku wo!](https://anilist.co/manga/86238/)[ ](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/)was announced to have both [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) adaptations:  
->   
+> The light novel [Kono Subarashii Sekai ni Shukufuku wo!](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) was announced to have both [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) adaptations:
+> 
 > Adding the [novel](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) as the '**source**' to both the [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) automatically adds the [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) as the '**adaptation**' to the [novel](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/), and vice versa.
 
 ::: warning
@@ -1059,7 +1059,7 @@ Links that are only for purchasing the work should _**not**_ be added \(such as 
 :::
 
 Suitable examples would be:  
-[http://mitsuboshi-anime.com](http://mitsuboshi-anime.com) for [Mitsuboshi Colors](https://anilist.co/manga/87132/MitsuboshiColors), [http://www.crunchyroll.com/fatezero](http://www.crunchyroll.com/fatezero) for [Fate/Zero](https://anilist.co/anime/10087/FateZero),  
+[http://mitsuboshi-anime.com](http://mitsuboshi-anime.com) for [Mitsuboshi Colors](https://anilist.co/manga/87132/MitsuboshiColors) and [http://www.crunchyroll.com/fatezero](http://www.crunchyroll.com/fatezero) for [Fate/Zero](https://anilist.co/anime/10087/FateZero).
 
 If the URL provided is not one of the supported sites listed in the next section, it will be titled with a generic ‘_official site_’.
 
@@ -1151,6 +1151,6 @@ This page is visible to moderators only.
 
 ## Revision History
 
-The revision history will show a feed displaying what users have modified the entry. The changes they carried out can be expanded by clicking on their record.
+The revision history will show a feed displaying which users have modified the entry. The changes they made can be viewed by clicking on each record.
 
 ![Revision history for the &apos;Ao Buta&apos; anime](./img/revision_history.png)
