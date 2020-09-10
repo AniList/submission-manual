@@ -206,7 +206,7 @@ The final episode count of the anime. This should be kept blank until an officia
 Please use the average length \(_**mode**_\) of episodes, rounded to the nearest minute. The 23-25 mark is standard for most TV anime. This can be left blank until a full-length episode has been released.
 
 ::: tip
-The mean duration can be used for entries with wildly varying lengths, such as [Genius Party](https://anilist.co/anime/3508/GeniusParty). Another way to view this is that if a standard episode length can not accurately be stated for a work, that the work should use the mean for the duration. For an example of such, consider [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/). Low episode count works that have any variance in episode length will typically use the mean.
+The mean duration can be used for entries with wildly varying lengths, such as [Genius Party](https://anilist.co/anime/3508/GeniusParty). Another way to view this is that if a standard episode length can not accurately be stated for a work, that the work should use the mean for the duration. For an example of such, consider [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/). Works with low episode counts with episodes that vary in length will typically use the mean episode length.
 :::
 
 ::: tip
