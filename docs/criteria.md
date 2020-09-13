@@ -476,7 +476,7 @@ Compilations of one-shots should have the **Manga** [format](./submissions.html#
 
 Anthologies are hereby understood as collections of short, usually independent stories. Although there is some definition overlap, they are not to be confused with one-shot compilations, as they are almost always published without any of the stories within them having been previously serialized anywhere.
 
-Anthologies, even those of the same series/franchise, must have a separate entry for each volume **if the volumes are not distinguished by incremental numerical values**. If separate anthologies belong to the same series, they should related using the prequel and sequel relation, with the prequel being whichever anthology came out first.
+Anthologies should be joined into a single entry if the volumes are distinguished by incremental numbering (example: vol 1, vol 2, vol 3, etc.). If they don't have any form of incremental numbering, then they should be separated into different entries, and these different entries should be related to one another using the prequel and sequel relation based on the release date of each anthology.
  
 Example: 
 
