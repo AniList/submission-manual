@@ -60,7 +60,6 @@ However, please don't give them a title and expect them to do all the work for y
 | Name | Role |
 | :--- | :--- |
 | [Taluun](http://anilist.co/user/21510) | Lead Anime |
-| [Kazakuri](http://anilist.co/user/4659) | Anime \(Hentai\) |
 | [Tiamo](http://anilist.co/user/44283) | Anime |
 | [Byrdn](http://anilist.co/user/2904) | Anime |
 | [Mochizou](https://anilist.co/user/87028) | Anime |
@@ -108,7 +107,6 @@ However, please don't give them a title and expect them to do all the work for y
 | :--- | :--- | :--- | :--- |
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
 | [matchai](http://anilist.co/user/2) | Developer | Lead Social Media | Lead Community |
-| [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
 | [Mochizou](https://anilist.co/user/87028) |  |  | Community |
 | [Orangealaid](http://anilist.co/user/2272) |  |  | Community |
@@ -119,3 +117,4 @@ However, please don't give them a title and expect them to do all the work for y
 | [Flidaix](https://anilist.co/user/139213) |  | Social Media |  |
 | [Odjn](https://anilist.co/user/103672) |  | Social Media |  |
 | [Devil](https://anilist.co/user/151580) |  | Social Media |  |
+| [Troy121](https://anilist.co/user/120802) |  | Social Media |  |
