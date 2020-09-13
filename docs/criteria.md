@@ -454,9 +454,15 @@ If a one-shot was published in a volume, and not as standalone, it should _**not
 Self-published works are not classed as one-shots. One-shots only appear in official publications and are labelled as 読み切り (or 'yomikiri'). However, if the author is already serialized, self-published works could instead possibly be classed as [doujinshi](./criteria.html#doujinshi).
 :::
 
-### One-Shot Compilations
+### Compilations/Anthologies
 
-It is acceptable for _**both**_ a standalone one-shot and any collection it is compiled into to be added to the website. These must be linked through the ‘**contains**’ and '**compilation**' [relations](./submissions.html#relations).
+Compilations or Anthologies are hereby understood as collections of short, usually independent stories. They come in three varieties:
+
+* A compilation of one-shots which were previously published in a magazine (example: [insert example])
+* A compilation of stories never released before. (example: [insert example])
+* A mixture of the two. (example: [insert example])
+
+For works that compile previously released one-shots, it is acceptable for _**both**_ the standalone one-shot and the collection it is compiled into to be added to the website. These must be linked through the ‘**contains**’ and '**compilation**' [relations](./submissions.html#relations).
 
 Example:
 
@@ -466,23 +472,17 @@ Example:
 
 In the case of retroactively creating standalone entries when the compiled volume already exists in the database, the standalone one-shot _**must**_ have the date when it was first published, not the date the anthology or collection was published \(where applicable\).
 
-Compilations should be have _**both**_ start and end dates set to the day that the anthology was released, not the dates between oldest and newest one-shots contained within.
+Anthologies should have _**both**_ start and end dates set to the day that the anthology was released, not the dates between oldest and newest one-shots contained within (if there are any).
 
 ::: warning
-Compilations of one-shots should have the **Manga** [format](./submissions.html#format).
+All anthologies and one-shot compilations must have the **Manga** [format](./submissions.html#format).
 :::
 
-### Anthologies
+Anthologies should also be joined into a single entry if the volumes are distinguished by incremental numbering (example: vol 1, vol 2, vol 3, etc.). If they don't have any form of incremental numbering however, they should be separated into different entries, and these different entries should be related to one another using the prequel and sequel relation based on the release date of each anthology.
 
-Anthologies are hereby understood as collections of short, usually independent stories. Although there is some definition overlap, they are not to be confused with one-shot compilations, as they are almost always published without any of the stories within them having been previously serialized anywhere.
-
-Anthologies should be joined into a single entry if the volumes are distinguished by incremental numbering (example: vol 1, vol 2, vol 3, etc.). If they don't have any form of incremental numbering, then they should be separated into different entries, and these different entries should be related to one another using the prequel and sequel relation based on the release date of each anthology.
- 
 Example: 
 
 > The manga [Gakkou Gurashi!](https://anilist.co/manga/85235/Gakkou-Gurashi/) has 3 anthology comics: [Gakkou Gurashi! Anthology Comic: On](https://anilist.co/manga/105383/Gakkou-Gurashi-Anthology-Comic-On/), [Gakkou Gurashi! Anthology Comic: Kai](https://anilist.co/manga/105384/Gakkou-Gurashi-Anthology-Comic-Kai/), and [Gakkou Gurashi! Anthology Comic: Goku](https://anilist.co/manga/105385/Gakkou-Gurashi-Anthology-Comic-Goku/). Neither of the three anthologies have any sort of numbering scheme distinguishing them, they're distinguished by title alone, therefore they remain separate entries, and they're related to each other via prequel/sequel relations using their release date to decide which one is first. In contrast, [K-on!](https://anilist.co/manga/43001/KOn/) has the anthology comic [K-On! Anthology Comic](https://anilist.co/manga/49551/KOn-Anthology-Comic/), where every volume is distinguished only by a number, therefore all the volumes are grouped into a single entry.
-
-Anthologies should be have _**both**_ start and end dates set to the day that the anthology was released, not the dates between oldest and newest one-shots contained within.
 
 ### Web Platform Examples
 
