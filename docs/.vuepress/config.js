@@ -1,7 +1,7 @@
 module.exports = {
   title: "AniList Submission Manual",
   plugins: [
-    "tabs"
+    "element-tabs"
   ],
   themeConfig: {
     logo: "/logo.png",
