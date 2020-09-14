@@ -45,14 +45,24 @@ h3 {
   margin: 2.4rem 0 !important;
 }
 
-.tabs-component-tab-a {
-  font-weight: 700;
-  padding: 11px 18px;
+.el-tabs__item {
+  &.is-active {
+    color: $accentColor !important;
+  }
+  &:not(.is-disabled) {
+    &:hover {
+      color: $accentColor !important;
+    }
+  }
 }
 
-.tabs-component-panels {
-  padding: 24px;
-  section ul {
+.el-tabs__item {
+  font-weight: 700 !important;
+}
+
+.el-tabs__content {
+  padding: 24px !important;
+  ul {
     margin: 0;
   }
 }
