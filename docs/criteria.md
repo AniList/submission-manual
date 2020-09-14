@@ -237,9 +237,9 @@ There is a limitation on manga that can be accepted to the site, notably they sh
 
 Example magazines include things such as:
 
-:::: tabs :options="{ useUrlFragment: false }"
+:::: tabs
 
-::: tab "Print Magazines"
+::: tab Print Magazines
 - [Weekly Shounen Jump](https://www.shonenjump.com/j/index.html)
 - [Comic Earthstar](https://comic-earthstar.jp/)
 - [Dengeki Daioh](https://dengekidaioh.jp/)
@@ -248,7 +248,7 @@ Example magazines include things such as:
 - [Betsuma](http://betsuma.shueisha.co.jp/)
 :::
 
-::: tab "Web Magazines"
+::: tab Web Magazines
 - [Comic Bunch](http://www.comicbunch.com/)
 - [Sunday Webry](https://www.sunday-webry.com/)
 - [LEED Cafe](http://leedcafe.com/)
@@ -498,7 +498,7 @@ As always, works still have to satisfy the Japanese, Chinese, South Korean, or T
 
 If the work originally published on ‘_Not Accepted_‘ websites is later picked up by a professional publisher of _**the same language**_, that later publication would be what can be added to the database.
 
-:::: tabs :options="{ useUrlFragment: false }"
+:::: tabs
 ::: tab Accepted
 Japanese  
 - [https://comic.pixiv.net](https://comic.pixiv.net/)  
@@ -534,7 +534,7 @@ South Korean
 - [http://webtoon.daum.net](http://webtoon.daum.net/) \(Official works only, not League\)  
 :::
 
-::: tab "Not Accepted"
+::: tab Not Accepted
 Japanese  
 - [http://www.pixiv.net](http://pixiv.net/) \(However [PixivComics](https://comic.pixiv.net/) is allowed\)
 - [http://www.syosetu.com](http://syosetu.com/)  

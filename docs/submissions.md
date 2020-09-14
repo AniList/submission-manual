@@ -483,32 +483,32 @@ Please don't crop volume covers for written media _**unless**_ removing spines o
 
 Spine Example:
 
-:::: tabs :options="{ useUrlFragment: false }"
-::: tab "Uncropped Spine"
+:::: tabs
+::: tab Uncropped Spine
 ![Volume before cropping the spine](./img/bad_cover_jump.jpg)
 :::
 
-::: tab "Cropped Spine"
+::: tab Cropped Spine
 ![Volume after cropping the spine](./img/good_cover_jump.jpg)
 :::
 ::::
 
 #### Animated Media Examples:
 
-:::: tabs :options="{ useUrlFragment: false }"
-::: tab "Illustration"
+:::: tabs
+::: tab Illustration
 ![Key illustration for the &apos;Ao Buta&apos; anime](./img/good_cover_ao_buta.jpg)
 
 ![Key illustration for the &apos;Gochuumon wa Usagi desu ka???&apos; anime](./img/good_cover_gochuu.jpg)
 :::
 
-::: tab "Announcement"
+::: tab Announcement
 ![Announcement for &apos;Boku no Tonari ni Ankoku Hakaishin ga Imasu.&apos;](./img/good_announcement_ankoku.jpg)
 
 ![Announcement for &apos;Rifle Is Beautiful&apos;](./img/good_announcement_rifle.jpg)
 :::
 
-::: tab "Frame"
+::: tab Frame
 ![A frame from &apos;Hanasaka Jiisan&apos;](./img/good_frame_hanasaka.jpg)
 
 ![A frame from &apos;Cinterrier-jou no Hanamuko&apos;](./img/good_frame_cinterrier.jpg)
@@ -517,20 +517,20 @@ Spine Example:
 
 #### Written Media Examples:
 
-:::: tabs :options="{ useUrlFragment: false }"
-::: tab "Volume 1"
+:::: tabs
+::: tab Volume 1
 ![Volume 1 of &apos;Hibiki: Shousetsuka ni Naru Houhou&apos;](./img/good_cover_hibiki.jpg)
 
 ![Volume 1 of &apos;Ginga no Shinanai Kodomotachi he&apos;](./img/good_cover_ginga.jpg)
 :::
 
-::: tab "One-Shot"
+::: tab One-Shot
 ![The first page of the one-shot &apos;Ikimono Mask&apos;](./img/good_cover_ikimono.png)
 
 ![The first page of the one-shot &apos;Iinchou no Kotojou&apos;](./img/good_cover_iinchou.jpg)
 :::
 
-::: tab "Announcement"
+::: tab Announcement
 ![Announcement image for &apos;Koufuku Gokko&apos;](./img/good_cover_koufuku_announcement.jpg)
 
 ![Announcement image for &apos;Akuma no Mama&apos;](./img/good_cover_akuma_announcement.jpg)
@@ -538,7 +538,7 @@ Spine Example:
 ![Magazine cover showing &apos;Masamune-kun no Revenge: After School&apos;](./img/good_cover_masamune_announcement.jpg)
 :::
 
-::: tab "Illustration"
+::: tab Illustration
 ![Official illustration for the manga &apos;Cromartie Koukou Shokuinshitsu&apos;](./img/good_cover_mechazawa_announcement.jpg)
 
 ![Official illustration for the manga &apos;Warui Ko demo Ii no&apos; \(cropped\)](./img/good_cover_waruiko_announcement.png)
@@ -701,8 +701,8 @@ Local image upload is currently available to moderators only.
 
 #### Image Examples
 
-:::: tabs :options="{ useUrlFragment: false }"
-::: tab "Good Images"
+:::: tabs
+::: tab Good Images
 |  |  |
 | :--- | :--- |
 | ![](./img/char_good_2.jpg) | ![](./img/char_good_1.png) |
@@ -711,7 +711,7 @@ Local image upload is currently available to moderators only.
 | ![](./img/char_good_7.jpg) | ![](./img/char_good_8.jpg) |
 :::
 
-::: tab "Bad Images"
+::: tab Bad Images
 |  |  |
 | :--- | :--- |
 | ![](./img/char_bad_2.jpg) | ![](./img/char_bad_3.png) |
@@ -788,8 +788,8 @@ Example: [Yamakawa Naoto](https://anilist.co/staff/105479/Naoto-Yamakawa), [Taka
 Local image upload is currently available to moderators only.
 :::
 
-:::: tabs :options="{ useUrlFragment: false }"
-::: tab "Good Images"
+:::: tabs
+::: tab Good Images
 |  |  |
 | :--- | :--- |
 | ![](./img/staff_good_1.jpg) | ![](./img/staff_good_2.jpg) |
@@ -797,7 +797,7 @@ Local image upload is currently available to moderators only.
 | ![](./img/staff_good_3.jpg) | ![](./img/staff_good_6.png) |
 :::
 
-::: tab "Bad Images"
+::: tab Bad Images
 |  |  |
 | :--- | :--- |
 | ![](./img/staff_bad_1.jpg) |  |
@@ -903,8 +903,8 @@ Example: [Yamakawa Naoto](https://anilist.co/staff/105479/Naoto-Yamakawa), [Taka
 Local image upload is currently available to moderators only.
 :::
 
-:::: tabs :options="{ useUrlFragment: false }"
-::: tab "Good Images"
+:::: tabs
+::: tab Good Images
 |  |  |
 | :--- | :--- |
 | ![](./img/staff_good_1.jpg) | ![](./img/staff_good_2.jpg) |
@@ -912,7 +912,7 @@ Local image upload is currently available to moderators only.
 | ![](./img/staff_good_3.jpg) | ![](./img/staff_good_6.png) |
 :::
 
-::: tab "Bad Images"
+::: tab Bad Images
 |  |  |
 | :--- | :--- |
 | ![](./img/staff_bad_1.jpg) |  |
