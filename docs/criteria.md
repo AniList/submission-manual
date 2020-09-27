@@ -462,7 +462,7 @@ Compilations or Anthologies are hereby understood as collections of short, usual
 * A compilation of stories never released before. (example: [Yagate Kimi ni Naru Koushiki Comic Anthology ](https://anilist.co/manga/106794/))
 * A mixture of the two.
 
-For works that compile previously released one-shots, it is acceptable for _**both**_ the standalone one-shot and the collection it is compiled into to be added to the website. These must be linked through the ‘**contains**’ and '**compilation**' [relations](./submissions.html#relations).
+For works that compile previously released one-shots, it is acceptable for _**both**_ the standalone one-shot and the collection it is compiled into to be added to the website. These must be linked through the "**contains**" and "**compilation**" [relations](./submissions.html#relations).
 
 Example:
 
