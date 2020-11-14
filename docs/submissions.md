@@ -291,18 +291,37 @@ Please be aware that titles created by fansubbers or scanlators are normally not
 
 ### Description
 
-A basic, spoiler-free description of the entry. This should be in English and a source provided \(whether taken from another site or written by yourself\).
+A basic, spoiler-free description of the entry. 
+
+It must be in English and a source should be provided if you took it from somewhere, so long as the source is one of the types accepted below.
+
+#### Acceptable sources
+
+Sources|Example
+---|---
+Official English Licensor|Crunchyroll
+Reputable English publications|Anime News Network
+[Japanese publisher], translated|Kodansha, translated
+Collectives of people from reputable sites|MAL Rewrite
+
+**Note:** A reputable site is one unrelated to piracy or any other illegal activity.
+
+**Note 2:** [Japanese publisher] is a placeholder for the name of the publisher, you shouldn't literally write "Japanese Publisher". This type of credit is also specifically only for when the descriptionn is a direct translation from the publisher.
+
+#### Not acceptable sources
+
+Sources|Example
+---|---
+Other databases|MangaUpdates
+Scanlators/Fansubbers|HorribleSubs
+Users|matchai
+
+**If you don't have an acceptable source, you can still use the description you have, but no credit should be given.**
 
 ::: tip
 Descriptions use HTML.  
 Please use &lt;br&gt; for line breaks.  
 Links can be added as so: &lt;a href="website"&gt;NAME&lt;/a&gt;
-:::
-
-::: warning
-Do not source piracy sites for manga. Instead, look for a legal alternative, such as the official English licensor \(Example: Kodansha Comics\) or another English database \(Example: MangaUpdates\). 
-
-If no other alternative appears, use _\(Source: Japanese Publisher, translated\)_ or any equivalent of it.
 :::
 
 #### Formatting Best Practices
