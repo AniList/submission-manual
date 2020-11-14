@@ -300,7 +300,7 @@ It must be in English and a source should be provided if you took it from somewh
 Sources|Example
 ---|---
 Official English Licensor|Crunchyroll
-Reputable English publications|Anime News Network
+Reputable English news outlets|Anime News Network
 [Japanese publisher], translated|Kodansha, translated
 Collectives of people from reputable sites|MAL Rewrite
 
@@ -318,6 +318,9 @@ Fansubbers|HorribleSubs
 Users|matchai
 
 **If you don't have an acceptable source, you can still use the description you have, but no credit should be given.**
+
+::: warning
+Sources should be written in full and not as an acronym. e.g. Anime News Network instead of ANN.
 
 ::: tip
 Descriptions use HTML.  
