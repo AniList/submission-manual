@@ -306,14 +306,15 @@ Collectives of people from reputable sites|MAL Rewrite
 
 **Note:** A reputable site is one unrelated to piracy or any other illegal activity.
 
-**Note 2:** [Japanese publisher] is a placeholder for the name of the publisher, you shouldn't literally write "Japanese Publisher". This type of credit is also specifically only for when the descriptionn is a direct translation from the publisher.
+**Note 2:** [Japanese publisher] is a placeholder for the name of the publisher. Do not literally write "Japanese Publisher". This type of credit is also specifically only for when the descriptionn is a direct translation from the publisher.
 
 #### Not acceptable sources
 
 Sources|Example
 ---|---
 Other databases|MangaUpdates
-Scanlators/Fansubbers|HorribleSubs
+Scanlators|Mangastream
+Fansubbers|HorribleSubs
 Users|matchai
 
 **If you don't have an acceptable source, you can still use the description you have, but no credit should be given.**
