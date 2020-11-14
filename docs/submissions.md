@@ -299,16 +299,16 @@ It must be in English and a source should be provided if you took it from somewh
 
 Sources|Example
 ---|---
-Official English Licensor|Crunchyroll
+Official English licensor|Crunchyroll
 Reputable English news outlets|Anime News Network
 [Japanese publisher], translated|Kodansha, translated
 Collectives of people from reputable sites|MAL Rewrite
 
 **Note:** A reputable site is one unrelated to piracy or any other illegal activity.
 
-**Note 2:** [Japanese publisher] is a placeholder for the name of the publisher. Do not literally write "Japanese Publisher". This type of credit is also specifically only for when the descriptionn is a direct translation from the publisher.
+**Note 2:** [Japanese publisher] is a placeholder for the name of the publisher. Do not literally write "Japanese Publisher". This type of credit is also only for when the descriptionn is a direct translation from the publisher.
 
-#### Not acceptable sources
+#### Unacceptable sources 
 
 Sources|Example
 ---|---
@@ -317,10 +317,13 @@ Scanlators|Mangastream
 Fansubbers|HorribleSubs
 Users|matchai
 
+**Note:** the list of unacceptable sources is not exhaustive and only illustrates the bigger examples. Anything not specifically mentioned as an acceptable source should be considered unacceptable by default. If you are really unsure however, please explain the situation in [Submission Sources & Notes](https://submission-manual.anilist.co/submissions.html#submission-sources-notes).
+
 **If you don't have an acceptable source, you can still use the description you have, but no credit should be given.**
 
 ::: warning
 Sources should be written in full and not as an acronym. e.g. Anime News Network instead of ANN.
+:::
 
 ::: tip
 Descriptions use HTML.  
@@ -336,16 +339,16 @@ Links can be added as so: &lt;a href="website"&gt;NAME&lt;/a&gt;
 
 Example:
 
-> Mari's girlfriend, Arisa, loses her memories of the past three years, including all memory of their life together. However, it turns out that being crazy in love with someone transcends all realms of possibility.&lt;br&gt;  
+> While searching for a brave candidate to become a magical girl and defend the world from evil, a mythical creature finds Kayo Majiba, a cute young lady who seems like the perfect fit. But when this newly turned magical girl proves to be a crude delinquent who goes berserk in a conflict, it becomes clear that this may have been a terrible mistake. Now evil—and any innocent bystanders—will face the rage of a magical girl gone wrong!&lt;br&gt;  
 > &lt;br&gt;  
-> \(Source: Girls in Boxes\)
+> \(Source: Seven Seas\)
 
 Will produce:
 
-> Mari's girlfriend, Arisa, loses her memories of the past three years, including all memory of their life together. However, it turns out that being crazy in love with someone transcends all realms of possibility.  
+> While searching for a brave candidate to become a magical girl and defend the world from evil, a mythical creature finds Kayo Majiba, a cute young lady who seems like the perfect fit. But when this newly turned magical girl proves to be a crude delinquent who goes berserk in a conflict, it becomes clear that this may have been a terrible mistake. Now evil—and any innocent bystanders—will face the rage of a magical girl gone wrong!
 >   
 >   <br>
-> (Source: Girls in Boxes)
+> (Source: Seven Seas)
 
 ::: tip
 &lt;b&gt; and &lt;i&gt; are for **bold** and _italic_**,** \_\_but don't forget to use &lt;/b&gt; or &lt;/i&gt; at the end of the text you want to format.
