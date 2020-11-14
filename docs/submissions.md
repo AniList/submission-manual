@@ -341,14 +341,14 @@ Example:
 
 > While searching for a brave candidate to become a magical girl and defend the world from evil, a mythical creature finds Kayo Majiba, a cute young lady who seems like the perfect fit. But when this newly turned magical girl proves to be a crude delinquent who goes berserk in a conflict, it becomes clear that this may have been a terrible mistake. Now evil—and any innocent bystanders—will face the rage of a magical girl gone wrong!&lt;br&gt;  
 > &lt;br&gt;  
-> \(Source: Seven Seas\)
+> \(Source: Seven Seas Entertainment\)
 
 Will produce:
 
 > While searching for a brave candidate to become a magical girl and defend the world from evil, a mythical creature finds Kayo Majiba, a cute young lady who seems like the perfect fit. But when this newly turned magical girl proves to be a crude delinquent who goes berserk in a conflict, it becomes clear that this may have been a terrible mistake. Now evil—and any innocent bystanders—will face the rage of a magical girl gone wrong!
 >   
 >   <br>
-> (Source: Seven Seas)
+> (Source: Seven Seas Entertainment)
 
 ::: tip
 &lt;b&gt; and &lt;i&gt; are for **bold** and _italic_**,** \_\_but don't forget to use &lt;/b&gt; or &lt;/i&gt; at the end of the text you want to format.
