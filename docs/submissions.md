@@ -306,7 +306,7 @@ Collectives of people from reputable sites|MAL Rewrite
 
 **Note:** A reputable site is one unrelated to piracy or any other illegal activity.
 
-**Note 2:** [Japanese publisher] is a placeholder for the name of the publisher. Do not literally write "Japanese Publisher". This type of credit is also only for when the descriptionn is a direct translation from the publisher.
+**Note 2:** [Japanese publisher] is a placeholder for the name of the publisher. Do not literally write "Japanese Publisher". This type of credit is also only for when the description is a direct translation from the publisher.
 
 #### Unacceptable sources 
 
@@ -317,7 +317,7 @@ Scanlators|Mangastream
 Fansubbers|HorribleSubs
 Users|matchai
 
-**Note:** the list of unacceptable sources is not exhaustive and only illustrates the bigger examples. Anything not specifically mentioned as an acceptable source should be considered unacceptable by default. If you are really unsure however, please explain the situation in [Submission Sources & Notes](https://submission-manual.anilist.co/submissions.html#submission-sources-notes).
+**Note:** The list of unacceptable sources is not exhaustive and only illustrates the bigger examples. Anything not specifically mentioned as an acceptable source should be considered unacceptable by default. If you are really unsure however, please explain the situation in [Submission Sources & Notes](https://submission-manual.anilist.co/submissions.html#submission-sources-notes).
 
 **If you don't have an acceptable source, you can still use the description you have, but no credit should be given.**
 
