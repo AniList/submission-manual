@@ -293,9 +293,9 @@ Please be aware that titles created by fansubbers or scanlators are normally not
 
 A basic, spoiler-free description of the entry. 
 
-It must be in English and a source should be provided if you took it from somewhere, so long as the source is one of the types accepted below.
+It must be in English and a source should be provided if you took it from somewhere, so long as it's from one of the creditable types of sources below.
 
-#### Acceptable sources
+#### Creditable sources
 
 Sources|Example
 ---|---
@@ -308,7 +308,7 @@ Collectives of people from reputable sites|MAL Rewrite
 
 **Note 2:** [Japanese publisher] is a placeholder for the name of the publisher. Do not literally write "Japanese Publisher". This type of credit is also only for when the description is a direct translation from the publisher.
 
-#### Unacceptable sources 
+#### Non-creditable sources
 
 Sources|Example
 ---|---
