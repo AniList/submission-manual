@@ -96,7 +96,10 @@ The current status of the work.
 | Hiatus (Manga) | The work has stopped being regularly published for _**at least 1 year.**_ |
 | Hiatus (Light Novels) | The work has stopped being regularly published for at _**at least 5 years.**_ |
 
-**Note:** Due to the diverse nature of written media, in some instances, depending on the information available, there may be cases where the hiatus status is still not applicable even after the specified time has been met. e.g. The manga [1-Nen de 1 Page dake Susumu Manga no Sekai](https://anilist.co/manga/117010/1Nen-de-1-Page-dake-Susumu-Manga-no-Sekai/) is released only once a year, so the hiatus status isn't applicable even if over a year has passed between releases.
+**Note:** Due to the diverse nature of written media, in some instances, depending on the information available, there may be cases where the hiatus status is still not applicable even after the specified time has been met. 
+
+Example:
+> The manga [1-Nen de 1 Page dake Susumu Manga no Sekai](https://anilist.co/manga/117010/1Nen-de-1-Page-dake-Susumu-Manga-no-Sekai/) is released only once a year, so the hiatus status isn't applicable even if over a year has passed between releases.
 
 #### Season
 
