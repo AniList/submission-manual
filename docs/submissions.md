@@ -317,9 +317,9 @@ Scanlators|Mangastream
 Fansubbers|HorribleSubs
 Users|matchai
 
-**Note:** The list of unacceptable sources is not exhaustive and only illustrates the bigger examples. Anything not specifically mentioned as an acceptable source should be considered unacceptable by default. If you are really unsure however, please explain the situation in [Submission Sources & Notes](https://submission-manual.anilist.co/submissions.html#submission-sources-notes).
+**Note:** The list of non-creditable sources is not exhaustive and only illustrates the bigger examples. Anything not specifically mentioned as a creditable source should be considered non-creditable by default. If you are really unsure however, please explain the situation in your [Submission Sources & Notes](https://submission-manual.anilist.co/submissions.html#submission-sources-notes).
 
-**If you don't have an acceptable source, you can still use the description you have, but no credit should be given.**
+**If you don't have an creditable source, you can still use the description you have, but no credit should be given.**
 
 ::: warning
 Sources should be written in full and not as an acronym. e.g. Anime News Network instead of ANN.
