@@ -298,18 +298,44 @@ Please be aware that titles created by fansubbers or scanlators are normally not
 
 ### Description
 
-A basic, spoiler-free description of the entry. This should be in English and a source provided \(whether taken from another site or written by yourself\).
+A basic, spoiler-free description of the entry. 
+
+It must be in English and a source should be provided if you took it from somewhere, so long as it's from one of the creditable types of sources below.
+
+#### Creditable sources
+
+Sources|Example
+---|---
+Official English licensor|Crunchyroll
+Reputable English news outlets|Anime News Network
+[Japanese publisher], translated|Kodansha, translated
+Collectives of people from reputable sites|MAL Rewrite
+
+**Note:** A reputable site is one unrelated to piracy or any other illegal activity.
+
+**Note 2:** [Japanese publisher] is a placeholder for the name of the publisher. Do not literally write "Japanese Publisher". This type of credit is also only for when the description is a direct translation from the publisher.
+
+#### Non-creditable sources
+
+Sources|Example
+---|---
+Other databases|MangaUpdates
+Scanlators|Mangastream
+Fansubbers|HorribleSubs
+Users|matchai
+
+**Note:** The list of non-creditable sources is not exhaustive and only illustrates the bigger examples. Anything not specifically mentioned as a creditable source should be considered non-creditable by default. If you are really unsure however, please explain the situation in your [Submission Sources & Notes](https://submission-manual.anilist.co/submissions.html#submission-sources-notes).
+
+**If you don't have an creditable source, you can still use the description you have, but no credit should be given.**
+
+::: warning
+Sources should be written in full and not as an acronym. e.g. Anime News Network instead of ANN.
+:::
 
 ::: tip
 Descriptions use HTML.  
 Please use &lt;br&gt; for line breaks.  
 Links can be added as so: &lt;a href="website"&gt;NAME&lt;/a&gt;
-:::
-
-::: warning
-Do not source piracy sites for manga. Instead, look for a legal alternative, such as the official English licensor \(Example: Kodansha Comics\) or another English database \(Example: MangaUpdates\). 
-
-If no other alternative appears, use _\(Source: Japanese Publisher, translated\)_ or any equivalent of it.
 :::
 
 #### Formatting Best Practices
@@ -320,16 +346,16 @@ If no other alternative appears, use _\(Source: Japanese Publisher, translated\)
 
 Example:
 
-> Mari's girlfriend, Arisa, loses her memories of the past three years, including all memory of their life together. However, it turns out that being crazy in love with someone transcends all realms of possibility.&lt;br&gt;  
+> While searching for a brave candidate to become a magical girl and defend the world from evil, a mythical creature finds Kayo Majiba, a cute young lady who seems like the perfect fit. But when this newly turned magical girl proves to be a crude delinquent who goes berserk in a conflict, it becomes clear that this may have been a terrible mistake. Now evil—and any innocent bystanders—will face the rage of a magical girl gone wrong!&lt;br&gt;  
 > &lt;br&gt;  
-> \(Source: Girls in Boxes\)
+> \(Source: Seven Seas Entertainment\)
 
 Will produce:
 
-> Mari's girlfriend, Arisa, loses her memories of the past three years, including all memory of their life together. However, it turns out that being crazy in love with someone transcends all realms of possibility.  
+> While searching for a brave candidate to become a magical girl and defend the world from evil, a mythical creature finds Kayo Majiba, a cute young lady who seems like the perfect fit. But when this newly turned magical girl proves to be a crude delinquent who goes berserk in a conflict, it becomes clear that this may have been a terrible mistake. Now evil—and any innocent bystanders—will face the rage of a magical girl gone wrong!
 >   
 >   <br>
-> (Source: Girls in Boxes)
+> (Source: Seven Seas Entertainment)
 
 ::: tip
 &lt;b&gt; and &lt;i&gt; are for **bold** and _italic_**,** \_\_but don't forget to use &lt;/b&gt; or &lt;/i&gt; at the end of the text you want to format.
