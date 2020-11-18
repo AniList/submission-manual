@@ -235,15 +235,17 @@ In the event that a series has some episode of different length, but not enough 
 
 ### Chapters & Volumes
 
-The total number of chapters in the first edition of the physical volumes. Or, if volumes were never printed, the total number of chapters in the magazine/site the work was in. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters, and some prologues and epilogues.
+::: danger
+Volume and chapter counts are only added when the work is completed or confirmed complete. If the work is still publishing, both remain at _**zero**_.
+:::
 
-**_Special pages for things such as advertising volume releases or author comments (e.g. afterwords) do not count as chapters._**
+The total number of chapters should be the one found in the first edition of the physical volumes. Or, if volumes were never printed, the total number of chapters in the magazine/site the work was in. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters, and some prologues and epilogues.
 
-In the case of there being extra chapters outside of the main chapter count, a note should be created at the bottom of the description mentioning how many there are, and they should all be labeled extra chapters regardless of whether they were bonuses, side chapters, etc.
+Special pages for things such as advertising volume releases or author comments (e.g. afterwords) do not count as chapters.
 
-If a manga does not have any kind of chapter numbering/division, the entry should be marked has having **_one chapter_** (Example: [Shin Taketori Monogatari: 1000-nen Joou ](https://anilist.co/manga/112189/Shin-Taketori-Monogatari-1000nen-Joou/) and a note should be added at the bottom clarifying this.
+In the case of there being extra chapters outside of the main chapter count, a note should be created at the bottom of the description mentioning how many there are, and they should all be labeled extra chapters regardless of whether they were bonuses, side chapters, etc. 
 
-Volume and chapter counts are only added when the work is completed or confirmed complete. if the work is still publishing, both remain at _**zero**_.
+If a manga does not have any kind of chapter numbering/division, the entry should be marked has having **_one chapter_** (Example: [Shin Taketori Monogatari: 1000-nen Joou ](https://anilist.co/manga/112189/Shin-Taketori-Monogatari-1000nen-Joou/)) and a note should be added at the bottom clarifying this.
 
 One-Shots should have the chapter count as _**one**_ and the volume count left as _**zero**_.
 
