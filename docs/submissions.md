@@ -11,7 +11,7 @@ Provide direct links to all relevant sources that were used to fill in the form,
 ![The &apos;Submission Sources &amp; Notes&apos; panel](./img/submission_source.png)
 
 ::: tip
-Please see the [Websites ](./criteria.html#websites)section for useful sites to help you source information.
+Please see the [Websites](./criteria.html#websites) section for useful sites to help you source information.
 :::
 
 #### Information Sourcing Example
@@ -59,7 +59,7 @@ This field should only be filled in with the name given when the entry has been 
 English titles written on the cover or announcement of works \(often as subheadings\) are placed in the ‘[synonym](./submissions.html#synonyms)’ section, as they are not licensed titles.
 
 ::: tip
-It is acceptable to use the English title when a work is translated into English by legal streaming or reading sites such as [TOPTOON ](https://www.toptoon.net/)\(which is a Chinese service that supplies Chinese, Korean and Japanese works in English, Chinese and Japanese\).
+It is acceptable to use the English title when a work is translated into English by legal streaming or reading sites such as [TOPTOON](https://www.toptoon.net/) \(which is a Chinese service that supplies Chinese, Korean and Japanese works in English, Chinese and Japanese\).
 
 _**However**_, it could be replaced if a native English publisher \(such as Seven Seas, Viz etc.\) later licenses the work, or a publisher of the same native language as the original work \(Example, [TORICO](https://www.torico-corp.com/) is a Japanese publisher that releases Japanese works in English\).
 :::
@@ -245,7 +245,7 @@ Special pages for things such as advertising volume releases or author comments 
 
 In the case of there being extra chapters outside of the main chapter count, a note should be created at the bottom of the description mentioning how many there are, and they should all be labeled extra chapters regardless of whether they were bonuses, side chapters, etc. 
 
-If a manga does not have any kind of chapter numbering/division, the entry should be marked has having **_one chapter_** (Example: [Shin Taketori Monogatari: 1000-nen Joou ](https://anilist.co/manga/112189/Shin-Taketori-Monogatari-1000nen-Joou/)) and a note should be added at the bottom clarifying this.
+If a manga does not have any kind of chapter numbering/division, the entry should be marked has having **_one chapter_** (Example: [Shin Taketori Monogatari: 1000-nen Joou](https://anilist.co/manga/112189/Shin-Taketori-Monogatari-1000nen-Joou/)) and a note should be added at the bottom clarifying this.
 
 One-Shots should have the chapter count as _**one**_ and the volume count left as _**zero**_.
 
@@ -943,9 +943,9 @@ Choose the role that the staff member had in the work. If the staff member had m
 In terms of anime, for staff, if they have specific episode credits, they should be credited in the following formats; _**‘Storyboard \(ep 5\)**_’ or ‘_**2nd Key Animation \(eps 1, 3, 8, 11, 13\)**_’ with a comma, followed by a space after every episode number. If they are credited with a studio next to their name, do not include the studio. If they are credited for at least 3 consecutive episodes then it should be formatted as ‘_**Animation Director \(eps 7-9\)**_’. For insert songs, the name of the song should only be used in the event that a single episode has multiple insert songs such as ‘_**Insert Song Performance \("Song Name"; eps 7-9\)**_’, otherwise it should be formatted as ‘_**Insert Song Performance \(eps 7-9\)**_’.
 
 ::: warning
-Keep in mind that some titles do not follow conventional episode credits \([Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/) or [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) are both good examples\). Care should be taken to convert episode credits into how [AniList ](http://anilist.co)lists episodes.
+Keep in mind that some titles do not follow conventional episode credits \([Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/) or [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) are both good examples\). Care should be taken to convert episode credits into how [AniList](http://anilist.co) lists episodes.
 
-For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is often credited as if it were a 26 episode anime but [AniList ](http://anilist.co)lists it as 38 as episodes. Episodes 14 to 37 were aired as 12 minute long episodes. A credit of ‘_**In-Between Check \(ep 26\)**_’ elsewhere might be ‘In-Between Check \(ep 38\)’ on [AniList](http://anilist.co), you’ll need to determine the convention used on the site you’re pulling the data from. Conversely, for a title like [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/), a credit for ‘_**Episode Director \(ep 2\)**_’ would be ‘_**Episode Director \(ep 1b\)**_’.
+For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is often credited as if it were a 26 episode anime but [AniList](http://anilist.co) lists it as 38 as episodes. Episodes 14 to 37 were aired as 12 minute long episodes. A credit of ‘_**In-Between Check \(ep 26\)**_’ elsewhere might be ‘In-Between Check \(ep 38\)’ on [AniList](http://anilist.co), you’ll need to determine the convention used on the site you’re pulling the data from. Conversely, for a title like [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/), a credit for ‘_**Episode Director \(ep 2\)**_’ would be ‘_**Episode Director \(ep 1b\)**_’.
 :::
 
 #### Manga
