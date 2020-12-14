@@ -628,6 +628,8 @@ Example:
 [Dictionary browser extensions](./criteria.html#tools) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](https://discord.gg/TF428cr).
 :::
 
+![Character entry for Ririka Kenzaki](./img/character_editor_new.png)
+
 An exception to the above is when a name is natively western.
 
 Example:
@@ -635,8 +637,6 @@ Example:
 > ‘[Reinhard von Lohengramm](https://anilist.co/character/3066/Reinhard-von-Lohengramm)’ would be written as _ラインハルト・フォン・ローグラム_. Keep in mind the rules of the language the name is born from, as terms like '_von'_ and '_van_' in German would be tacked onto the start of the surname.
 >
 > Additionally, any middle names should be placed at the end of the given name.
-
-![Character entry for Miu Matsuoka](./img/character_editor.png)
 
 #### Alternative Names
 
