@@ -114,7 +114,7 @@ However, please don't give them a title and expect them to do all the work for y
 | [Maora](https://anilist.co/user/125450) |  |  | Community |
 | [Dunkan85](https://anilist.co/user/123696) |  |  | Community |
 | [Morimasa](https://anilist.co/user/97630) |  |  | Community |
-| [Flidaix](https://anilist.co/user/139213) |  | Social Media |  |
+| [Flidaix](https://anilist.co/user/139213) |  | Social Media | Community |
 | [Odjn](https://anilist.co/user/103672) |  | Social Media |  |
 | [Devil](https://anilist.co/user/151580) |  | Social Media |  |
 | [Troy121](https://anilist.co/user/120802) |  | Social Media |  |
