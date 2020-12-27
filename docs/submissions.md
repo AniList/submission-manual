@@ -102,7 +102,9 @@ The general rule is that a manga can have the hiatus status if it has missed **3
 * If a manga has no kind of regular publication schedule, it can only have the hiatus status if it hasn't been updated in **6 months**.
 * Daily manga, due to their frequent release, can only have the hiatus status after 2 weeks of not being updated.
 
-| Release schedule | Hiatus eligibility |
+Below is a table for quick reference. 
+
+| Release Schedule | Hiatus Eligibility |
 | :--- | :--- |
 | Daily | After 2 weeks |
 | Weekly | After 3 weeks |
@@ -113,10 +115,15 @@ The general rule is that a manga can have the hiatus status if it has missed **3
 | Irregular | After 6 months |
 | Light Novels | After 5 years | 
 
-**Note:** Due to the diverse nature of written media, in some instances, depending on the information available, there may be cases where the hiatus status is still not applicable even after the specified time has been met. 
+::: tip
+This table is no exhaustive, there can be more types of releasse schedule (example: 3 times a year). In every kind of regular release schedule longer than daily, a manga missing 3 or more issues always means it can be marked being on hiatus.
+:::
 
-Example:
-> The manga [1-Nen de 1 Page dake Susumu Manga no Sekai](https://anilist.co/manga/117010/1Nen-de-1-Page-dake-Susumu-Manga-no-Sekai/) is released only once a year, so the hiatus status isn't applicable even if over a year has passed between releases.
+::: warning
+Due to the diverse nature of written media, in some instances, depending on the information available, there may be cases where the hiatus status is still not applicable even after the specified time has been met. 
+
+For example, the manga [1-Nen de 1 Page dake Susumu Manga no Sekai](https://anilist.co/manga/117010/1Nen-de-1-Page-dake-Susumu-Manga-no-Sekai/) is released only once a year, so the hiatus status isn't applicable even if over a year has passed between releases.
+:::
 
 #### Season
 
