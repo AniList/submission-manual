@@ -93,8 +93,25 @@ The current status of the work.
 | Currently Releasing | The work is _**currently**_ airing or in serialization. |
 | Not Yet Released | The work _**has yet to**_ air or begin serialization. |
 | Canceled | An _**official announcement**_ has been made that the work is canceled. |
-| Hiatus (Manga) | The work has stopped being regularly published for _**at least 1 year.**_ |
-| Hiatus (Light Novels) | The work has stopped being regularly published for at _**at least 5 years.**_ |
+| Hiatus | Only applies to _**Manga and Light Novels**_. See full information below. |
+
+#### Hiatus Status
+
+The general rule is that a manga can have the hiatus status if it has missed **3 or more of its expected release dates**. For light novels, due to their sporadic publishing nature, the cutoff point is **5 years** instead. However there are some exceptions:
+
+* If a manga has no kind of regular publication schedule, it can only have the hiatus status if it hasn't been updated in **6 months**.
+* Daily manga, due to their frequent release, can only have the hiatus status after 2 weeks of not being updated.
+
+| Release schedule | Hiatus eligibility |
+| :--- | :--- |
+| Daily | After 2 weeks |
+| Weekly | After 3 weeks |
+| Biweekly | After 6 weeks |
+| Monthly | After 3 months |
+| Bimonthly | After 6 months |
+| Quarterly | After 9 months |
+| Irregular | After 6 months |
+| Light Novels | After 5 years | 
 
 **Note:** Due to the diverse nature of written media, in some instances, depending on the information available, there may be cases where the hiatus status is still not applicable even after the specified time has been met. 
 
