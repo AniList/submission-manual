@@ -116,13 +116,13 @@ Below is a table for quick reference.
 | Light Novels | After 5 years | 
 
 ::: tip
-This table is no exhaustive, there can be more types of releasse schedule (example: 3 times a year). In every kind of regular release schedule longer than daily, a manga missing 3 or more issues always means it can be marked being on hiatus.
+This table is not exhaustive. There can be more types of release schedule (example: 3 times a year). In every kind of regular release schedule longer than daily, a manga missing 3 or more issues always means it can be marked as being on hiatus.
 :::
 
 ::: warning
-Due to the diverse nature of written media, in some instances, depending on the information available, there may be cases where the hiatus status is still not applicable even after the specified time has been met. 
+Due to the diverse nature of written media, in rare instances, depending on the information available, there may be cases where the hiatus status is still not applicable even after the specified time has been met. 
 
-For example, the manga [1-Nen de 1 Page dake Susumu Manga no Sekai](https://anilist.co/manga/117010/1Nen-de-1-Page-dake-Susumu-Manga-no-Sekai/) is released only once a year, so the hiatus status isn't applicable even if over a year has passed between releases.
+For example, the manga [1-Nen de 1 Page dake Susumu Manga no Sekai](https://anilist.co/manga/117010/1Nen-de-1-Page-dake-Susumu-Manga-no-Sekai/) is supposed to release only once a year, but has no regularly set schedule, so it can't be marked as being on hiatus until a reasonable enough span of time has passed, at least over a year.
 :::
 
 #### Season
