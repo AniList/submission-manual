@@ -61,7 +61,6 @@ However, please don't give them a title and expect them to do all the work for y
 | :--- | :--- |
 | [Taluun](http://anilist.co/user/21510) | Lead Anime |
 | [Tiamo](http://anilist.co/user/44283) | Anime |
-| [Byrdn](http://anilist.co/user/2904) | Anime |
 | [Mochizou](https://anilist.co/user/87028) | Anime |
 | [Edo](https://anilist.co/user/40572) | Anime |
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |
@@ -84,7 +83,6 @@ However, please don't give them a title and expect them to do all the work for y
 | :--- | :--- |
 | [IdleSheep](https://anilist.co/user/122659) | Lead Manga |
 | [Orangealaid](http://anilist.co/user/2272) | Manga |
-| [InVale](http://anilist.co/user/57370) | Manga |
 | [Sumia](http://anilist.co/user/4359) | Manga |
 | [Silver](https://anilist.co/user/33516) | Manga |
 | [nazo](https://anilist.co/user/109985) | Manga |
