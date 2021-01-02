@@ -741,7 +741,7 @@ Example: [Akari Mizunashi](https://anilist.co/character/378)
 
 This is the cover image for the character.
 
-A clean headshot or head and shoulders portrait should be used where possible. There is no preference for designs if a character has appeared in various media formats.
+A clean headshot or head and shoulders portrait should be used where possible. There is no preference for designs if a character has appeared in various media formats. As with media cover images and banners, character cover images should be _**official**_ artwork or assets only.
 
 Format should either .jpg \(.jpeg\) or .png
 
