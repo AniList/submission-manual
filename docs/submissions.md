@@ -732,6 +732,11 @@ Example:
 
 Any alternative names that the character is known by, _**excluding spoilers**_. Example: [Ryo Saeba](https://anilist.co/character/2065/Ryo-Saeba) from the series [City Hunter](https://anilist.co/anime/1470/City-Hunter/) is known as _City Hunter_ by some characters.
 
+::: danger
+A character's name should _**not**_ be a spoiler for the work.  
+Example: A character's surname is revealed in a way that would be considered a plot spoiler.
+:::
+
 #### About
 
 A basic description. It should be spoiler free \(or contain spoiler tags\) and contain basic information on the character. This can be hobbies, birthday, and qualities, to a background introduction.  
