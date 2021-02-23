@@ -60,13 +60,13 @@ However, please don't give them a title and expect them to do all the work for y
 | Name | Role |
 | :--- | :--- |
 | [Taluun](http://anilist.co/user/21510) | Lead Anime |
+| [Morimasa](https://anilist.co/user/97630) | Lead Anime |
 | [Tiamo](http://anilist.co/user/44283) | Anime |
 | [Mochizou](https://anilist.co/user/87028) | Anime |
 | [Edo](https://anilist.co/user/40572) | Anime |
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |
 | [TACTICIANJACK](https://anilist.co/user/97263) | Anime |
 | [safe](https://anilist.co/user/120925) | Anime |
-| [Morimasa](https://anilist.co/user/97630) | Anime |
 | [Odjn](https://anilist.co/user/103672) | Anime |
 | [Norskyy](https://anilist.co/user/277390) | Anime |
 | [Troy121](https://anilist.co/user/120802) | Anime |
@@ -82,6 +82,7 @@ However, please don't give them a title and expect them to do all the work for y
 | Name | Role |
 | :--- | :--- |
 | [IdleSheep](https://anilist.co/user/122659) | Lead Manga |
+| [Maora](https://anilist.co/user/125450) | Lead Manga |
 | [Orangealaid](http://anilist.co/user/2272) | Manga |
 | [Sumia](http://anilist.co/user/4359) | Manga |
 | [Silver](https://anilist.co/user/33516) | Manga |
@@ -89,7 +90,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [TGG](https://anilist.co/user/63817) | Manga |
 | [Flidaix](https://anilist.co/user/139213) | Manga |
 | [Yuuya](https://anilist.co/user/40553) | Manga |
-| [Maora](https://anilist.co/user/125450) | Manga |
 | [Dunkan85](https://anilist.co/user/123696) | Manga |
 | [ScarletFairy](https://anilist.co/user/95901) | Manga |
 | [Oterino](https://anilist.co/user/241165) | Manga |
@@ -113,6 +113,9 @@ However, please don't give them a title and expect them to do all the work for y
 | [Dunkan85](https://anilist.co/user/123696) |  |  | Community |
 | [Morimasa](https://anilist.co/user/97630) |  |  | Community |
 | [Flidaix](https://anilist.co/user/139213) |  | Social Media | Community |
+| [Basenji](https://anilist.co/user/189170) |  |  | Community |
+| [SpinelSun](http://anilist.co/user/129377) |  |  | Community |
+| [TehNut](https://anilist.co/user/42069) |  |  | Discord Community |
 | [Odjn](https://anilist.co/user/103672) |  | Social Media |  |
 | [Devil](https://anilist.co/user/151580) |  | Social Media |  |
 | [Troy121](https://anilist.co/user/120802) |  | Social Media |  |
