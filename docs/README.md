@@ -24,7 +24,7 @@ When a user provides a submission it will undergo a review process where a moder
 
 ::: warning Please be aware that AniList does not handle all entries the same way that other sites do.
 Examples:  
-[Episode 0s and Prologues](./criteria.html#episode-0’s-and-prologues) are only placed in a standalone entry if they aired in a different format from the same series.
+[Episode 0s and Prologues](./criteria.html#episode-0-s-and-prologues) are only placed in a standalone entry if they aired in a different format from the same series.
 
 [Recap](./criteria.html#recaps) episodes are not always included.
 
@@ -38,7 +38,7 @@ After making a submission, you will be able to view the status of your submissio
 If you have any queries in relation to submitting or updating content on the site, feel free to ask a [moderator](./#moderator-list) on the [website](http://anilist.co) or on [Discord](https://discord.gg/TF428cr).
 
 ::: tip
-It is _**highly recommended**_ that you read the both the [Checklist](./criteria.html#checklist) and [Animated](./criteria.html#animated-media) and [Written](./criteria.html#written-media) Media Specification sections prior to any submissions, or at least relevant sections within it.
+It is _**highly recommended**_ that you read the both the [Checklist](./criteria.html#checklist) and [Animated](./criteria.html#animated-media) and [Written Media](./criteria.html#written-media) Specification sections prior to any submissions, or at least relevant sections within it.
 
 The latter sections state what _**is**_ and _**is not**_ accepted onto the database and provides many helpful tips within.
 :::
@@ -57,61 +57,65 @@ However, please don't give them a title and expect them to do all the work for y
 
 #### Anime
  
-| Name | Role | Role |
-| :--- | :--- | :--- |
-| [Taluun](http://anilist.co/user/21510) | Lead Anime |  |
-| [Retui](http://anilist.co/user/1544) | Lead Anime |  |
-| [Kazakuri](http://anilist.co/user/4659) | Anime \(Hentai\) |  |
-| [Tiamo](http://anilist.co/user/44283) | Anime |  |
-| [Watashi](http://anilist.co/user/923) | Anime |  |
-| [Byrdn](http://anilist.co/user/2904) | Anime |  |
-| [Zex](https://anilist.co/user/87028) | Anime |  |
-| [Edo](https://anilist.co/user/40572) | Anime |  |
-| [W8TERM3LON](https://anilist.co/user/57315) | Anime |  |
-| [TACTICIANJACK](https://anilist.co/user/97263) | Anime |  |
-| [safe](https://anilist.co/user/120925) | Anime |  |
-| [Sakura](https://anilist.co/user/73541) | Anime |  |
-| [Electrochemist](https://anilist.co/user/148769) | Anime |  |
-| [Morimasa](https://anilist.co/user/97630) | Anime |  |
-| [Odjn](https://anilist.co/user/103672) | Anime |  |
-| [straykid](https://anilist.co/user/117432) | Anime |  |
+| Name | Role |
+| :--- | :--- |
+| [Taluun](http://anilist.co/user/21510) | Lead Anime |
+| [Morimasa](https://anilist.co/user/97630) | Lead Anime |
+| [Tiamo](http://anilist.co/user/44283) | Anime |
+| [Mochizou](https://anilist.co/user/87028) | Anime |
+| [Edo](https://anilist.co/user/40572) | Anime |
+| [W8TERM3LON](https://anilist.co/user/57315) | Anime |
+| [TACTICIANJACK](https://anilist.co/user/97263) | Anime |
+| [safe](https://anilist.co/user/120925) | Anime |
+| [Odjn](https://anilist.co/user/103672) | Anime |
+| [Norskyy](https://anilist.co/user/277390) | Anime |
+| [Troy121](https://anilist.co/user/120802) | Anime |
+| [Devil](https://anilist.co/user/151580) | Anime |
+| [Flueckli](https://anilist.co/user/225419) | Anime |
+| [dragonfire535](https://anilist.co/user/196797) | Anime |
+| [breathesunshine](https://anilist.co/user/162489) | Anime |
+| [Crackler](https://anilist.co/user/207737) | Anime |
+| [Basenji](https://anilist.co/user/189170) | Anime |
  
 #### Manga
  
-| Name | Role | Role |
-| :--- | :--- | :--- |
-| [Mex](http://anilist.co/user/1790) | Lead Manga |  |
-| [IdleSheep](https://anilist.co/user/122659) | Lead Manga |  |
-| [Watashi](http://anilist.co/user/923) | Manga |  |
-| [Subpyro](http://anilist.co/user/27211) | Manga |  |
-| [Thunderplant](http://anilist.co/user/1828) | Manga |  |
-| [Orangealaid](http://anilist.co/user/2272) | Manga |  |
-| [InVale](http://anilist.co/user/57370) | Manga |  |
-| [Sumia](http://anilist.co/user/4359) | Manga |  |
-| [alice](http://anilist.co/user/20955) | Manga |  |
-| [Silver](https://anilist.co/user/33516) | Manga |  |
-| [nazo](https://anilist.co/user/109985) | Manga |  |
-| [TGG](https://anilist.co/user/63817) | Manga |  |
-| [Urtag](https://anilist.co/user/36596) | Manga |  |
-| [Flidaix](https://anilist.co/user/139213) | Manga |  |
-| [Yuuya](https://anilist.co/user/40553) | Manga |  |
-| [Maora](https://anilist.co/user/125450) | Manga |  |
-| [Dunkan85](https://anilist.co/user/123696) | Manga |  |
-| [ScarletFairy](https://anilist.co/user/95901) | Manga |  |
-| [Oterino](https://anilist.co/user/241165) | Manga |  |
+| Name | Role |
+| :--- | :--- |
+| [IdleSheep](https://anilist.co/user/122659) | Lead Manga |
+| [Maora](https://anilist.co/user/125450) | Lead Manga |
+| [Orangealaid](http://anilist.co/user/2272) | Manga |
+| [Sumia](http://anilist.co/user/4359) | Manga |
+| [Silver](https://anilist.co/user/33516) | Manga |
+| [nazo](https://anilist.co/user/109985) | Manga |
+| [TGG](https://anilist.co/user/63817) | Manga |
+| [Flidaix](https://anilist.co/user/139213) | Manga |
+| [Yuuya](https://anilist.co/user/40553) | Manga |
+| [Dunkan85](https://anilist.co/user/123696) | Manga |
+| [ScarletFairy](https://anilist.co/user/95901) | Manga |
+| [Oterino](https://anilist.co/user/241165) | Manga |
+| [Noyaxus](https://anilist.co/user/110871) | Manga |
+| [BC](https://anilist.co/user/95739) | Manga |
+| [Furudead](https://anilist.co/user/279543) | Manga |
+| [Nea1407](http://anilist.co/user/363242) | Manga |
+| [SpinelSun](http://anilist.co/user/129377) | Manga |
  
 #### Other Roles
  
 | Name | Role | Role | Role |
 | :--- | :--- | :--- | :--- |
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
-| [matchai](http://anilist.co/user/2) | Lead Social Media | Developer | Community |
-| [Mex](http://anilist.co/user/1790) | Social Media |  | Community |
-| [Kazakuri](http://anilist.co/user/4659) | Developer |  | Community |
-| [Retui](http://anilist.co/user/1544) | Social Media |  | Community |
+| [matchai](http://anilist.co/user/2) | Developer | Lead Social Media | Lead Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
-| [Zex](https://anilist.co/user/87028) |  |  | Community |
-| [Electrochemist](https://anilist.co/user/148769) |  |  | Community |
+| [Mochizou](https://anilist.co/user/87028) |  |  | Community |
 | [Orangealaid](http://anilist.co/user/2272) |  |  | Community |
 | [TACTICIANJACK](https://anilist.co/user/97263) |  |  | Community |
 | [Maora](https://anilist.co/user/125450) |  |  | Community |
+| [Dunkan85](https://anilist.co/user/123696) |  |  | Community |
+| [Morimasa](https://anilist.co/user/97630) |  |  | Community |
+| [Flidaix](https://anilist.co/user/139213) |  | Social Media | Community |
+| [Basenji](https://anilist.co/user/189170) |  |  | Community |
+| [SpinelSun](http://anilist.co/user/129377) |  |  | Community |
+| [TehNut](https://anilist.co/user/42069) |  |  | Discord Community |
+| [Odjn](https://anilist.co/user/103672) |  | Social Media |  |
+| [Devil](https://anilist.co/user/151580) |  | Social Media |  |
+| [Troy121](https://anilist.co/user/120802) |  | Social Media |  |

@@ -11,7 +11,7 @@ Provide direct links to all relevant sources that were used to fill in the form,
 ![The &apos;Submission Sources &amp; Notes&apos; panel](./img/submission_source.png)
 
 ::: tip
-Please see the [Websites ](./criteria.html#websites)section for useful sites to help you source information.
+Please see the [Websites](./criteria.html#websites) section for useful sites to help you source information.
 :::
 
 #### Information Sourcing Example
@@ -37,15 +37,19 @@ Ensure all titles are used _**officially.**_ Do not use the native title transla
 ![Titles for the &apos;Ao Buta&apos; anime](./img/titles.png)
 
 :::tip
-Even if a title is idential it should still be entered in the respective field. For example, [Sarazanmai](https://anilist.co/anime/101261/Sarazanmai/) has identical Romaji and English names but both fields are filled out.
+Even if the titles are identical, it should still be entered in the respective field. For example, [Sarazanmai](https://anilist.co/anime/101261/Sarazanmai/) has identical Romaji and English names but both fields are filled out.
 :::
 
 #### Romaji
 
-The correct [romanization](./criteria.html#romanization) of the title is preferred over all else and is _**required.**_
+The correct [romanization](./criteria.html#japanese-romanization) of the title is preferred over all else and is _**required.**_
 
 ::: tip
 Please see the [title formatting](./criteria.html#title-modification) section for information on how format titles.
+:::
+
+::: warning
+Terms like "eiga" and "gekijouban" should be removed from the Romaji name.
 :::
 
 #### English
@@ -55,9 +59,13 @@ This field should only be filled in with the name given when the entry has been 
 English titles written on the cover or announcement of works \(often as subheadings\) are placed in the ‘[synonym](./submissions.html#synonyms)’ section, as they are not licensed titles.
 
 ::: tip
-It is acceptable to use the English title when a work is translated into English by legal streaming or reading sites such as [TOPTOON ](https://www.toptoon.net/)\(which is a Chinese service that supplies Chinese, Korean and Japanese works in English, Chinese and Japanese\).
+It is acceptable to use the English title when a work is translated into English by legal streaming or reading sites such as [TOPTOON](https://www.toptoon.net/) \(which is a Chinese service that supplies Chinese, Korean and Japanese works in English, Chinese and Japanese\).
 
 _**However**_, it could be replaced if a native English publisher \(such as Seven Seas, Viz etc.\) later licenses the work, or a publisher of the same native language as the original work \(Example, [TORICO](https://www.torico-corp.com/) is a Japanese publisher that releases Japanese works in English\).
+:::
+
+::: tip
+Sometimes a work, when released in English, will receive multiple translated titles. In this event the English name of its home release is preferred over a TV or streaming only release. In addition, in the event that multiple home releases exist, whichever is the newest release is the one that should be listed in the English field. Any outdated English names should be included in the synonyms field.
 :::
 
 ::: warning
@@ -85,6 +93,37 @@ The current status of the work.
 | Currently Releasing | The work is _**currently**_ airing or in serialization. |
 | Not Yet Released | The work _**has yet to**_ air or begin serialization. |
 | Canceled | An _**official announcement**_ has been made that the work is canceled. |
+| Hiatus | Only applies to _**Manga and Light Novels**_. See full information below. |
+
+#### Hiatus Status
+
+The general rule is that a manga can have the hiatus status if it has missed **3 or more of its expected release dates**. For light novels, due to their sporadic publishing nature, the cutoff point is **5 years** instead. However there are some exceptions:
+
+* If a manga has no kind of regular publication schedule, it can only have the hiatus status if it hasn't been updated in **6 months**.
+* Daily manga, due to their frequent release, can only have the hiatus status after 2 weeks of not being updated.
+
+Below is a table for quick reference. 
+
+| Release Schedule | Hiatus Eligibility |
+| :--- | :--- |
+| Daily | After 2 weeks |
+| Weekly | After 3 weeks |
+| Biweekly | After 6 weeks |
+| Monthly | After 3 months |
+| Bimonthly | After 6 months |
+| Quarterly | After 9 months |
+| Irregular | After 6 months |
+| Light Novels | After 5 years | 
+
+::: tip
+This table is not exhaustive. There can be more types of release schedule (example: 3 times a year). In every kind of regular release schedule longer than daily, a manga missing 3 or more issues always means it can be marked as being on hiatus.
+:::
+
+::: warning
+Due to the diverse nature of written media, in rare instances, depending on the information available, there may be cases where the hiatus status is still not applicable even after the specified time has been met. 
+
+For example, the manga [1-Nen de 1 Page dake Susumu Manga no Sekai](https://anilist.co/manga/117010/1Nen-de-1-Page-dake-Susumu-Manga-no-Sekai/) is supposed to release only once a year, but has no regularly set schedule, so it can't be marked as being on hiatus until a reasonable enough span of time has passed, at least over a year.
+:::
 
 #### Season
 
@@ -96,6 +135,10 @@ If a series starts release within the final few weeks of a season, it should be 
 
 ::: warning
 Seasons should not be applied to music videos, advertisements/commercials, or experimental shorts.
+:::
+
+::: warning
+Until AniChart has region filtering added, seasons should not be applied to non-Japanese media. Anime co-productions will have seasons applied on a case-by-case basis.
 :::
 
 | Season | Period |
@@ -132,7 +175,7 @@ The date that the work is confirmed to have finished airing or finished serializ
 
 | Format | Description |
 | :--- | :--- |
-| TV | Anime which have episodes of or more 15 minutes in length and broadcast on television. |
+| TV | Anime which have episodes of 15 minutes or more in length and broadcast on television. |
 | TV Short | Anime which are under 15 minutes in length and broadcast on television. |
 | Movie | Anime that have originally been released at theaters. |
 | [Special](./criteria.html#ovas-onas-and-specials) | Specials that have been included in DVD/Blu-ray releases, picture dramas, pilots, etc. |
@@ -183,6 +226,7 @@ Example:
 :::warning
 Just because earlier released entries are based on a source material, does not mean all subsequently released entries are.
 > The movie [Sword Art Online Movie: Ordinal Scale](https://anilist.co/anime/21403/Sword-Art-Online-Movie-Ordinal-Scale/) is a direct sequel to [Sword Art Online II](https://anilist.co/anime/20594/Sword-Art-Online-II/) and a direct prequel to [Sword Art Online: Alicization](https://anilist.co/anime/100182/Sword-Art-Online-Alicization/) however it is not based on any portion of the [Light Novel](https://anilist.co/manga/51479/Sword-Art-Online/) series.
+:::
 
 ### Country Of Origin
 
@@ -195,7 +239,7 @@ Overseas works that are later published by the above four countries do _**not**_
 
 Example:  
 Radiant is a French comic later published in Japanese by EUROMANGA.
-::::
+:::
 
 ### Episodes & Duration
 
@@ -207,29 +251,45 @@ Please use the average length \(_**mode**_\) of episodes, rounded to the nearest
 
 ::: tip
 The mean duration can be used for entries with wildly varying lengths, such as [Genius Party](https://anilist.co/anime/3508/GeniusParty). Another way to view this is that if a standard episode length can not accurately be stated for a work, that the work should use the mean for the duration. For an example of such, consider [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/). Works with low episode counts with episodes that vary in length will typically use the mean episode length.
+
 :::
 
 ::: tip
 In the event that a series has some episode of different length, but not enough to satisfy using the mean, a note should be added to the description explaining the duration of the exception and which episode it was, such as [Hibike! Euphonium 2](https://anilist.co/anime/21460/Hibike-Euphonium-2/).
-:::
 
-Volume and chapter counts are only added when the work is completed or confirmed complete. if the work is still publishing, both remain at _**zero**_.
-
-One-Shots should have the chapter count as _**one**_ and the volume count left as _**zero**_.
-
-::: warning
-The use of ‘original’ below is due to the fact that series can have new editions printed, omnibus volumes if licensed, etc. These can have different counts than the original runs.
 :::
 
 ### Chapters & Volumes
 
-The total number of chapters in the _**original**_ serialization of the work. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters and some prologues and epilogues.
+::: danger
+Volume and chapter counts are only added when the work is completed or confirmed complete. If the work is still publishing, both remain at _**zero**_.
+:::
 
-This does not exclude special pages for things such as advertising volume releases or author comments.
+The total number of chapters should be the one found in the first edition of the physical volumes. Or, if volumes were never printed, the total number of chapters in the magazine/site the work was in. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters, and some prologues and epilogues.
+
+Special pages for things such as advertising volume releases or author comments (e.g. afterwords) do not count as chapters.
+
+In the case of there being extra chapters outside of the main chapter count, a note should be created at the bottom of the description mentioning how many there are, and they should all be labeled extra chapters regardless of whether they were bonuses, side chapters, etc. 
+
+If a manga does not have any kind of chapter numbering/division, the entry should be marked has having **_one chapter_** (Example: [Shin Taketori Monogatari: 1000-nen Joou](https://anilist.co/manga/112189/Shin-Taketori-Monogatari-1000nen-Joou/)) and a note should be added at the bottom clarifying this.
+
+One-Shots should have the chapter count as _**one**_ and the volume count left as _**zero**_.
+
+::: tip
+Bonus chapters are often referred as 番外編 \(_Bangaihen_\) and 書き下ろし \(_Kakioroshi_\) in the table of contents.
+:::
 
 #### Volumes
 
 The total number of volumes in the _**original**_ print or eBook run of the work.
+
+::: warning
+The use of ‘original’ above is due to the fact that series can have new editions printed, omnibus volumes if licensed, etc. These can have different counts than the original runs.
+:::
+
+::: warning
+If a specific manhwa or manhua title goes by 'seasons', the volume count must remain at _**zero**_. Instead, add the seasons and the amount of chapters it contains in the entry description.
+:::
 
 ### Genres
 
@@ -270,7 +330,39 @@ Please be aware that titles created by fansubbers or scanlators are normally not
 
 ### Description
 
-A basic, spoiler-free description of the entry. This should be in English and a source provided \(whether taken from another site or written by yourself\).
+A basic, spoiler-free description of the entry. 
+
+It must be in English and a source should be provided if you took it from somewhere, so long as it's from one of the creditable types of sources below.
+
+#### Creditable sources
+
+Sources|Example
+---|---
+Official English licensor|Crunchyroll
+Reputable English news outlets|Anime News Network
+[Japanese publisher], translated|Kodansha, translated
+Collectives of people from reputable sites|MAL Rewrite
+
+**Note:** A reputable site is one unrelated to piracy or any other illegal activity.
+
+**Note 2:** [Japanese publisher] is a placeholder for the name of the publisher. Do not literally write "Japanese Publisher". This type of credit is also only for when the description is a direct translation from the publisher.
+
+#### Non-creditable sources
+
+Sources|Example
+---|---
+Other databases|MangaUpdates
+Scanlators|Mangastream
+Fansubbers|HorribleSubs
+Users|matchai
+
+**Note:** The list of non-creditable sources is not exhaustive and only illustrates the bigger examples. Anything not specifically mentioned as a creditable source should be considered non-creditable by default. If you are really unsure however, please explain the situation in your [Submission Sources & Notes](https://submission-manual.anilist.co/submissions.html#submission-sources-notes).
+
+**If you don't have an creditable source, you can still use the description you have, but no credit should be given.**
+
+::: warning
+Sources should be written in full and not as an acronym. e.g. Anime News Network instead of ANN.
+:::
 
 ::: tip
 Descriptions use HTML.  
@@ -286,16 +378,16 @@ Links can be added as so: &lt;a href="website"&gt;NAME&lt;/a&gt;
 
 Example:
 
-> Mari's girlfriend, Arisa, loses her memories of the past three years, including all memory of their life together. However, it turns out that being crazy in love with someone transcends all realms of possibility.&lt;br&gt;  
+> While searching for a brave candidate to become a magical girl and defend the world from evil, a mythical creature finds Kayo Majiba, a cute young lady who seems like the perfect fit. But when this newly turned magical girl proves to be a crude delinquent who goes berserk in a conflict, it becomes clear that this may have been a terrible mistake. Now evil—and any innocent bystanders—will face the rage of a magical girl gone wrong!&lt;br&gt;  
 > &lt;br&gt;  
-> \(Source: Girls in Boxes\)
+> \(Source: Seven Seas Entertainment\)
 
 Will produce:
 
-> Mari's girlfriend, Arisa, loses her memories of the past three years, including all memory of their life together. However, it turns out that being crazy in love with someone transcends all realms of possibility.  
+> While searching for a brave candidate to become a magical girl and defend the world from evil, a mythical creature finds Kayo Majiba, a cute young lady who seems like the perfect fit. But when this newly turned magical girl proves to be a crude delinquent who goes berserk in a conflict, it becomes clear that this may have been a terrible mistake. Now evil—and any innocent bystanders—will face the rage of a magical girl gone wrong!
 >   
 >   <br>
-> (Source: Girls in Boxes)
+> (Source: Seven Seas Entertainment)
 
 ::: tip
 &lt;b&gt; and &lt;i&gt; are for **bold** and _italic_**,** \_\_but don't forget to use &lt;/b&gt; or &lt;/i&gt; at the end of the text you want to format.
@@ -608,11 +700,11 @@ Each character has the option to be set as a _main_, _supporting_, or _backgroun
 
 #### Given Name
 
-Their given name\(s\) in correct [romanization](./criteria.html#romanization).
+Their given name\(s\) in correct [romanization](./criteria.html#japanese-romanization).
 
 #### Surname
 
-Their surname or alias in correct [romanization](./criteria.html#romanization).
+Their surname or alias in correct romanization.
 
 #### Native Name
 
@@ -651,7 +743,7 @@ Example: [Akari Mizunashi](https://anilist.co/character/378)
 
 This is the cover image for the character.
 
-A clean headshot or head and shoulders portrait should be used where possible. There is no preference for designs if a character has appeared in various media formats.
+A clean headshot or head and shoulders portrait should be used where possible. There is no preference for designs if a character has appeared in various media formats. As with media cover images and banners, character cover images should be _**official**_ artwork or assets only.
 
 Format should either .jpg \(.jpeg\) or .png
 
@@ -699,11 +791,11 @@ Local image upload is currently available to moderators only.
 
 #### Given Name
 
-Their given name\(s\) in correct [romanization](./criteria.html#romanization).
+Their given name\(s\) in correct [romanization](./criteria.html#japanese-romanization).
 
 #### Surname
 
-Their surname or alias in correct [romanization](./criteria.html#romanization).
+Their surname or alias in correct romanization.
 
 #### Native Name
 
@@ -811,11 +903,11 @@ Multiple staff can be selected at once. You are also able to search for a new na
 
 #### Given Name
 
-Their given name\(s\) in correct [romanization](./criteria.html#romanization).
+Their given name\(s\) in correct [romanization](./criteria.html#japanese-romanization).
 
 #### Surname
 
-Their surname or alias in correct [romanization](./criteria.html#romanization).
+Their surname or alias in correct romanization.
 
 #### Native Name
 
@@ -846,9 +938,9 @@ The language that the staff member performs or works in. This is currently only 
 #### About
 
 A basic description of the person, it can be hometown, birthday, hobbies and interests, social media links, blogs etc.  
-Example: [Tatari Takayama](https://anilist.co/staff/128291/Tatari-Takayama)
+Example: [Rie Takahashi](https://anilist.co/staff/119331/Rie-Takahashi)
 
-![Staff entry for Tomimura Cota](./img/entry_staff.png)
+![Staff entry for Rie Takahashi](./img/entry_staff.png)
 
 #### Image
 
@@ -903,9 +995,9 @@ Choose the role that the staff member had in the work. If the staff member had m
 In terms of anime, for staff, if they have specific episode credits, they should be credited in the following formats; _**‘Storyboard \(ep 5\)**_’ or ‘_**2nd Key Animation \(eps 1, 3, 8, 11, 13\)**_’ with a comma, followed by a space after every episode number. If they are credited with a studio next to their name, do not include the studio. If they are credited for at least 3 consecutive episodes then it should be formatted as ‘_**Animation Director \(eps 7-9\)**_’. For insert songs, the name of the song should only be used in the event that a single episode has multiple insert songs such as ‘_**Insert Song Performance \("Song Name"; eps 7-9\)**_’, otherwise it should be formatted as ‘_**Insert Song Performance \(eps 7-9\)**_’.
 
 ::: warning
-Keep in mind that some titles do not follow conventional episode credits \([Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/) or [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) are both good examples\). Care should be taken to convert episode credits into how [AniList ](http://anilist.co)lists episodes.
+Keep in mind that some titles do not follow conventional episode credits \([Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/) or [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) are both good examples\). Care should be taken to convert episode credits into how [AniList](http://anilist.co) lists episodes.
 
-For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is often credited as if it were a 26 episode anime but [AniList ](http://anilist.co)lists it as 38 as episodes. Episodes 14 to 37 were aired as 12 minute long episodes. A credit of ‘_**In-Between Check \(ep 26\)**_’ elsewhere might be ‘In-Between Check \(ep 38\)’ on [AniList](http://anilist.co), you’ll need to determine the convention used on the site you’re pulling the data from. Conversely, for a title like [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/), a credit for ‘_**Episode Director \(ep 2\)**_’ would be ‘_**Episode Director \(ep 1b\)**_’.
+For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is often credited as if it were a 26 episode anime but [AniList](http://anilist.co) lists it as 38 as episodes. Episodes 14 to 37 were aired as 12 minute long episodes. A credit of ‘_**In-Between Check \(ep 26\)**_’ elsewhere might be ‘In-Between Check \(ep 38\)’ on [AniList](http://anilist.co), you’ll need to determine the convention used on the site you’re pulling the data from. Conversely, for a title like [Panty & Stocking with Garterbelt](https://anilist.co/anime/8795/Panty--Stocking-with-Garterbelt/), a credit for ‘_**Episode Director \(ep 2\)**_’ would be ‘_**Episode Director \(ep 1b\)**_’.
 :::
 
 #### Manga
@@ -927,7 +1019,7 @@ This popup will allow you to search for and add existing studios to the work.
 
 #### Create New Studio
 
-This popup will allow you to create a new studio to be added to the work. Presently, the only information stored and required is the Studio’s name. Refer to the guide at the start of the manual for correct [romanization](./criteria.html#romanization), if required.
+This popup will allow you to create a new studio to be added to the work. Presently, the only information stored and required is the Studio’s name. Refer to the guide at the start of the manual for correct [romanization](./criteria.html#japanese-romanization), if required.
 
 ![Studios page for the &apos;City Hunter&apos; anime](./img/studio_page.png)
 
@@ -940,7 +1032,7 @@ This section allows you to set the relation of works compared to others in the s
 
 ::: warning
 Relations should be in _**chronological**_ order.  
-Examples: [Bakemonogatari, ](http://anilist.co/anime/5081/Bakemonogatari)[Fate Stay/Night](https://anilist.co/anime/356/Fatestay-night/)
+Examples: [Bakemonogatari](http://anilist.co/anime/5081/Bakemonogatari), [Fate Stay/Night](https://anilist.co/anime/356/Fatestay-night/)
 :::
 
 #### Opposite Relations
@@ -949,8 +1041,8 @@ When a _prequel, sequel, alternative, character, compilation, contains, source, 
 
 Example 1 \(Adaptations\):
 
-> The light novel [Kono Subarashii Sekai ni Shukufuku wo!](https://anilist.co/manga/86238/)[ ](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/)was announced to have both [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) adaptations:  
->   
+> The light novel [Kono Subarashii Sekai ni Shukufuku wo!](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) was announced to have both [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) adaptations:
+> 
 > Adding the [novel](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) as the '**source**' to both the [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) automatically adds the [manga](https://anilist.co/manga/85702/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) and [anime](https://anilist.co/anime/21202/Kono-Subarashii-Sekai-ni-Shukufuku-wo/) as the '**adaptation**' to the [novel](https://anilist.co/manga/86238/Kono-Subarashii-Sekai-ni-Shukufuku-wo/), and vice versa.
 
 ::: warning
@@ -967,11 +1059,11 @@ Example 3 \(Compilations\):
 
 > The now-defunct magazine, _Pure Yuri Anthology Hirari_, which solely published one-shots, released an anthology containing a selection of six of their one-shots:
 >
-> Adding [Isshun no Asterism](https://anilist.co/manga/104980) \(one-shot\) _\*\*\_to_ [_Shuuden ni wa Kaeshimasu_](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) _\(anthology\) with the '_**contains'** _relation automatically adds_ [_Shuuden ni wa Kaeshimasu_](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) _as the '_**compilation'**\_ to [Isshun no Asterism](https://anilist.co/manga/104980), and vice versa.
+> Adding [Isshun no Asterism](https://anilist.co/manga/104980) \(_one-shot_\) to [Shuuden ni wa Kaeshimasu](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) \(_anthology_\) with the '**contains'** relation automatically adds [Shuuden ni wa Kaeshimasu](https://anilist.co/manga/85662/Shuuden-ni-wa-Kaeshimasu/) as the '**compilation'** to [Isshun no Asterism](https://anilist.co/manga/104980), and vice versa.
 
 #### Parent Relations
 
-When updating all other relations \(_spin off, side story, character, summary,_ etc.\) you have to do so from the '_**parent'**_ entry. The parent relation will then be created on the other entry as the opposite.
+When updating all other relations \(_spin off, side story, character, summary,_ etc.\) you have to do so from the '**parent'** entry. The parent relation will then be created on the other entry as the opposite.
 
 Example:
 
@@ -992,6 +1084,14 @@ Example:
 > The light novel [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/manga/85470/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/) was serialized in January 2014, and had a manga release, [Mushoku Tensei: Isekai Ittara Honki Dasu](https://anilist.co/manga/85564/Mushoku-Tensei-Isekai-Ittara-Honki-Dasu/), in May 2014, which is linked through the '**adaptation**' relation.  
 >   
 > Two spin-offs, [Mushoku Tensei - Roxy datte Honki desu](https://anilist.co/manga/104724/Mushoku-Tensei--Roxy-datte-Honki-desu/) and [Mushoku Tensei: 4-koma ni Natte mo Honki Dasu](https://anilist.co/manga/104856/Mushoku-Tensei-4koma-ni-Natte-mo-Honki-Dasu/), were then serialized in December 2017 and October 2018 respectively. Both spin-offs only branch off the light novel, and _**not**_ the manga, so are only be linked to the light novel.
+
+### Removing Relations
+
+Removing relations at this time is limited to moderators.
+
+::: warning
+While adding relations often will automatically add it to the related work, removing relations does not. Moderators need to remove the relation on both related entries.
+:::
 
 #### Relation Table
 
@@ -1024,7 +1124,7 @@ Links that are only for purchasing the work should _**not**_ be added \(such as 
 :::
 
 Suitable examples would be:  
-[http://mitsuboshi-anime.com](http://mitsuboshi-anime.com) for [Mitsuboshi Colors](https://anilist.co/manga/87132/MitsuboshiColors), [http://www.crunchyroll.com/fatezero](http://www.crunchyroll.com/fatezero) for [Fate/Zero](https://anilist.co/anime/10087/FateZero),  
+[http://mitsuboshi-anime.com](http://mitsuboshi-anime.com) for [Mitsuboshi Colors](https://anilist.co/manga/87132/MitsuboshiColors) and [http://www.crunchyroll.com/fatezero](http://www.crunchyroll.com/fatezero) for [Fate/Zero](https://anilist.co/anime/10087/FateZero).
 
 If the URL provided is not one of the supported sites listed in the next section, it will be titled with a generic ‘_official site_’.
 
@@ -1041,39 +1141,53 @@ Amazon
 Animax
 Animelab
 Animenetwork
-ComicWalker
-Comico
+Asian Crush
+Bomtoon (KO)
+Comico (JP)
+ComicWalker (JP)
+CONtv
 Crunchyroll
-Dajiaochong Manhua
-Daum Webtoon
+Dajiaochong Manhua (CN)
+Daum Webtoon (CN)
 Facebook
 Fakku
 Funimation
 Hidive
 Hulu
-Justoon
-KakaoPage
-KuaiKan Manhua
-Lezhin
+Japanese Film Archives
+Justoon (KO)
+KakaoPage (KO)
+KuaiKan Manhua (CN)
+Lezhin (EN)
+Lezhin (KO)
 Madman
+Manga Plus
 Manga.Club
-Mangabox
-Manman Manhua
-Naver
+Mangabox (JP)
+Manman Manhua (CN)
+Midnight Pulp
+Naver (KO)
 Netflix
-Nico Nico Seiga
-Piccoma
-Pixiv Comic
-QQ
-Toomics
+Nico Nico Seiga (JP)
+Piccoma (JP)
+Pixiv Comic (JP)
+Pixiv Novel (JP)
+Pocket Magazine (JP)
+QQ (CN)
+Shonen Jump Plus (JP)
+Sony Crackle
+Toomics (EN)
+Toomics (KO)
+Tubi TV
 Twitter
 Viewster
 Vimeo
 Viz
-Wakanim
+VRV
 Web Comics
-Webtoons
-Weibo Manhua
+Webtoons (EN)
+Webtoons (JP)
+Weibo Manhua (CN)
 Youtube
 ```
 
@@ -1102,6 +1216,6 @@ This page is visible to moderators only.
 
 ## Revision History
 
-The revision history will show a feed displaying what users have modified the entry. The changes they carried out can be expanded by clicking on their record.
+The revision history will show a feed displaying which users have modified the entry. The changes they made can be viewed by clicking on each record.
 
 ![Revision history for the &apos;Ao Buta&apos; anime](./img/revision_history.png)
