@@ -251,10 +251,12 @@ Please use the average length \(_**mode**_\) of episodes, rounded to the nearest
 
 ::: tip
 The mean duration can be used for entries with wildly varying lengths, such as [Genius Party](https://anilist.co/anime/3508/GeniusParty). Another way to view this is that if a standard episode length can not accurately be stated for a work, that the work should use the mean for the duration. For an example of such, consider [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/). Works with low episode counts with episodes that vary in length will typically use the mean episode length.
+
 :::
 
 ::: tip
 In the event that a series has some episode of different length, but not enough to satisfy using the mean, a note should be added to the description explaining the duration of the exception and which episode it was, such as [Hibike! Euphonium 2](https://anilist.co/anime/21460/Hibike-Euphonium-2/).
+
 :::
 
 ### Chapters & Volumes
@@ -718,6 +720,8 @@ Example:
 [Dictionary browser extensions](./criteria.html#tools) can help with kanji readings if you know hiragana. if not, then feel free to ask for help in [Discord](https://discord.gg/TF428cr).
 :::
 
+![Character entry for Ririka Kenzaki](./img/character_editor_new.png)
+
 An exception to the above is when a name is natively western.
 
 Example:
@@ -725,8 +729,6 @@ Example:
 > ‘[Reinhard von Lohengramm](https://anilist.co/character/3066/Reinhard-von-Lohengramm)’ would be written as _ラインハルト・フォン・ローグラム_. Keep in mind the rules of the language the name is born from, as terms like '_von'_ and '_van_' in German would be tacked onto the start of the surname.
 >
 > Additionally, any middle names should be placed at the end of the given name.
-
-![Character entry for Miu Matsuoka](./img/character_editor.png)
 
 #### Alternative Names
 
