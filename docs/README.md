@@ -62,10 +62,8 @@ However, please don't give them a title and expect them to do all the work for y
 | [Taluun](http://anilist.co/user/21510) | Lead Anime |
 | [Morimasa](https://anilist.co/user/97630) | Lead Anime |
 | [Tiamo](http://anilist.co/user/44283) | Anime |
-| [Mochizou](https://anilist.co/user/87028) | Anime |
 | [Edo](https://anilist.co/user/40572) | Anime |
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |
-| [TACTICIANJACK](https://anilist.co/user/97263) | Anime |
 | [safe](https://anilist.co/user/120925) | Anime |
 | [Odjn](https://anilist.co/user/103672) | Anime |
 | [Norskyy](https://anilist.co/user/277390) | Anime |
@@ -108,7 +106,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
 | [Mochizou](https://anilist.co/user/87028) |  |  | Community |
 | [Orangealaid](http://anilist.co/user/2272) |  |  | Community |
-| [TACTICIANJACK](https://anilist.co/user/97263) |  |  | Community |
 | [Maora](https://anilist.co/user/125450) |  |  | Community |
 | [Dunkan85](https://anilist.co/user/123696) |  |  | Community |
 | [Morimasa](https://anilist.co/user/97630) |  |  | Community |
