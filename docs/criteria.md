@@ -314,7 +314,7 @@ Works should _**not**_ be published through self-publishing platforms such as [T
 ::: tip
 At times, you will see works often listed with three separate authorship entries on sites like [QQ](http://ac.qq.com/), which can be linked to the below [staff roles](./submissions.html#staff-role). This could mean multiple ‘Story’ credits.
 
-作者 - Story  
+作者 - Original Story  
 图 - Art  
 文 - Story
 :::
@@ -349,14 +349,38 @@ Works should _**not**_ be published through self-publishing platforms such as [T
 
 Doujinshi can be added to the website if it meets all the following criteria:
 
-1. The doujinshi is by an _**already**_ serialized mangaka.
+1. The doujinshi is by a mangaka with an existing serialization or release under a reputable publisher, _**or**_ have a significant role in a TV anime, OVA, ONA or film.
 2. The doujinshi must be of Japanese [origin](./submissions.html#country-of-origin).
 3. The doujinshi is not based on existing published material \(anime, manga, manhwa, etc.\) - it must be an _**original**_ work.
 
 Doujinshi is not a format on AniList, instead, you have to the toggle the [Self Published](./submissions.html#self-published) option.
 
+::: tip
+Doujinshi created by Anime staff qualify for the database so long as they are credited as one of the following roles for the **entirety** of the anime production.
+- Character Design
+- Chief Animation Director 
+- Director
+- Original Creator
+- Original Story
+- Original Character Design
+- Script
+- Series Composition 
+:::
+
+#### Doujinshi Labels:
+The following digital publishers are vanity press and considered doujin on AniList.
+- BLIC Shuppan \(ブリック出版\)
+- Mitsurin \(密林\)
+- Number Nine \(ナンバーナイン\)
+
+In addition, the websites listed below are notable self-publishing platforms.
+- [Jump Rookie!](https://rookie.shonenjump.com/) \(ジャンプルーキー!\)
+- [Kindle Indies Manga](https://www.amazon.co.jp/kindle-dbs/manga-store/?node=5825610051) \(Kindleインディーズマンガ\)
+- [Manga Hack](https://mangahack.com/) \(マンガハック\)
+- [Manga Toshokan Z](https://www.mangaz.com/) \(マンガ図書館Z\)
+
 ::: warning
-The ‘_original work_’ rule can be waived if the doujinshi in question is by the original author of the existing material or by staff who directly worked on an anime project.
+The ‘_original work_’ rule can be waived if the doujinshi in question is by the original author of the existing material or by staff who directly worked on an  ‘_original_’ anime project.
 
 Example 1:<br>
 [R of Black Lagoon](https://anilist.co/manga/87131/R-of-Blacklagoon/) is a doujinshi of [Black Lagoon](https://anilist.co/manga/30735/Black-Lagoon/) published by the original author, [Hiroe Rei](https://anilist.co/staff/97578/Rei-Hiroe).
@@ -381,7 +405,7 @@ Light novels can be added to the website if they meet all the following criteria
 
 1. The light novel must be of Japanese [origin](./submissions.html#country-of-origin).
 2. The light novel must be professionally published through a reputable publisher from companies such as [Kadokawa](https://www.kadokawa.co.jp/), [Kodansha](http://www.kodansha.co.jp/), [Alphapolis](https://www.alphapolis.co.jp/), and [Hobby Japan](http://hobbyjapan.co.jp/).
-3. The light novel is specified as being such by the author, original publisher, or the majority of major Japanese retailers.
+3. The light novel is specified as being such by the original publisher or the majority of major Japanese retailers; _**or**_ published under one of our approved light novel labels.
 
 ::: warning
 Should a light novel be promoted to a regular novel, the light novel may remain on the site so long as its first publication is labeled as one.
