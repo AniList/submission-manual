@@ -66,6 +66,7 @@ However, please don't give them a title and expect them to do all the work for y
 | [W8TERM3LON](https://anilist.co/user/57315) | Anime |
 | [safe](https://anilist.co/user/120925) | Anime |
 | [Odjn](https://anilist.co/user/103672) | Anime |
+| [wonstein](https://anilist.co/user/117432) | Anime |
 | [Norskyy](https://anilist.co/user/277390) | Anime |
 | [Troy121](https://anilist.co/user/120802) | Anime |
 | [Devil](https://anilist.co/user/151580) | Anime |
