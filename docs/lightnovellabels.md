@@ -70,5 +70,36 @@ The following is a compilation of light novel labels approved by the AniList sta
 | Monster Bunko | モンスター文庫 | Futabasha |  |
 | Morning Star Books | モーニングスターブックス | Shinkigensha |  |
 | Nox Novels | ノクスノベルス | Frontier Works |  |
+| Osiris Bunko | オシリス文庫 | Kadokawa | Also known as "Pegasus Bunko" (ペガサス文庫) |
+| Otomate Novels | オトメイトノベル | Hifumi Shobo |  |
+| Otomate Novels | P.A.BOOKS | P.A. Works |  |
+| Overlap Bunko | オーバーラップ文庫 | Overlap |  |
+| Overlap Novels | オーバーラップノベルス | Overlap |  |
+| Palette Bunko | パレット文庫 | Shogakukan |  |
+| Pash! Books | PASH!ブックス | Shufu to Seikatsu Sha																						
+| Pony Can Books | ぽにきゃんBOOKS | Pony Canyon | Mixed label |		
+| Prime Novels | プライムノベルス | Shufunotomo |  |
+| Red Rising | レッドライジングブックス | Linda Publishers |  |
+| Regina Books | レジーナブックス | Alphapolis |  |
+| Rowa Novels | ロワ・ノベルズ | Ichijinsha |  |
+| Royal Kiss | ロイヤルキス | J Publishing |  |
+| Rururu Bunko | ルルル文庫 | Shogakukan |  |
+| Rururu Novels | ルルルnovels | Shogakukan | Also known as "FC Rururu Novels" |
+| Saga Forest | サーガフォレスト | Hifumi Shobo |  |
+| Seikaisha Fictions | 星海社FICTIONS | Seikaisha |  |
+| Super Dash Bunko | スーパーダッシュ文庫 | Shueisha |  |
+| T-Line Novels | T-LINE NOVELS | Tatsumi Shuppan |  |
+| TO Books Lanove | TOブックスラノベ | TO Books |  |
+| TRPG | TRPG | Kadokawa | Also known as "Fujimi TRPG" |
+| Tugikuru Books | ツギクルブックス | SB Creative |  |
+| Tull Kiss | チュールキス | J Publishing |  |
+| TYPE-MOON BOOKS | TYPE-MOON BOOKS | TYPE-MOON | Mixed label |
+| UG Novels | UGnovels | Eiwa Publishing |  |
+| Variant Novels | ヴァリアントノベルズ | Takeshobo |  |
+| Wings Bunko | ウィングス文庫 | Shinshokan |  |
+| Wings Novell | ウィングス・ノヴェル | Shinshokan |  |
 
 ## Adult Labels
+
+| Label Name (Romaji) | Native Name (Native) | Publisher Name |
+| :--- | :--- | :-- |
