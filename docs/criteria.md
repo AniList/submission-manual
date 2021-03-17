@@ -413,19 +413,8 @@ Should a light novel be promoted to a regular novel, the light novel may remain 
 Example: [Koten-bu Series](https://anilist.co/manga/65513/Kotenbu-Series/) was initially published under the light novel label *Kadokawa Sneakers Bunko*, but moved to *Kadokawa Shoten* in 2005.
 :::
 
-#### Example light novel labels include:
-- [Dengeki Bunko](https://dengekibunko.jp/)
-- [MF Bunko J](https://mfbunkoj.jp/)
-- [Kadokawa Sneaker Bunko](https://sneakerbunko.jp/)
-- [Famitsu Bunko](http://fbonline.jp/)
-- [HJ Bunko](http://hobbyjapan.co.jp/hjbunko/)
-- [Gagaga Bunko](http://gagagabunko.jp/)
-- [GA Bunko](https://ga.sbcr.jp/)
-- [Media Works Bunko](http://mwbunko.com/)
-- [Alpha Light Bunko](http://www.alphalight-books.com/)
-- [Kodansha Lanove Bunko](http://lanove.kodansha.co.jp/)
-- [Puchipara Bunko](http://parabook.co.jp/novels/puchipara.php) \(**adult**\)
-- [Bishoujo Bunko](http://www.bishojobunko.jp/) \(**adult**\)
+::tip
+See [Light Novel Labels](./criteria.html#light-novel-labels) for a complete list of approved labels.
 
 ::: warning
 Tokuten \(bonus booklets and such\) will not be added to the database.
