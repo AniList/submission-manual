@@ -1,4 +1,4 @@
-The following is a compilation of light novel labels approved by the AniList staff. If there's a known LN label missing, feel free to contact a 
+The following is a compilation of light novel labels approved by the AniList staff. If there's a known LN label missing, feel free to contact a data mod through the [website](http://anilist.co/) or on [Discord](https://discord.gg/TF428cr) \#submission-support channel.
 
 | Label Name (Romaji) | Native Name (Native) | Publisher Name | Comments | 
 | :--- | :--- | :-- | :-- |
