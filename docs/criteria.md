@@ -413,8 +413,9 @@ Should a light novel be promoted to a regular novel, the light novel may remain 
 Example: [Koten-bu Series](https://anilist.co/manga/65513/Kotenbu-Series/) was initially published under the light novel label *Kadokawa Sneakers Bunko*, but moved to *Kadokawa Shoten* in 2005.
 :::
 
-::tip
+::: tip
 See [Light Novel Labels](./criteria.html#light-novel-labels) for a complete list of approved labels.
+:::
 
 ::: warning
 Tokuten \(bonus booklets and such\) will not be added to the database.
