@@ -405,7 +405,7 @@ Light novels can be added to the website if they meet all the following criteria
 
 1. The light novel must be of Japanese [origin](./submissions.html#country-of-origin).
 2. The light novel must be professionally published through a reputable publisher from companies such as [Kadokawa](https://www.kadokawa.co.jp/), [Kodansha](http://www.kodansha.co.jp/), [Alphapolis](https://www.alphapolis.co.jp/), and [Hobby Japan](http://hobbyjapan.co.jp/).
-3. The light novel is specified as being such by the original publisher or the majority of major Japanese retailers; _**or**_ published under one of our approved light novel labels.
+3. The light novel is specified as being such by the original publisher or the majority of major Japanese retailers; _**or**_ published under one of our [approved light novel labels](./lightnovellabels.html).
 
 ::: warning
 Should a light novel be promoted to a regular novel, the light novel may remain on the site so long as its first publication is labeled as one.
