@@ -103,3 +103,29 @@ The following is a compilation of light novel labels approved by the AniList sta
 
 | Label Name (Romaji) | Native Name (Native) | Publisher Name |
 | :--- | :--- | :-- |
+| Atomic Bunko | あとみっく文庫 | Kill Time Communication |
+| Beginning Novels | ビギニングノベルズ | Kill Time Communication |
+| Bishoujo Bunko | 美少女文庫 | France Shoin |
+| Bishoujo Bunko Escale | 美少女文庫えすかれ | France Shoin |
+| Chocolat Sucre Novels | ショコラシュクレノベルズ | Kill Time Communication |
+| Dia Novels | ディアノベルス | Paradigm |
+| Echikawa Bunko | えちかわ文庫 | Rakuraku Shuppan |
+| King Novels | キングノベルス | Paradigm |
+| Mitsuneko Bunko | 蜜猫文庫 | Takeshobo |
+| Mitsuneko Novels | 蜜猫ｎｏｖｅｌｓ | Takeshobo |
+| Muchuu Bunko Aletta | 夢中文庫アレッタ | Muchuu Bunko |
+| Muchuu Bunko Crystal | 夢中文庫クリスタル | Muchuu Bunko |
+| Muchuu Bunko Peare | 夢中文庫ペアーレ | Muchuu Bunko |
+| Muchuu Bunko Plance | 夢中文庫プランセ | Muchuu Bunko |
+| Muchuu Bunko Romance | 夢中文庫ロマンス | Muchuu Bunko |
+| Muchuu Bunko Selenite | 夢中文庫セレナイト | Muchuu Bunko |
+| Nijigen Dream Bunko | 二次元ドリーム文庫 | Kill Time Communication |
+| Nijigen Dream Novels | 二次元ドリームノベルズ | Kill Time Communication |
+| Nijigen Puchi Bunko | 二次元ぷち文庫 | Kill Time Communication |
+| Noumitsu Love Rogue | 濃蜜ラブルージュ | Paradigm |
+| Otona Bunko | オトナ文庫 | Paradigm |
+| Paradigm Novels | パラダイムノベルス | Paradigm |
+| Puchipara Bunko | ぷちぱら文庫 | Paradigm |
+| Puchipara Bunko Creative | ぷちぱら文庫Creative | Paradigm |
+| Puchipara eBunko | ぷちぱらe文庫 | Paradigm |
+| Real Dream Bunko | リアルドリーム文庫 | Kill Time Communication |
