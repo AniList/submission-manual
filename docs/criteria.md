@@ -51,7 +51,7 @@ Example 2:
 There are limitations to aeni that can be accepted to the site, notably there should be significant creative control of the titles from South Korean studios.
 
 ::: warning
-North Korean aeni is no longer accepeted.
+North Korean aeni is no longer accepted.
 :::
 
 #### Examples
