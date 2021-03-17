@@ -1,5 +1,7 @@
 The following is a compilation of light novel labels approved by the AniList staff. If there's a known LN label missing, feel free to contact a data mod through the [website](http://anilist.co/) or on [Discord](https://discord.gg/TF428cr) \#submission-support channel.
 
+## General Labels
+
 | Label Name (Romaji) | Native Name (Native) | Publisher Name | Comments | 
 | :--- | :--- | :-- | :-- |
 | Alpha Light Bunko | アルファライト文庫 | Alphapolis |  |
@@ -68,3 +70,5 @@ The following is a compilation of light novel labels approved by the AniList sta
 | Monster Bunko | モンスター文庫 | Futabasha |  |
 | Morning Star Books | モーニングスターブックス | Shinkigensha |  |
 | Nox Novels | ノクスノベルス | Frontier Works |  |
+
+## Adult Labels
