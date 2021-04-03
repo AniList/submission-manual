@@ -80,7 +80,6 @@ However, please don't give them a title and expect them to do all the work for y
  
 | Name | Role |
 | :--- | :--- |
-| [IdleSheep](https://anilist.co/user/122659) | Lead Manga |
 | [Maora](https://anilist.co/user/125450) | Lead Manga |
 | [Orangealaid](http://anilist.co/user/2272) | Manga |
 | [Sumia](http://anilist.co/user/4359) | Manga |
