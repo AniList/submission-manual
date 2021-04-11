@@ -273,7 +273,7 @@ To determine the chapter count of a work, one should first assess the type of wo
 5. If a manga is simultaneously being serialized in both a magazine and on a web platform while having different release frequencies, the magazine version should be prioritized.
 6. If a manga chapter is serialized in multiple parts \(ex. [Ajin](https://anilist.co/manga/79865/Ajin/) Ch 75, [Konoyo Ibun]() Ch 10\), each part should be considered a full chapter.
 
-Count count does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters, and some prologues and epilogues. Special pages for things such as advertising volume releases or author comments (e.g. afterwords) do not count as chapters.
+Count does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters, and some prologues and epilogues. Special pages for things such as advertising volume releases or author comments (e.g. afterwords) do not count as chapters.
 
 In the case of there being extra chapters outside of the main chapter count, a note should be created at the bottom of the description mentioning how many there are, and they should all be labeled extra chapters regardless of whether they were bonuses, side chapters, etc. 
 
