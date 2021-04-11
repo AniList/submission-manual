@@ -278,6 +278,10 @@ If series originally self-published online through platforms like [Twitter](http
 If the serialization is an _**entirely**_ new work, and not a re-publication of the original chapters, a new entry should be made using the start date as the date of serialization. The original work could still be eligible to enter the database as doujinshi.
 :::
 
+::: warning
+In-game comics are no longer accepted on AniList.
+::
+
 #### Examples
 
 Example 1:
