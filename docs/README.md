@@ -112,6 +112,7 @@ However, please don't give them a title and expect them to do all the work for y
 | [Basenji](https://anilist.co/user/189170) |  |  | Community |
 | [SpinelSun](http://anilist.co/user/129377) |  |  | Community |
 | [TehNut](https://anilist.co/user/42069) |  |  | Discord Community |
+| [nazo](https://anilist.co/user/109985) | Developer |  |  |
 | [Odjn](https://anilist.co/user/103672) |  | Social Media |  |
 | [Devil](https://anilist.co/user/151580) |  | Social Media |  |
 | [Troy121](https://anilist.co/user/120802) |  | Social Media |  |
