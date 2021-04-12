@@ -278,6 +278,10 @@ If series originally self-published online through platforms like [Twitter](http
 If the serialization is an _**entirely**_ new work, and not a re-publication of the original chapters, a new entry should be made using the start date as the date of serialization. The original work could still be eligible to enter the database as doujinshi.
 :::
 
+::: warning
+In-game comics are no longer accepted.
+::
+
 #### Examples
 
 Example 1:
@@ -940,6 +944,7 @@ The following is a compilation of light novel labels approved by the AniList sta
 | Kadokawa Beans Bunko | 角川ビーンズ文庫 | Kadokawa |  |
 | Kadokawa Sneaker Bunko | 角川スニーカー文庫 | Kadokawa |  |
 | Kadokawa Lanove Bunko | 講談社ラノベ文庫 | Kadokawa |  |
+| Kadokawa Ruby Bunko | 角川ルビー文庫 | Kadokawa |  |
 | Kodansha Box | 講談社BOX | Kodansha | Mixed label |
 | Kodansha X Bunko White Heart | 講談社X文庫ホワイトハート | Kodansha |  |
 | Kono Light Novel ga Sugoi! Bunko | このライトノベルがすごい!文庫 | Takarajimasha |  |

@@ -156,10 +156,6 @@ If a title releases early but then continues that release in a regular schedule,
 
 If a title was pre-screened at an event, regardless of location, the _**normal**_ broadcast date is to be used.
 
-::: tip
-For works such as one-shots, standalone movies, and anthologies, both the start and end date should be set to the same day. This gives it a '_Release Date_' label in the main entry.
-:::
-
 ::: warning
 At times an anime will be announced using a >24 hour clock, such as saying the anime will start airing on July 3rd at 25:15. This typically will mean it is actually airing on July 4th at 1:15 AM, however this can also sometimes mean at July 3rd at 1:15 AM. Conversely they will announce an anime is airing on July 4th at 1:15 AM and that can sometimes mean it will air on July 3rd at 1:15 AM.
 :::
@@ -167,6 +163,10 @@ At times an anime will be announced using a >24 hour clock, such as saying the a
 #### End Date
 
 The date that the work is confirmed to have finished airing or finished serialization.
+
+::: tip
+For works such as one-shots, standalone movies, and anthologies, both the start and end date should be set to the same day. This gives it a '_Release Date_' label in the main entry.
+:::
 
 
 ### Format
@@ -262,22 +262,29 @@ In the event that a series has some episode of different length, but not enough 
 ### Chapters & Volumes
 
 ::: danger
-Volume and chapter counts are only added when the work is completed or confirmed complete. If the work is still publishing, both remain at _**zero**_.
+Volume and chapter counts are only added when the work is completed or confirmed complete. If the work is still publishing, both remain _**blank**_.
 :::
 
-The total number of chapters should be the one found in the first edition of the physical volumes. Or, if volumes were never printed, the total number of chapters in the magazine/site the work was in. This does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters, and some prologues and epilogues.
+To determine the chapter count of a work, one should first assess the type of work they are dealing with:
+1. If the work has been released in two different media formats \(i.e. digital and physical\) and there is new content in either of them, the chapter count should match the one with more content.
+2. If the work has been released in two different  formats \(i.e. long-strip format and traditional pagination\) and they have different chapter segmentation despite not having new content, the chapter count will match the one that was released first.
+3. If multiple editions of the work can be found, the chapter count should match the first released edition.
+4. In the case of digital-only works or works that were never compiled into volumes, the chapter count should match that of the site/magazine the work was serialized in. Volume count should be left blank. 
+5. If a manga is simultaneously being serialized in both a magazine and on a web platform while having different release frequencies, the magazine version should be prioritized.
+6. If a manga chapter is serialized in multiple parts \(ex. [Ajin](https://anilist.co/manga/79865/Ajin/) Ch 75, [Konoyo Ibun]() Ch 10\), each part should be considered a full chapter.
 
-Special pages for things such as advertising volume releases or author comments (e.g. afterwords) do not count as chapters.
+Count does include things such as ‘side’ chapters \(Example: Chapter 5.5\), bonus chapters, and some prologues and epilogues. Special pages for things such as advertising volume releases or author comments (e.g. afterwords) do not count as chapters.
 
 In the case of there being extra chapters outside of the main chapter count, a note should be created at the bottom of the description mentioning how many there are, and they should all be labeled extra chapters regardless of whether they were bonuses, side chapters, etc. 
-
-If a manga does not have any kind of chapter numbering/division, the entry should be marked has having **_one chapter_** (Example: [Shin Taketori Monogatari: 1000-nen Joou](https://anilist.co/manga/112189/Shin-Taketori-Monogatari-1000nen-Joou/)) and a note should be added at the bottom clarifying this.
-
-One-Shots should have the chapter count as _**one**_ and the volume count left as _**zero**_.
 
 ::: tip
 Bonus chapters are often referred as 番外編 \(_Bangaihen_\) and 書き下ろし \(_Kakioroshi_\) in the table of contents.
 :::
+
+If a manga does not have any kind of chapter numbering/division, the entry should be marked has having **_one chapter_** (Example: [Shin Taketori Monogatari: 1000-nen Joou](https://anilist.co/manga/112189/Shin-Taketori-Monogatari-1000nen-Joou/)) and a note should be added at the bottom clarifying this.
+
+One-Shots should have the chapter count as _**one**_ and the volume count left _**blank**_.
+
 
 #### Volumes
 
