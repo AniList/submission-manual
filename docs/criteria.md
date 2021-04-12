@@ -145,7 +145,7 @@ A work will be labeled special if the production company labels it as such. A sp
 
 #### Database Criteria
 
-Recaps are only to be added if the format is different from the original \(Example: TV to Movie\).
+Recaps are only to be added if they are a recap movie from a TV/TV Shorts/OVA/ONA series.
 
 ::: warning
 If a recap is aired mid-season as a part of the broadcast, it is _**not**_ to be added.
@@ -162,6 +162,48 @@ Example 1:
 > [Re:CREATORS](https://anilist.co/anime/97980/ReCREATORS/) has a recap episode as its 13th episode that counts towards its 22 episode count. However, in [3-gatsu no Lion Recap \(MAL\)](https://myanimelist.net/anime/34647/3-gatsu_no_Lion_Recap), episode 11.5 is not a conventionally numbered episode, as denoted by the “.5”, and thus _**not**_ counted toward its total 22 episode count.
 >
 > Some titles will refer to these X.5 episodes with titles like “intermission”. In cases like these, they still will not be added to AniList.
+
+### Recuts
+
+#### Database Criteria
+
+Recuts are defined as alternatively cut anime, for example a director's cut of an anime. Recuts are only to be added if a sufficient amount of new material is added to the work(s).
+
+A sufficient amount of new material will be generally defined as any of the following:
+
+* A movie that has, at least, an additional 10 minutes of runtime.
+* For a series with episodes that are 15 minutes or longer, at least 50% of its episodes must have at least 2 minutes of extra content.
+* For a series with episodes that are between 15 minutes and 5 minutes long, at least 50% of its episodes must have at least 1 minutes of extra content.
+* For a series with episodes that are 5 minutes or less, at least 50% of its episodes must have at least 15 seconds of extra content.
+* A series that includes never before seen episodes in its run may be added to the site, provided that the production is considered as one continuous run.
+* A series that has a new opening credits and/or new ending credits, whether in animation or song, from a movie release to a TV/OVA/ONA release or the reverse.
+
+::: warning
+Early screenings are not permitted even if they splice multiple episodes together.
+:::
+
+::: warning
+An English (or other non-Japanese) release splicing/combining episodes together does not justify adding that release to AniList.
+:::
+
+::: warning
+Extra content needs to be more than just continued panning over stills or other generic content that may contribute to an extended runtime.
+:::
+
+#### Examples
+
+Example 1:
+
+> [Kono Sekai no Katasumi ni](https://anilist.co/anime/15227/Kono-Sekai-no-Katasumi-ni/) and [Kono Sekai no (Sara ni Ikutsumono) Katasumi ni](https://anilist.co/anime/112135/Kono-Sekai-no-Sara-ni-Ikutsumono-Katasumi-ni/). There is an additional 30 minutes of extra content added to the Sara ni Ikutsumono movie.
+
+Example 2: 
+
+> [WAVE!! Surfing Yappe!!](https://anilist.co/anime/111137/WAVE-Surfing-Yappe/) and [WAVE!! Surfing Yappe!! (TV)](https://anilist.co/anime/130402/Wave-Surfing-Yappe-TV/). There are different opening and ending credits between the two entries and the movies do not appear to be pre-screenings of the TV version.
+
+Example 3:
+
+> [Suzumiya Haruhi no Yuuutsu](https://anilist.co/anime/849/Suzumiya-Haruhi-no-Yuuutsu/) and [Suzumiya Haruhi no Yuuutsu (2009)](https://anilist.co/anime/4382/Suzumiya-Haruhi-no-Yuuutsu-2009/). Haruhi (2009) was a release of 28 episodes of anime, 14 of them being new and 14 of them the original 14 episodes aired in 2006. The 2009 release credits the 28 episodes as a continuous run of episodes 1-28.
+
 
 ### Experimental Shorts
 
@@ -192,7 +234,11 @@ Example 1:
 
 #### Database Criteria
 
-Advertisements are only permitted when they are directed by a person who has directed or produced a full-length series or movie.
+Advertisements are only permitted when they are directed by a person who was worked on a full-length series or movie.
+
+::: warning
+An advertisement only crediting an animation studio (such as Studio Colorido) but not crediting any individual staff is not eligible.
+:::
 
 #### Examples
 
@@ -210,6 +256,14 @@ Example 2:
 #### Database Criteria
 
 Music videos are permitted as long as there is _**significant**_ creative control from a Japanese creator. If it is unclear, ask a moderator for advice.
+
+::: warning
+A music video that simply re-uses footage from another entry on the site is not eligible for the database.
+:::
+
+::: warning
+A music video that is taken from a game, such as one of the Love Live! mobile games, is not eligible for the database.
+:::
 
 #### Examples
 
