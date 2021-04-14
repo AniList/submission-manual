@@ -334,7 +334,7 @@ If the serialization is an _**entirely**_ new work, and not a re-publication of 
 
 ::: warning
 In-game comics are no longer accepted.
-::
+:::
 
 #### Examples
 
