@@ -81,7 +81,6 @@ However, please don't give them a title and expect them to do all the work for y
 | Name | Role |
 | :--- | :--- |
 | [Maora](https://anilist.co/user/125450) | Lead Manga |
-| [Orangealaid](http://anilist.co/user/2272) | Manga |
 | [Sumia](http://anilist.co/user/4359) | Manga |
 | [Silver](https://anilist.co/user/33516) | Manga |
 | [nazo](https://anilist.co/user/109985) | Manga |
@@ -104,7 +103,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [Josh](http://anilist.co/user/1) | Lead Developer |  | Community |
 | [matchai](http://anilist.co/user/2) | Developer | Lead Social Media | Lead Community |
 | [Taluun](http://anilist.co/user/21510) |  |  | Community |
-| [Orangealaid](http://anilist.co/user/2272) |  |  | Community |
 | [Maora](https://anilist.co/user/125450) |  |  | Community |
 | [Dunkan85](https://anilist.co/user/123696) |  |  | Community |
 | [Morimasa](https://anilist.co/user/97630) |  |  | Community |
