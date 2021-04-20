@@ -75,6 +75,14 @@ However, please don't give them a title and expect them to do all the work for y
 | [breathesunshine](https://anilist.co/user/162489) | Anime |
 | [Crackler](https://anilist.co/user/207737) | Anime |
 | [Basenji](https://anilist.co/user/189170) | Anime |
+| [Oli06](https://anilist.co/user/291651) | Anime |
+| [hoshino](https://anilist.co/user/683581) | Anime |
+| [Aqota](https://anilist.co/user/140433) | Anime |
+| [robii](https://anilist.co/user/547668) | Anime |
+| [RaphaSanOri](https://anilist.co/user/3796) | Anime |
+| [SMatarratas](https://anilist.co/user/487313/) | Anime |
+| [byDexx115](https://anilist.co/user/323812) | Anime |
+| [slysake](https://anilist.co/user/453269) | Anime |
  
 #### Manga
  
@@ -93,8 +101,14 @@ However, please don't give them a title and expect them to do all the work for y
 | [Noyaxus](https://anilist.co/user/110871) | Manga |
 | [BC](https://anilist.co/user/95739) | Manga |
 | [Furudead](https://anilist.co/user/279543) | Manga |
-| [Nea1407](http://anilist.co/user/363242) | Manga |
+| [Nea](http://anilist.co/user/363242) | Manga |
 | [SpinelSun](http://anilist.co/user/129377) | Manga |
+| [camike](https://anilist.co/user/360361) | Manga |
+| [ryfia](https://anilist.co/user/270206) | Manga |
+| [Polioro](https://anilist.co/user/366920) | Manga |
+| [Deren](https://anilist.co/user/317528) | Manga |
+| [NibbleNat](https://anilist.co/user/309627) | Manga |
+| [Zatsu](https://anilist.co/user/717770) | Manga |
  
 #### Other Roles
  
