@@ -997,9 +997,9 @@ The following is a compilation of light novel labels approved by the AniList sta
 | Kadokawa Books | カドカワBOOKS | Kadokawa |  |
 | Kadokawa Beans Bunko | 角川ビーンズ文庫 | Kadokawa |  |
 | Kadokawa Sneaker Bunko | 角川スニーカー文庫 | Kadokawa |  |
-| Kadokawa Lanove Bunko | 講談社ラノベ文庫 | Kadokawa |  |
 | Kadokawa Ruby Bunko | 角川ルビー文庫 | Kadokawa |  |
 | Kodansha Box | 講談社BOX | Kodansha | Mixed label |
+| Kodansha Lanove Bunko | 講談社ラノベ文庫 | Kodansha |  |
 | Kodansha X Bunko White Heart | 講談社X文庫ホワイトハート | Kodansha |  |
 | Kono Light Novel ga Sugoi! Bunko | このライトノベルがすごい!文庫 | Takarajimasha |  |
 | Kobunsha Light Books | 光文社ライトブックス | Kobunsha |  |
