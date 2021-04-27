@@ -79,7 +79,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [hoshino](https://anilist.co/user/683581) | Anime |
 | [Aqota](https://anilist.co/user/140433) | Anime |
 | [robii](https://anilist.co/user/547668) | Anime |
-| [RaphaSanOri](https://anilist.co/user/3796) | Anime |
 | [SMatarratas](https://anilist.co/user/487313/) | Anime |
 | [byDexx115](https://anilist.co/user/323812) | Anime |
 | [slysake](https://anilist.co/user/453269) | Anime |
