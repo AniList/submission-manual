@@ -1017,6 +1017,7 @@ The following is a compilation of light novel labels approved by the AniList sta
 | MF Bunko J | MF文庫J | Kadokawa |  |
 | Monster Bunko | モンスター文庫 | Futabasha |  |
 | Morning Star Books | モーニングスターブックス | Shinkigensha |  |
+| Novelism Bunko | ノベリズム文庫 | Novelism |  |
 | Nox Novels | ノクスノベルス | Frontier Works |  |
 | Osiris Bunko | オシリス文庫 | Kadokawa | Also known as "Pegasus Bunko" (ペガサス文庫) |
 | Otomate Novels | オトメイトノベル | Hifumi Shobo |  |
