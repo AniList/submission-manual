@@ -63,7 +63,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [Morimasa](https://anilist.co/user/97630) | Lead Anime |
 | [Tiamo](http://anilist.co/user/44283) | Anime |
 | [Edo](https://anilist.co/user/40572) | Anime |
-| [W8TERM3LON](https://anilist.co/user/57315) | Anime |
 | [safe](https://anilist.co/user/120925) | Anime |
 | [Odjn](https://anilist.co/user/103672) | Anime |
 | [wonstein](https://anilist.co/user/117432) | Anime |
