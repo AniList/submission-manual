@@ -70,7 +70,6 @@ However, please don't give them a title and expect them to do all the work for y
 | [Troy121](https://anilist.co/user/120802) | Anime |
 | [Devil](https://anilist.co/user/151580) | Anime |
 | [Flueckli](https://anilist.co/user/225419) | Anime |
-| [dragonfire535](https://anilist.co/user/196797) | Anime |
 | [breathesunshine](https://anilist.co/user/162489) | Anime |
 | [Crackler](https://anilist.co/user/207737) | Anime |
 | [Basenji](https://anilist.co/user/189170) | Anime |
