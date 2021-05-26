@@ -321,7 +321,13 @@ Any accepted works from [Comico](https://www.comico.jp) or similar webtoon porta
 ::: tip
 In the event of a series having several, simultaneously running serializations with no clear main series AND a volume release that contains chapters from multiple of those serializations, a seperate entry should be made for the volume releases. All serializations that have chapters in it are then to be connected to it through a Compilation relation.
 
-Example: [Himegoto](https://anilist.co/manga/62833/Himegoto/)
+Example: The series [Himegoto](https://anilist.co/manga/62833/) contains serializations from [Waai!](https://anilist.co/manga/114019/), [Waai! Mahalo](https://anilist.co/manga/77124/), [Comic Rex](https://anilist.co/manga/85292/) and [Febri](https://anilist.co/manga/114021/). All four serializations are eligible to receive their own entry.
+:::
+
+::: tip
+In the case where the original serialization is modified for an entirely new ending, both editions in its entirety may be added to the site.
+
+Example: [Shaman King](https://anilist.co/manga/30050/) concluded serialization in 2004 with an improvised ending. A new version with additional chapters and a proper ending were released between 2008 and 2009 under the title [Shaman King Kanzanban](https://anilist.co/manga/42917/). In contrast to MAL, where only the new chapters are in the Kanzanban entry, all chapters \(including one-shots and extras\) and volumes are to be included to the count.
 :::
 
 #### Doujinshi into Licensed Manga
