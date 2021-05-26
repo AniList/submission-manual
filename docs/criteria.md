@@ -754,7 +754,8 @@ Examples:
 
 The romanization of Korean titles is done using the [Revised Romanization of Korean](https://en.wikipedia.org/wiki/Revised_Romanization_of_Korean) with some modifications.
 
-* Loanwords are written properly in their respective languages (Example: Secret instead of Sikeurit)
+* Loanwords are written properly in their respective languages \(Example: Secret instead of Sikeurit\)
+* The honorific "ui" \(의\) is written as part of the noun \(Example: [Hwangjewaui Harutbam](https://anilist.co/manga/129797/)\). An exeption is made when the noun is a given name, surname or a loanwoard, where "ui" must be separated with a dash \(Example: [Vampire-ui Kkot](https://anilist.co/manga/121914/)\).
 * Personal names follow their own guidelines. See below.
 
 ::: tip
