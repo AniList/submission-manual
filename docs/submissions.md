@@ -1014,10 +1014,38 @@ For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is oft
 
 #### Manga
 
-In terms of manga, for staff, credit writers with '_**Story'**_ and illustrators with '_**Art'**_. If a creator is both, credit them with '_**Story and Art'**_.
+In terms of manga, for staff, credit writers with '_**Story'**_ and illustrators with '_**Art'**_. If a creator is both, credit them with '_**Story and Art'**_. Some exceptions may apply depending on the source material.
+
+Staff from novel, light novel, and webnovel manga adaptations are most commonly credited as the following: '_**Story & Art'**_, '_**Original Story'**_ and '_**Character Design'**_. An exception is made for Korean novel and webnovel manga adaptations, where the original illustrator is credited with '_**Original Character Design'**_ instead.
+> Examples:
+> - [Watashi-tachi no Shiawase na Jikan](https://anilist.co/manga/41734/) \(novel source\)
+> - [Kage no Jitsuryokusha ni Naritakute!](https://anilist.co/manga/106758/) \(light novel source\) 
+> - [Shin no Jitsuryoku wa Girigiri Made Kakushite Iyou to Omou](https://anilist.co/manga/125704/) \(webnovel source\)
+> - [Yeojuingongui Oppareul Jikineun Bangbeop](https://anilist.co/manga/129210/) \(Korean webnovel source\)
+
+Staff from video games, visual novel, film and other projects, where a single individual, company or team are credited for the source material, are most commonly credited as the following: '_**Story & Art'**_ and '_**Original Creator'**_. Any notable directors and character designers may be credited with the '_**Original Story'**_ and '_**Character Design'**_ roles instead if they are said roles for the entirety of the project.
+> Exmaples:
+> - [Princess Connect! Re:Dive](https://anilist.co/manga/123911/) \(video game source, compamy as original creator\)
+> - [Drag-on Dragoon: Judgement](https://anilist.co/manga/133525/) \(video game source, notable director as original story\)
+> - [Kimi ga Shine: Tasuuketsu Death Ga](https://anilist.co/manga/111205/) \(visual novel source, individual as original creator\)
+> - [Heart no Kuni no Alice: Wonderful Wonder World](https://anilist.co/manga/41516/) \(visual novel source, company as original creator\)
+
+In terms of light novels, in order to distinct manga artists from illustrators, authors are to be credited with '_**Story'**_ and illustrators with '_**Illustration'**_. If a single staff worked on both, use the '_**Story & Illustration'**_ role instead.
+>Examples:
+> - [Hige wo Soru. Soshite Joshikosei wo Hirou.](https://anilist.co/manga/104505/) \(original light novel\)
+> - [No Game No Life](https://anilist.co/manga/78399/) \(original light novel, "Story & Illustration" role\)
+> - [STEINS;GATE: Enkan Rensa no Uroborosu](https://anilist.co/manga/127015/) \(visual novel source\)
+
+Users may add notable manga assiants and selective license staff under staff. Any license staff must have the language they've worked in within parenthesis and follow a same format mentioned in the previous section but with chapters \(ch\(s\)\) and volumes \(vol\(s\)\). 
+
+List of Approved Liscense Staff Roles
+- Translator
+- Touch-up Art & Lettering
+- Touch-up Art
+- Lettering
 
 ::: warning
-For spin-offs and related works undertaken by other authors and artists, you will need to use the _**Original Work**_ or _**Character Design**_ roles. This will almost always apply to anime adaptations.
+For spin-offs and related works undertaken by other authors and artists, you will need to use the _**Original Story**_ or _**Character Design**_ roles. This will almost always apply to anime adaptations.
 
 \(Example: [Chuukan Kanriroku Tonegawa](https://anilist.co/manga/95339/Chuukan-Kanriroku-Tonegawa/)\)
 :::
