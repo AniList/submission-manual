@@ -325,7 +325,7 @@ Example: The series [Himegoto](https://anilist.co/manga/62833/) contains seriali
 :::
 
 ::: tip
-In the case where the original serialization is modified for an entirely new ending, both editions in its entirety may be added to the site.
+In the case where the original serialization is modified for a new ending, both editions in its entirety may be added to the site.
 
 Example: [Shaman King](https://anilist.co/manga/30050/) concluded serialization in 2004 with an improvised ending. A new version with additional chapters and a proper ending were released between 2008 and 2009 under the title [Shaman King Kanzanban](https://anilist.co/manga/42917/). In contrast to MAL, where only the new chapters are in the Kanzanban entry, all chapters \(including one-shots and extras\) and volumes are to be included to the count.
 :::
