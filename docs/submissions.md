@@ -1014,7 +1014,7 @@ For example, [Princess Tutu](https://anilist.co/anime/721/Princess-Tutu/) is oft
 
 #### Manga
 
-In terms of manga, for staff, credit writers with '_**Story'**_ and illustrators with '_**Art'**_. If a creator is both, credit them with '_**Story and Art'**_. Some exceptions may apply depending on the source material.
+In terms of manga, for staff, credit writers with '_**Story'**_ and illustrators with '_**Art'**_. If a creator is both, credit them with '_**Story & Art'**_. Some exceptions may apply depending on the source material.
 
 Staff from novel, light novel, and webnovel manga adaptations are most commonly credited as the following: '_**Story & Art'**_, '_**Original Story'**_ and '_**Character Design'**_. An exception is made for Korean novel and webnovel manga adaptations, where the original illustrator is credited with '_**Original Character Design'**_ instead.
 > Examples:
