@@ -1025,7 +1025,7 @@ Staff from novel, light novel, and webnovel manga adaptations are most commonly 
 
 Staff from video games, visual novel, film and other projects, where a single individual, company or team are credited for the source material, are most commonly credited as the following: '_**Story & Art'**_ and '_**Original Creator'**_. Any notable directors and character designers may be credited with the '_**Original Story'**_ and '_**Character Design'**_ roles instead if they are said roles for the entirety of the project.
 > Exmaples:
-> - [Princess Connect! Re:Dive](https://anilist.co/manga/123911/) \(video game source, compamy as original creator\)
+> - [Princess Connect! Re:Dive](https://anilist.co/manga/123911/) \(video game source, company as original creator\)
 > - [Drag-on Dragoon: Judgement](https://anilist.co/manga/133525/) \(video game source, notable director as original story\)
 > - [Kimi ga Shine: Tasuuketsu Death Ga](https://anilist.co/manga/111205/) \(visual novel source, individual as original creator\)
 > - [Heart no Kuni no Alice: Wonderful Wonder World](https://anilist.co/manga/41516/) \(visual novel source, company as original creator\)
