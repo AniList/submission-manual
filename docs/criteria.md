@@ -482,7 +482,7 @@ See [Light Novel Labels](./criteria.html#light-novel-labels) for a complete list
 :::
 
 ::: warning
-Tokuten \(bonus booklets and such\) will not be added to the database.
+Tokuten \(bonus booklets and such\) will not be added to the database, however, an exception is made for manga.
 :::
 
 Web novels from Japanese self-publishing websites such as [Syosetu](http://syosetu.com) are _**not**_ allowed.
