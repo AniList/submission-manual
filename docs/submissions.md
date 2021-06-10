@@ -278,7 +278,7 @@ Count does include things such as ‘side’ chapters \(Example: Chapter 5.5\), 
 In the case of there being extra chapters outside of the main chapter count, a note should be created at the bottom of the description mentioning how many there are, and they should all be labeled extra chapters regardless of whether they were bonuses, side chapters, etc. 
 
 ::: tip
-Bonus chapters are often referred as 番外編 \(_Bangaihen_\) and 書き下ろし \(_Kakioroshi_\) in the table of contents.
+Bonus chapters are often referred as 番外編 \(_Bangaihen_\), 書き下ろし \(_Kakioroshi_\) and おまけ \(_omake_\) in the table of contents.
 :::
 
 If a manga does not have any kind of chapter numbering/division, the entry should be marked as having **_one chapter_** (Example: [Shin Taketori Monogatari: 1000-nen Joou](https://anilist.co/manga/112189/Shin-Taketori-Monogatari-1000nen-Joou/)) and a note should be added at the bottom clarifying this.
