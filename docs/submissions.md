@@ -1036,7 +1036,7 @@ In terms of light novels, in order to distinct manga artists from illustrators, 
 > - [No Game No Life](https://anilist.co/manga/78399/) \(original light novel, "Story & Illustration" role\)
 > - [STEINS;GATE: Enkan Rensa no Uroborosu](https://anilist.co/manga/127015/) \(visual novel source\)
 
-Users may add notable manga assiants and selective license staff under staff. Any license staff must have the language they've worked in within parenthesis and follow a same format mentioned in the previous section but with chapters \(ch\(s\)\) and volumes \(vol\(s\)\). 
+Users may add notable manga assistants and selective license staff roles. Any license staff must have the language they've worked in within parenthesis and follow a same format mentioned in the previous section but with chapters \(ch\(s\)\) and volumes \(vol\(s\)\). 
 
 List of Approved Liscense Staff Roles
 - Translator
