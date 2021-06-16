@@ -734,7 +734,6 @@ The romanization of Japanese names and titles is done in a variation of [Traditi
 * Alternate spellings advocated by the creator(s) of the work are applied, if required.
 * Macrons are _**not**_ used.  
 * Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\).  
-* Alternate spellings advocated by the creator\(s\) of the work are applied, if required.  
 * Things such as 'っち', 'っちゃ', and 'っちょ' are romanized as 'cchi', 'ccha', and 'ccho' respectively. This is opposed to the traditional 'tchi', 'tcha', and 'tcho'.  
 * 'を' is written as 'wo'.
 * 'ん' is always written as 'n'.  
