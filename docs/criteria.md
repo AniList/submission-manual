@@ -731,14 +731,21 @@ There should be _consistent_ formatting when converting from and/or using native
 
 The romanization of Japanese names and titles is done in a variation of [Traditional Hepburn](https://en.wikipedia.org/wiki/Hepburn_romanization#Variants).
 
+* Alternate spellings advocated by the creator(s) of the work are applied, if required.
 * Macrons are _**not**_ used.  
 * Loanwords are written properly in their respective languages  \(Example: _Maid_ instead of _Meido_\).  
-* Alternate spellings advocated by the creator\(s\) of the work are applied, if required.  
 * Things such as 'っち', 'っちゃ', and 'っちょ' are romanized as 'cchi', 'ccha', and 'ccho' respectively. This is opposed to the traditional 'tchi', 'tcha', and 'tcho'.  
 * 'を' is written as 'wo'.
 * 'ん' is always written as 'n'.  
+* 'じゃない' is written as 'ja Nai'.
+* Particles are _**never**_ capitalized. 
+* Honorific prefixes such as 'O' \(お\) and 'Go' \(ご\) must be written as part of the noun without the use of a dash. \(Example: お山 and ご注文 are written as *Oyama* and *Gochuumon*.\)
+* Suffixes and honorific suffixes must be written as part of the noun with the use of a dash. \(Example: 宮本君 and 王子さま are written as *Miyamoto-kun* and *Ouji-sama*.\).
+* * Nouns that includes the suffix 'tachi' \(たち/達\), where it’s used to make a noun plural, are written as a single word without the inclusion of a dash \(Example: 私たち is written as *Watashitachi*.\)
 * Words adopted into English are written in that standard  \(Example: _Tokyo_ and _Osaka_ instead of _Toukyou_ and _Oosaka_ respectively\).  
 * Full-width punctuation should _**always**_ be converted to half-width or equivalent. \(。to . , ！to ! , ？to ?\)
+* If no particles are present between a noun and a verb, they must be written as two separate words. This is most common with ~suru verbs. \(Example: 結婚する and 転生したら are written as *Kekkon Suru* and *Tensei Shitara*.\)
+* * An exception is made towards all forms of Aisuru \(愛する\) and Koisuru \(恋する\), where both words are most commonly written as a single word.
 
 Examples:
 
