@@ -963,7 +963,7 @@ The following is a compilation of light novel labels approved by the AniList sta
 
 ### General Labels
 
-| Label Name (Romaji) | Native Name (Native) | Publisher Name | Comments | 
+| Label Name (Romaji) | Label Name (Native) | Publisher Name | Comments | 
 | :--- | :--- | :-- | :-- |
 | Alpha Light Bunko | アルファライト文庫 | Alphapolis |  |
 | Arian Rose | アリアンローズ | Frontier Works |  |
