@@ -70,15 +70,15 @@ However, please don't give them a title and expect them to do all the work for y
 | [Troy121](https://anilist.co/user/120802) | Anime |
 | [Devil](https://anilist.co/user/151580) | Anime |
 | [Flueckli](https://anilist.co/user/225419) | Anime |
-| [breathesunshine](https://anilist.co/user/162489) | Anime |
+| [hinoiri](https://anilist.co/user/162489) | Anime |
 | [Crackler](https://anilist.co/user/207737) | Anime |
 | [Basenji](https://anilist.co/user/189170) | Anime |
-| [Oli06](https://anilist.co/user/291651) | Anime |
+| [oli06](https://anilist.co/user/291651) | Anime |
 | [hoshino](https://anilist.co/user/683581) | Anime |
 | [Aqota](https://anilist.co/user/140433) | Anime |
 | [robii](https://anilist.co/user/547668) | Anime |
 | [SMatarratas](https://anilist.co/user/487313/) | Anime |
-| [byDexx115](https://anilist.co/user/323812) | Anime |
+| [Dexx115](https://anilist.co/user/323812) | Anime |
 | [slysake](https://anilist.co/user/453269) | Anime |
  
 #### Manga
