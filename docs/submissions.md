@@ -199,7 +199,7 @@ For works such as one-shots, standalone movies, and anthologies, both the start 
 
 Provide the source that the work was adapted from.
 
-The available options are: _**Original, Anime, Manga, Light Novel, Novel, Doujinshi, Visual Novel, Video Game, Other.**_
+The available options are: _**Original, Anime, Manga, Light Novel, Web Novel, Novel, Doujinshi, Visual Novel, Video Game, Comic, Game, Live Action, Multimedia Project, Picture Book, Other.**_
 
 Like [relations](./submissions.html#relations), sources will almost always all branch off of a single entry.
 
@@ -209,10 +209,16 @@ Like [relations](./submissions.html#relations), sources will almost always all b
 | Anime | The work was adapted from anime. |
 | Manga | The work was adapted from manga. |
 | Light Novel | The work was adapted from a light novel. |
+| Web Novel | The work was adapted from a web novel. |
 | Novel | The work was adapted from a novel. |
 | Doujinshi | The work was adapted from a doujinshi. |
 | Visual Novel | The work was adapted from a visual novel. |
 | Video Game | The work was adapted from a video game. |
+| Comic | The work was adapted from a comic. |
+| Game | The work was adapted from a game. |
+| Live Action | The work was adapted from a live action. |
+| Multimedia Project | The work was adapted from a multimedia project. |
+| Picture Book | The work was adapted from a picture book. |
 | Other | The work was adapted from another form of media. |
 
 Example:
