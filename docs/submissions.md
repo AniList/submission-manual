@@ -219,7 +219,7 @@ Like [relations](./submissions.html#relations), sources will almost always all b
 | Live Action | The work was adapted from a live action. |
 | Multimedia Project | The work was adapted from a multimedia project. |
 | Picture Book | The work was adapted from a picture book. |
-| Other | The work was adapted from another form of media. |
+| Other | The work was adapted from another form of media. 
 
 Example:
 
